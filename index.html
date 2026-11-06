@@ -343,12 +343,24 @@ tr.click{cursor:pointer}tr.click:hover td{background:color-mix(in srgb,var(--bra
 .phead{display:grid;grid-template-columns:minmax(200px,2.4fr) 1.3fr .9fr .9fr .9fr;gap:10px;padding:0 13px 2px;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
 .pgroup{font-family:var(--display);font-size:13px;color:var(--gold);letter-spacing:.03em;margin:10px 2px 2px}
 @media (max-width:760px){
-  .phead{display:none}
-  .prow{grid-template-columns:repeat(4,minmax(0,1fr));gap:8px 10px;padding:11px 12px}
-  .prow .c.who{grid-column:1 / -1}
-  .prow .c small{display:block}
-  .prow .c.roleC,.prow .c.verd{grid-column:span 2}
-  .prow .c.lgC{grid-column:span 1}.prow .c.lgC .pln{white-space:nowrap;overflow-wrap:normal}
+  /* телефон: одна строка на игрока — ратуша+имя | лига | отдал | получил */
+  .phead{display:grid;grid-template-columns:minmax(0,1fr) 40px 54px 54px;gap:6px;padding:0 10px 2px;font-size:10px}
+  .phead span:nth-child(2){display:none}
+  .phead span:nth-child(n+3){text-align:center}
+  .prow{grid-template-columns:minmax(0,1fr) 40px 54px 54px;gap:6px;padding:7px 10px;border-radius:12px}
+  .prow .c.roleC{display:none}
+  .prow .c small{display:none}
+  .prow .c{font-size:13px;text-align:center}
+  .prow .c.who{text-align:left}
+  .prow .c.who .thi{width:32px;height:32px}
+  .prow .c.who .thi b{min-width:14px;height:14px;font-size:9px}
+  .prow .nm{font-size:14px;line-height:1.2;display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;overflow-wrap:normal}
+  .prow .tg{font-size:10px}
+  .prow .c.lgC .plg{width:32px;height:32px}
+  .prow .c.lgC .plg b{font-size:8px;min-width:13px;height:12px;right:-4px;bottom:-3px}
+  .plist{gap:4px}
+  .prow .who .txt{overflow:hidden}
+  .prow .ice{display:inline-block;max-width:100%;margin:2px 0 0;padding:1px 6px;font-size:9px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 }
 
 /* legends */
