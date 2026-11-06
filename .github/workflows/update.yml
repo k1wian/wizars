@@ -2,7 +2,7 @@ name: Обновление данных и сайта
 
 on:
   schedule:
-    - cron: "17 * * * *"   # каждый час
+    - cron: "*/5 * * * *"   # каждые 5 минут (чаще GitHub не разрешает)
   workflow_dispatch:
   push:
     branches: [main]
@@ -20,8 +20,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      name: ${{ github.event_name != 'schedule' && 'github-pages' || 'data' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -41,9 +40,13 @@ jobs:
           git add data state
           git diff --cached --quiet || git commit -m "Данные $(TZ=Europe/Zurich date '+%d.%m %H:%M')"
           git push || (git pull --rebase && git push)
+      # сайт пересобираем только при изменении кода; данные страница берёт прямо из репозитория
       - uses: actions/configure-pages@v5
+        if: github.event_name != 'schedule'
       - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'schedule'
         with:
           path: .
       - id: deploy
+        if: github.event_name != 'schedule'
         uses: actions/deploy-pages@v4

@@ -423,7 +423,7 @@ details.how b{color:var(--ink)}
       if (!r.ok) return; DATA = await r.json();
       subs.forEach(([n, cb]) => { try { cb({docs: docsOf(n)}); } catch (e) {} }); } catch (e) {}
   }
-  const ready = load(); setInterval(load, 5 * 60 * 1000);
+  const ready = load(); setInterval(load, 2 * 60 * 1000);
   document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
   const db = {
     collection: n => ({onSnapshot(cb) { subs.push([n, cb]); ready.then(() => cb({docs: docsOf(n)})); return () => {}; }}),

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Собирает данные клана и пишет data/db.json для сайта.
 
-Запускается раз в час из GitHub Actions. Ключ API берётся из COC_API_TOKEN,
+Запускается каждые 5 минут из GitHub Actions. Ключ API берётся из COC_API_TOKEN,
 запросы идут через прокси RoyaleAPI (COC_API_BASE), поэтому у ключа один
 постоянный IP: 45.79.218.79.
 """
