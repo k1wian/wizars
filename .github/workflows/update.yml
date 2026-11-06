@@ -1,52 +1,45 @@
-name: Обновление данных и сайта
+name: Данные клана (прямой эфир)
 
+# Каждые 30 минут запускается задача, которая ~27 минут подряд обновляет
+# данные каждые 2 минуты. Так обновления идут почти непрерывно, даже если
+# GitHub запускает расписание с опозданием.
 on:
   schedule:
-    - cron: "*/5 * * * *"   # каждые 5 минут (чаще GitHub не разрешает)
+    - cron: "*/30 * * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: site
+  group: data
   cancel-in-progress: false
 
 jobs:
-  update:
+  live:
     runs-on: ubuntu-latest
-    environment:
-      name: ${{ github.event_name != 'schedule' && 'github-pages' || 'data' }}
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Собрать данные клана
-        if: github.event_name != 'push'
+      - name: Обновлять данные каждые 2 минуты
         env:
           COC_API_TOKEN: ${{ secrets.COC_API_TOKEN }}
           TZ: Europe/Zurich
-        run: python scripts/update.py
-      - name: Сохранить данные в репозиторий
-        if: github.event_name != 'push'
         run: |
           git config user.name "wizars-bot"
           git config user.email "wizars-bot@users.noreply.github.com"
-          git add data state
-          git diff --cached --quiet || git commit -m "Данные $(TZ=Europe/Zurich date '+%d.%m %H:%M')"
-          git push || (git pull --rebase && git push)
-      # сайт пересобираем только при изменении кода; данные страница берёт прямо из репозитория
-      - uses: actions/configure-pages@v5
-        if: github.event_name != 'schedule'
-      - uses: actions/upload-pages-artifact@v3
-        if: github.event_name != 'schedule'
-        with:
-          path: .
-      - id: deploy
-        if: github.event_name != 'schedule'
-        uses: actions/deploy-pages@v4
+          end=$(( $(date +%s) + 27*60 ))
+          while :; do
+            python scripts/update.py || echo "обновление не удалось, пробую дальше"
+            git add data state
+            if ! git diff --cached --quiet; then
+              git commit -q -m "Данные $(date '+%d.%m %H:%M')"
+              git pull -q --rebase -X ours || true
+              git push -q || echo "push не прошёл"
+            fi
+            [ $(( $(date +%s) + 120 )) -ge $end ] && break
+            sleep 120
+          done
