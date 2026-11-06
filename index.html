@@ -415,7 +415,12 @@ details.how b{color:var(--ink)}
   const subs = [];
   const docsOf = n => Object.entries(DATA[n] || {}).map(([id, v]) => ({id, exists: true, data: () => v}));
   async function load() {
-    try { const r = await fetch("data/db.json?t=" + Date.now(), {cache: "no-store"}); if (!r.ok) return; DATA = await r.json();
+    try {
+      // сначала прямо из репозитория (свежо сразу после обновления), иначе — копия сайта
+      let r = null;
+      try { r = await fetch("https://api.github.com/repos/k1wian/wizars/contents/data/db.json?ref=main", {headers: {Accept: "application/vnd.github.raw"}, cache: "no-store"}); } catch (e) {}
+      if (!r || !r.ok) r = await fetch("data/db.json?t=" + Date.now(), {cache: "no-store"});
+      if (!r.ok) return; DATA = await r.json();
       subs.forEach(([n, cb]) => { try { cb({docs: docsOf(n)}); } catch (e) {} }); } catch (e) {}
   }
   const ready = load(); setInterval(load, 5 * 60 * 1000);
