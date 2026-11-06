@@ -196,13 +196,13 @@
    "name": "GAS",
    "values": {
     "donations": 416,
-    "donationsReceived": 1518,
+    "donationsReceived": 1568,
     "trophies": 293,
     "builderBaseTrophies": 3097,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-06T17:22:10.633047+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -551,7 +551,19 @@
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
    "last_change": "2026-11-06T17:02:07.539463+00:00"
+  },
+  "#R28URLR": {
+   "name": "Legenda 97",
+   "values": {
+    "donations": 50,
+    "donationsReceived": 0,
+    "trophies": 29,
+    "builderBaseTrophies": 4043,
+    "expLevel": 225
+   },
+   "first_seen": "2026-11-06T17:22:10.633047+00:00",
+   "last_change": "2026-11-06T17:22:10.633047+00:00"
   }
  },
- "updated": "2026-11-06T17:20:03.415527+00:00"
+ "updated": "2026-11-06T17:22:10.795709+00:00"
 }
