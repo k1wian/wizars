@@ -511,10 +511,10 @@
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 1052,
-    "expLevel": 97
+    "expLevel": 98
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-06T19:34:43.459208+00:00"
   },
   "#GC0UJR2GP": {
    "name": "DeMoN",
@@ -565,5 +565,5 @@
    "last_change": "2026-11-06T18:19:08.440616+00:00"
   }
  },
- "updated": "2026-11-06T19:32:37.033505+00:00"
+ "updated": "2026-11-06T19:34:43.631616+00:00"
 }
