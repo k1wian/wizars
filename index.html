@@ -842,13 +842,22 @@ details.how b{color:var(--ink)}
       });
       events.push({ws: weekStart(d.at), type: "war", per, live});
     });
-    docs.filter(d => d.id.startsWith("raid-")).forEach(d => {
+    // рейды: один документ на выходные; пока идут — плюсы за проведённые атаки, минусы — по итогам
+    const raidBy = {};
+    docs.filter(d => d.id.startsWith("raid-")).forEach(d => { const k = (d.md.split("\n")[0] || "").replace(/\s*\((идут|завершены)\)\s*$/, "");
+      if (!raidBy[k] || /\(завершены\)/.test(d.md.split("\n")[0]) && !/\(завершены\)/.test(raidBy[k].md.split("\n")[0]) || (d.at || 0) > (raidBy[k].at || 0) && /\(завершены\)/.test(d.md.split("\n")[0]) === /\(завершены\)/.test(raidBy[k].md.split("\n")[0])) raidBy[k] = d; });
+    const lr = state.raids;
+    if (lr && lr.kind === "ok" && /\(идут\)/.test(lr.md.split("\n")[0])) { const k = lr.md.split("\n")[0].replace(/\s*\((идут|завершены)\)\s*$/, ""); if (!raidBy[k] || !/\(завершены\)/.test(raidBy[k].md.split("\n")[0])) raidBy[k] = {md: lr.md, at: lr.at}; }
+    Object.values(raidBy).forEach(d => {
+      const live = /\(идут\)/.test(d.md.split("\n")[0]);
       const t = parseTables(d.md)[0]; const per = {};
       if (t) { const n = t.headers.indexOf("Игрок"), a = t.headers.indexOf("Атаки"), l = t.headers.indexOf("Добыча");
-        t.rows.forEach(row => { const rs = raidScore(row[a], +row[l] || 0); if (rs) per[norm(row[n])] = {name: row[n], pts: toPlus(rs.pts, -2)}; }); }
-      const miss = /Не участвовали[^:]*:\*\*\s*(.+)/.exec(d.md);
-      if (miss) miss[1].split(",").map(x => x.trim()).filter(Boolean).forEach(x => per[norm(x)] = {name: x, pts: -2});
-      events.push({ws: weekStart(raidStart(d.md) || d.at), type: "raid", per});
+        t.rows.forEach(row => { const rs = raidScore(row[a], +row[l] || 0); if (!rs) return;
+          if (live) { const f = frac(row[a]) || [0, 6]; if (f[0] > 0) per[norm(row[n])] = {name: row[n], pts: f[0] >= f[1] ? toPlus(rs.pts, -2) : Math.max(1, rs.pts)}; }
+          else per[norm(row[n])] = {name: row[n], pts: toPlus(rs.pts, -2)}; }); }
+      if (!live) { const miss = /Не участвовали[^:]*:\*\*\s*(.+)/.exec(d.md);
+        if (miss) miss[1].split(",").map(x => x.trim()).filter(Boolean).forEach(x => per[norm(x)] = {name: x, pts: -2}); }
+      events.push({ws: weekStart(raidStart(d.md) || d.at), type: "raid", per, live});
     });
     // одна запись на сезон ЛВК: берём самый свежий снимок сезона (подготовка не считается)
     const bySeason = {};
@@ -1476,9 +1485,9 @@ details.how b{color:var(--ink)}
     const evs = R.events.filter(e => isAll || e.ws === ui.ratingWeek);
     const counts = {war: evs.filter(e => e.type === "war").length, raid: evs.filter(e => e.type === "raid").length, cwl: evs.filter(e => e.type === "cwl").length};
     const showCwl = isAll || counts.cwl > 0, showWar = isAll || counts.cwl === 0;
-    const liveWar = evs.some(e => e.live && e.type === "war"), liveCwl = evs.some(e => e.live && e.type === "cwl");
+    const liveWar = evs.some(e => e.live && e.type === "war"), liveCwl = evs.some(e => e.live && e.type === "cwl"), liveRaid = evs.some(e => e.live && e.type === "raid");
     v.append(card(isAll ? "Общий рейтинг" : "Неделя " + wkNum(ui.ratingWeek) + " · " + wkLabel(ui.ratingWeek),
-      (isAll ? "сумма баллов за все недели" : "свой рейтинг недели: баллы с нуля") + (liveWar || liveCwl ? " · идёт " + (liveWar ? "КВ" : "ЛВК") + ", баллы обновляются каждый час" : ""),
+      (isAll ? "сумма баллов за все недели" : "свой рейтинг недели: баллы с нуля") + (liveWar || liveCwl || liveRaid ? " · идут " + [liveWar ? "КВ" : "", liveCwl ? "ЛВК" : "", liveRaid ? "рейды" : ""].filter(Boolean).join(", ") + " — баллы обновляются каждый час" : ""),
       h("div", {class: "chips", style: "margin-bottom:12px"}, chip("войн " + counts.war), chip("рейдов " + counts.raid), chip("ЛВК " + counts.cwl),
         chip("топ-15 — зелёные", "good"), chip("в минусе " + rows.filter(r => score(r) < 0).length, "bad")),
       table([{t: "#", r: 1}, {t: "Игрок"}, {t: "Звание"}, {t: "Отдал", r: 1}, {t: "Донаты", r: 1}].concat(showWar ? [{t: "КВ", r: 1}] : [], showCwl ? [{t: "ЛВК", r: 1}] : [], [{t: "Рейды", r: 1}], [{t: isAll ? "Всего" : "Итого", r: 1}]),

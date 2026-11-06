@@ -110,8 +110,10 @@ def main() -> int:
             elif w12 and not w12.get("final12"):
                 w12["final12"] = True
     raids = res["raids"]
-    if kinds["raids"] == "ok" and "(завершены)" in raids.split("\n")[0]:
-        put("raid-" + md5(raids.split("\n")[0]), raids)
+    if kinds["raids"] == "ok" and re.search(r"\((завершены|идут)\)", raids.split("\n")[0]):
+        # ключ по датам выходных: идущие рейды и итог — один документ
+        key = raids.split("\n")[0].replace("(идут)", "(завершены)")
+        put("raid-" + md5(key), raids)
     cwl = res["cwl"]
     if kinds["cwl"] == "ok" and "|" in cwl:
         put("cwl-" + md5(cwl.split("\n")[0]), cwl)
