@@ -111,14 +111,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 1222,
+    "donations": 1304,
     "donationsReceived": 2142,
     "trophies": 628,
     "builderBaseTrophies": 3527,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T19:26:14.238598+00:00"
+   "last_change": "2026-11-06T20:24:51.736685+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -220,13 +220,13 @@
    "name": "mikki",
    "values": {
     "donations": 214,
-    "donationsReceived": 912,
-    "trophies": 311,
+    "donationsReceived": 994,
+    "trophies": 332,
     "builderBaseTrophies": 3260,
     "expLevel": 173
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T18:14:57.137599+00:00"
+   "last_change": "2026-11-06T20:24:51.736685+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -575,7 +575,19 @@
    },
    "first_seen": "2026-11-06T20:16:26.063011+00:00",
    "last_change": "2026-11-06T20:16:26.063011+00:00"
+  },
+  "#2V8G8G8UL": {
+   "name": "ismail argun",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 322,
+    "builderBaseTrophies": 2640,
+    "expLevel": 210
+   },
+   "first_seen": "2026-11-06T20:24:51.736685+00:00",
+   "last_change": "2026-11-06T20:24:51.736685+00:00"
   }
  },
- "updated": "2026-11-06T20:22:46.286544+00:00"
+ "updated": "2026-11-06T20:24:51.865754+00:00"
 }
