@@ -268,7 +268,7 @@ tr.grp td{background:var(--soft)!important;box-shadow:none!important;font-family
 @media (max-width:560px){.hero .badge{width:72px}.h-nums{grid-template-columns:1fr 1fr}.hn.wide{grid-column:1/-1}.lt{padding:10px;gap:8px}.lt .lgi{width:46px;height:46px}.lt-t b{font-size:16px}.rec{gap:12px;flex-wrap:nowrap}.rec b{font-size:20px}.hn > b{font-size:22px}}
 /* player list */
 .plist{display:grid;gap:6px}
-.prow{display:grid;grid-template-columns:minmax(200px,2.2fr) 1.2fr .8fr .8fr .8fr 1.3fr;align-items:center;gap:10px;width:100%;border:1px solid var(--line);background:var(--panel);
+.prow{display:grid;grid-template-columns:minmax(200px,2.4fr) 1.3fr .9fr .9fr .9fr;align-items:center;gap:10px;width:100%;border:1px solid var(--line);background:var(--panel);
   border-radius:14px;padding:9px 12px;text-align:left;transition:border-color .15s,box-shadow .15s}
 .prow:hover{border-color:color-mix(in srgb,var(--gold) 55%,var(--line));box-shadow:0 4px 14px -8px rgba(0,0,0,.25)}
 .prow.good{background:linear-gradient(90deg,var(--good-bg),var(--panel) 70%);border-left:4px solid var(--ok)}
@@ -339,7 +339,7 @@ tr.grp td{background:var(--soft)!important;box-shadow:none!important;font-family
 .plg.lg{width:54px;height:54px}.plg.lg b{min-width:22px;height:19px;font-size:11px}
 .prow .nm{font-weight:600;overflow-wrap:anywhere}
 .prow .tg{display:block;font-family:var(--mono);font-size:11px;color:var(--muted)}
-.phead{display:grid;grid-template-columns:minmax(200px,2.2fr) 1.2fr .8fr .8fr .8fr 1.3fr;gap:10px;padding:0 13px 2px;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.phead{display:grid;grid-template-columns:minmax(200px,2.4fr) 1.3fr .9fr .9fr .9fr;gap:10px;padding:0 13px 2px;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
 .pgroup{font-family:var(--display);font-size:13px;color:var(--gold);letter-spacing:.03em;margin:10px 2px 2px}
 @media (max-width:760px){
   .phead{display:none}
@@ -1114,7 +1114,7 @@ details.how b{color:var(--ink)}
   }
 
   // ---------- PLAYERS ----------
-  const FILTERS = [["all", "Все"], ["lead", "Руководство"], ["elder", "Старейшины"], ["member", "Участники"], ["good", "Полезные"], ["bad", "Бесполезные"], ["zero", "Без донатов"], ["noatt", "Не атаковали"]];
+  const FILTERS = [["all", "Все"], ["lead", "Руководство"], ["elder", "Старейшины"], ["member", "Участники"], ["zero", "Без донатов"], ["noatt", "Не атаковали"]];
   function playerRows() {
     const ro = C.roster; if (!ro) return [];
     const q = norm(ui.q);
@@ -1144,18 +1144,17 @@ details.how b{color:var(--ink)}
   }
   function playersList() {
     const list = playerRows(); if (!list.length) return empty("Никого не нашли", "Поменяйте поиск или фильтр.");
-    const out = [h("div", {class: "phead", "aria-hidden": "true"}, ["Игрок", "Звание", "Лига", "Отдал", "Получил", "Оценка"].map(t => h("span", {}, t)))];
+    const out = [h("div", {class: "phead", "aria-hidden": "true"}, ["Игрок", "Звание", "Лига", "Отдал", "Получил"].map(t => h("span", {}, t)))];
     let last = null;
     list.forEach(p => {
       if (ui.sort === "role" && p.role !== last) { last = p.role; out.push(h("div", {class: "pgroup"}, (ROLE_PLURAL[p.role] || p.role) + " · " + list.filter(x => x.role === p.role).length)); }
       const k = norm(p.name), ex = C.extra[k] || {}, a = accOf(k);
-      out.push(h("button", {class: "prow " + (p.verdict === "mid" ? "" : p.verdict), type: "button", onclick: () => openPlayer(p.name)},
+      out.push(h("button", {class: "prow", type: "button", onclick: () => openPlayer(p.name)},
         h("span", {class: "c who"}, thBadge(p.th), h("span", {class: "txt"}, h("span", {class: "nm"}, p.name), frozenTag(k), h("span", {class: "tg"}, ex.tag || ""))),
         h("span", {class: "c roleC"}, rolePill(p.role)),
         h("span", {class: "c lgC"}, h("small", {}, "лига"), p.league ? h("span", {class: "plw", title: playerLeague(p.league).ru}, plIcon(p.league)) : h("span", {class: "dim"}, p.trophies ? nf(p.trophies) + " 🏆" : "—")),
         h("span", {class: "c"}, h("small", {}, "отдал"), nf(p.given)),
-        h("span", {class: "c"}, h("small", {}, "получил"), nf(p.got)),
-        h("span", {class: "c verd"}, chip({good: "Полезный", mid: "Средний", bad: "Бесполезный"}[p.verdict] + " " + plus(p.score), p.verdict === "mid" ? "" : p.verdict))));
+        h("span", {class: "c"}, h("small", {}, "получил"), nf(p.got))));
     });
     return h("div", {class: "plist"}, out);
   }
@@ -1185,9 +1184,8 @@ details.how b{color:var(--ink)}
     const filters = h("div", {class: "filters"}, FILTERS.map(([id, l]) => h("button", {class: "chip", type: "button", "aria-pressed": String(id === ui.filter),
       onclick: e => { ui.filter = id; filters.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", String(b === e.currentTarget))); redraw(); }}, l)));
     redraw();
-    v.append(card("Игроки", C.roster.players.length + " в клане · " + cnt.good + " полезных · " + cnt.bad + " бесполезных",
-      h("div", {class: "toolbar"}, search, sort), filters, holder,
-      how("Как считается оценка", "<b>Донаты за сезон:</b> от 1500 даёт +2, от 500 даёт +1, меньше 150 даёт −1, ноль даёт −2. <b>Рейды:</b> все атаки и от 25 000 добычи +2, все атаки +1, пропуск или меньше 5 000 −2. <b>КВ:</b> 4–5 баллов за войну +2, 2–3 балла +1, пропуск или ноль звёзд по итогам войны −3. Полезный — от +3, бесполезный — −2 и ниже. <b>Рейтинг</b> — накопленные баллы, как во вкладке «Рейтинг». Нажмите на имя, чтобы открыть карточку игрока.")));
+    v.append(card("Игроки", C.roster.players.length + " в клане",
+      h("div", {class: "toolbar"}, search, sort), filters, holder,));
   }
 
   // ---------- PLAYER CARD ----------
@@ -1320,7 +1318,7 @@ details.how b{color:var(--ink)}
     const k = norm(name), ro = C.roster, p = ro && ro.map[k], ex = C.extra[k] || {};
     const body = $("sheetBody"); body.replaceChildren();
     const chips = [];
-    if (p) { chips.push(rolePill(p.role), chip("Ратуша " + p.th), p.league ? h("span", {class: "lgchip", title: playerLeague(p.league).ru}, plIcon(p.league, true)) : null, ex.exp ? chip("ур. " + ex.exp) : null, chip({good: "Полезный", mid: "Средний", bad: "Бесполезный"}[p.verdict] + " " + plus(p.score), p.verdict === "mid" ? "" : p.verdict)); }
+    if (p) { chips.push(rolePill(p.role), chip("Ратуша " + p.th), p.league ? h("span", {class: "lgchip", title: playerLeague(p.league).ru}, plIcon(p.league, true)) : null, ex.exp ? chip("ур. " + ex.exp) : null); }
     else chips.push(chip("не в клане сейчас", "warn"));
     const f = C.frozen[k];
     if (f) chips.push(chip(`${f.from} → ${f.to} ${ymdToDm(f.date)}, не трогаем до ${ymdToDm(f.until)}`, "warn"));
