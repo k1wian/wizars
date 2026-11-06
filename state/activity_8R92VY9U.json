@@ -63,14 +63,14 @@
   "#G8RC08CGG": {
    "name": "Lancelot",
    "values": {
-    "donations": 170,
+    "donations": 220,
     "donationsReceived": 0,
     "trophies": 641,
     "builderBaseTrophies": 2998,
     "expLevel": 170
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-06T18:19:08.440616+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -112,13 +112,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 1222,
-    "donationsReceived": 2009,
+    "donationsReceived": 2059,
     "trophies": 628,
     "builderBaseTrophies": 3527,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-06T18:19:08.440616+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -558,12 +558,12 @@
     "donations": 100,
     "donationsReceived": 0,
     "trophies": 434,
-    "builderBaseTrophies": 4019,
+    "builderBaseTrophies": 4028,
     "expLevel": 225
    },
    "first_seen": "2026-11-06T17:22:10.633047+00:00",
-   "last_change": "2026-11-06T18:17:02.817784+00:00"
+   "last_change": "2026-11-06T18:19:08.440616+00:00"
   }
  },
- "updated": "2026-11-06T18:17:02.992387+00:00"
+ "updated": "2026-11-06T18:19:08.637471+00:00"
 }
