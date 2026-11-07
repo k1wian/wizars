@@ -221,13 +221,13 @@
    "name": "mikki",
    "values": {
     "donations": 269,
-    "donationsReceived": 1157,
-    "trophies": 391,
+    "donationsReceived": 1240,
+    "trophies": 402,
     "builderBaseTrophies": 3306,
     "expLevel": 173
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T16:36:35.995712+00:00"
+   "last_change": "2026-11-07T16:47:17.790815+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -364,14 +364,14 @@
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
    "values": {
-    "donations": 153,
+    "donations": 236,
     "donationsReceived": 0,
     "trophies": 25,
     "builderBaseTrophies": 1129,
     "expLevel": 166
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T16:45:09.681676+00:00"
+   "last_change": "2026-11-07T16:47:17.790815+00:00"
   },
   "#LG2LULGQJ": {
    "name": "Enot1k",
@@ -605,5 +605,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-07T16:45:09.900027+00:00"
+ "updated": "2026-11-07T16:47:17.948945+00:00"
 }
