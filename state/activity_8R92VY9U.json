@@ -99,14 +99,14 @@
   "#9PR09PCV": {
    "name": "шах",
    "values": {
-    "donations": 277,
+    "donations": 452,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3402,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:17:56.131169+00:00"
+   "last_change": "2026-11-07T08:45:25.943352+00:00"
   },
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
@@ -268,13 +268,13 @@
    "name": "Sənan",
    "values": {
     "donations": 378,
-    "donationsReceived": 970,
+    "donationsReceived": 1082,
     "trophies": 447,
     "builderBaseTrophies": 3184,
     "expLevel": 168
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-07T08:45:25.943352+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -411,14 +411,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 1843,
-    "donationsReceived": 4155,
+    "donations": 1954,
+    "donationsReceived": 4329,
     "trophies": 496,
     "builderBaseTrophies": 3588,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T07:54:37.216785+00:00"
+   "last_change": "2026-11-07T08:45:25.943352+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -545,12 +545,12 @@
    "values": {
     "donations": 2,
     "donationsReceived": 183,
-    "trophies": 80,
+    "trophies": 100,
     "builderBaseTrophies": 2504,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T06:48:08.320440+00:00"
+   "last_change": "2026-11-07T08:45:25.943352+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -590,5 +590,5 @@
    "left_at": "2026-11-06T20:26:57.069977+00:00"
   }
  },
- "updated": "2026-11-07T08:20:24.093028+00:00"
+ "updated": "2026-11-07T08:45:26.057610+00:00"
 }
