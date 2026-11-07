@@ -3,14 +3,14 @@
   "#2CQLJR0QG": {
    "name": "Pt.Экзорцист♡™",
    "values": {
-    "donations": 275,
+    "donations": 325,
     "donationsReceived": 85,
     "trophies": 0,
     "builderBaseTrophies": 3194,
     "expLevel": 244
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T13:45:06.269184+00:00"
+   "last_change": "2026-11-07T15:30:26.340253+00:00"
   },
   "#29JGGU8J2": {
    "name": "DiMoN",
@@ -79,11 +79,11 @@
     "donations": 642,
     "donationsReceived": 916,
     "trophies": 474,
-    "builderBaseTrophies": 3112,
+    "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T14:00:02.981128+00:00"
+   "last_change": "2026-11-07T15:30:26.340253+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -172,14 +172,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 343,
+    "donations": 376,
     "donationsReceived": 986,
-    "trophies": 208,
+    "trophies": 218,
     "builderBaseTrophies": 3788,
     "expLevel": 186
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T12:47:25.228866+00:00"
+   "last_change": "2026-11-07T15:30:26.340253+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -197,13 +197,13 @@
    "name": "GAS",
    "values": {
     "donations": 416,
-    "donationsReceived": 1733,
+    "donationsReceived": 1929,
     "trophies": 297,
     "builderBaseTrophies": 3097,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T12:40:54.870637+00:00"
+   "last_change": "2026-11-07T15:30:26.340253+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -352,26 +352,26 @@
   "#YYVYCLLG9": {
    "name": "ЧaPoДeЙ",
    "values": {
-    "donations": 204,
+    "donations": 287,
     "donationsReceived": 0,
     "trophies": 99,
     "builderBaseTrophies": 1695,
     "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T07:54:37.216785+00:00"
+   "last_change": "2026-11-07T15:30:26.340253+00:00"
   },
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
    "values": {
-    "donations": 88,
+    "donations": 118,
     "donationsReceived": 0,
     "trophies": 25,
     "builderBaseTrophies": 1129,
     "expLevel": 166
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-07T15:30:26.340253+00:00"
   },
   "#LG2LULGQJ": {
    "name": "Enot1k",
@@ -395,7 +395,8 @@
     "expLevel": 110
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T13:45:06.269184+00:00"
+   "last_change": "2026-11-07T13:45:06.269184+00:00",
+   "left_at": "2026-11-07T15:30:26.340253+00:00"
   },
   "#9YVC9CUQR": {
    "name": "Z7 O1zhas",
@@ -604,5 +605,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-07T15:02:38.751325+00:00"
+ "updated": "2026-11-07T15:30:26.682036+00:00"
 }
