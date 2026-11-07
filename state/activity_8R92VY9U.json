@@ -223,11 +223,11 @@
     "donations": 214,
     "donationsReceived": 1074,
     "trophies": 332,
-    "builderBaseTrophies": 3294,
+    "builderBaseTrophies": 3306,
     "expLevel": 173
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T15:45:27.361778+00:00"
+   "last_change": "2026-11-07T16:32:18.736788+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -414,13 +414,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 1984,
-    "donationsReceived": 4619,
+    "donationsReceived": 4735,
     "trophies": 496,
     "builderBaseTrophies": 3588,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T12:47:25.228866+00:00"
+   "last_change": "2026-11-07T16:32:18.736788+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -449,14 +449,14 @@
   "#2LYVVJGJR": {
    "name": "$DiMoN$",
    "values": {
-    "donations": 116,
+    "donations": 174,
     "donationsReceived": 0,
     "trophies": 10,
     "builderBaseTrophies": 1138,
     "expLevel": 139
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-07T16:32:18.736788+00:00"
   },
   "#8JJ8Q2GJJ": {
    "name": "Pt.urchick",
@@ -498,14 +498,14 @@
   "#GCL2GPQC2": {
    "name": "Қазақ",
    "values": {
-    "donations": 491,
+    "donations": 549,
     "donationsReceived": 264,
     "trophies": 0,
     "builderBaseTrophies": 2653,
     "expLevel": 192
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T23:11:55.921436+00:00"
+   "last_change": "2026-11-07T16:32:18.736788+00:00"
   },
   "#YLLGJYQ9V": {
    "name": "drakoslik",
@@ -605,5 +605,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-07T15:56:16.805515+00:00"
+ "updated": "2026-11-07T16:32:18.897764+00:00"
 }
