@@ -359,6 +359,20 @@ tr.click{cursor:pointer}tr.click:hover td{background:color-mix(in srgb,var(--bra
   .prow .c.lgC .plg{width:32px;height:32px}
   .prow .c.lgC .plg b{font-size:8px;min-width:13px;height:12px;right:-4px;bottom:-3px}
   .plist{gap:4px}
+  /* таблицы на телефоне: без лишних колонок и в ширину экрана */
+  .tbl th.hm,.tbl td.hm{display:none}
+  .tbl table{min-width:0!important;width:100%}
+  .tbl th,.tbl td{padding:7px 5px;font-size:12.5px}
+  .tbl th{font-size:9.5px;letter-spacing:0}
+  .card{padding-left:12px;padding-right:12px}
+  .tbl th,.tbl td{padding-left:4px;padding-right:4px}
+  .tbl td{white-space:normal;word-break:normal}.tbl td.r,.tbl td.num{white-space:nowrap}
+  .tbl th{white-space:normal}
+  .tbl .thi{width:26px;height:26px}.tbl .thi b{min-width:13px;height:13px;font-size:8px;right:-3px;bottom:-2px}
+  .tbl .who{gap:6px}.tbl .who .txt{overflow:hidden}.tbl .who .txt > :first-child{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block;max-width:34vw}
+  .tbl .who small{display:none}
+  .tbl .role{font-size:10px;padding:2px 6px}
+  .tbl .lkt{display:none}
   .prow .who .txt{overflow:hidden}
   .prow .ice{display:inline-block;max-width:100%;margin:2px 0 0;padding:1px 6px;font-size:9px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 }
@@ -563,7 +577,7 @@ details.how b{color:var(--ink)}
     d.style.setProperty("--b", 'url("' + src + '")'); return d; };
   function table(cols, rows) {
     return h("div", {class: "tbl"}, h("table", {},
-      h("thead", {}, h("tr", {}, cols.map(c => h("th", {class: c.r ? "r" : null}, c.t)))),
+      h("thead", {}, h("tr", {}, cols.map(c => h("th", {class: [c.r ? "r" : "", c.cls || ""].join(" ").trim() || null}, c.t)))),
       h("tbody", {}, rows.map(r => r.group ? h("tr", {class: "grp"}, h("td", {colspan: cols.length}, r.group))
         : h("tr", {class: ((r.cls || "") + (r.onclick ? " click" : "")).trim() || null, onclick: r.onclick || null, tabindex: r.onclick ? "0" : null}, r.cells.map((c, i) => {
           const o = (c && typeof c === "object" && !(c instanceof Node)) ? c : {v: c};
@@ -1111,7 +1125,7 @@ details.how b{color:var(--ink)}
     v.append(h("div", {class: "grid2"}, warSummaryCard(), att));
     const top = C.ranked.slice(0, 5);
     const topCard = card("Рейтинг · неделя " + wkNum(C.R.cur), "накопленные баллы",
-      top.length ? table([{t: "#", r: 1}, {t: "Игрок"}, {t: "Звание"}, {t: "Всего", r: 1}],
+      top.length ? table([{t: "#", r: 1}, {t: "Игрок"}, {t: "Звание", cls: "hm"}, {t: "Всего", r: 1}],
         top.map((x, i) => ({cells: [{v: i + 1, cls: "rank"}, pl(x.p.name), rolePill(x.p.role), {v: plus(x.t), cls: "num " + signCls(x.t)}]}))) : empty("Пока пусто"),
       h("div", {style: "margin-top:10px"}, h("button", {class: "link", type: "button", onclick: () => setView("rating")}, "Весь рейтинг →")));
     const note = C.notes[0];
@@ -1411,7 +1425,7 @@ details.how b{color:var(--ink)}
         {v: x.pos, cls: "dim"}, pl(x.name, null, x.th), x.used + "/" + x.max,
         {v: x.results.length ? x.results.map(y => `№${y.pos}: ${y.stars}⭐ ${y.pct}%`).join(", ") : "—", cls: "dim"},
         {v: x.used ? x.stars + "⭐" : "—", cls: "num"}, {v: x.ws ? x.ws.pts : 0, cls: "num"}]}));
-      body.append(h("h3", {class: "sub"}, "Игроки и баллы"), table([{t: "№"}, {t: "Игрок"}, {t: "Атаки"}, {t: "Результаты"}, {t: "Звёзды", r: 1}, {t: "Баллы", r: 1}], rows));
+      body.append(h("h3", {class: "sub"}, "Игроки и баллы"), table([{t: "№", cls: "hm"}, {t: "Игрок"}, {t: "Атаки"}, {t: "Результаты", cls: "hm"}, {t: "Звёзды", r: 1}, {t: "Баллы", r: 1}], rows));
     }
     $("sheet").hidden = false; $("sheetClose").focus();
   }
@@ -1444,7 +1458,7 @@ details.how b{color:var(--ink)}
         {v: r.mirror || "—", cls: mirrorFinal ? (r.mirror === "да" ? "pos" : r.mirror === "нет" ? "neg" : "") : ""}]}));
       const left = w.phase === "battle" ? w.rows.filter(r => r.used < r.max) : [];
       v.append(card("Атаки", w.phase === "prep" ? "подсветка появится с началом боя" : null,
-        table([{t: "№"}, {t: "Игрок"}, {t: "Атаки"}, {t: "Результаты"}, {t: "Звёзды", r: 1}, {t: "Баллы", r: 1}, {t: "Зеркало"}], rows),
+        table([{t: "№", cls: "hm"}, {t: "Игрок"}, {t: "Атаки"}, {t: "Результаты", cls: "hm"}, {t: "Звёзды", r: 1}, {t: "Баллы", r: 1}, {t: "Зеркало", cls: "hm"}], rows),
         left.length ? h("div", {style: "margin-top:12px"}, h("div", {class: "meta", style: "margin-bottom:6px"}, "Ещё не провели все атаки (" + left.length + ")"),
           h("div", {class: "chips"}, left.map(r => h("button", {class: "chip " + (r.used === 0 ? "bad" : "warn"), type: "button", onclick: () => openPlayer(r.name)}, r.name + " · осталось " + (r.max - r.used))))) : null,
         how("Как считаются баллы и зеркало", "<b>Обе атаки за первые 12 часов боя:</b> от 5 звёзд — 4 балла, меньше — 2. <b>Позже 12 часов:</b> 2 атаки и 6 звёзд — 5 баллов (ярко-зелёный), 5 звёзд — 4, 4 звезды — 3, 1–3 — 2 (светло-зелёный). 1 атака со звёздами — 1 балл. Нет атак или ни одной звезды — 0 (красный). <b>Зеркало</b> — атака на соперника под своим номером в первые 12 часов боя; цвет появляется, когда 12 часов прошли. Время атаки записывается при обновлении данных раз в час.")));
@@ -1459,13 +1473,13 @@ details.how b{color:var(--ink)}
         h("div", {class: "stats"}, stat(ours + " : " + theirs, "звёзды, мы : соперники"), stat(cw.rounds.length, "раундов"), stat(att, "атак"),
           stat(missed, "пропусков", missed ? "bad" : ""), stat(att ? (stars / att).toFixed(2) : "—", "звёзд за атаку")),
         h("h3", {class: "sub"}, "Раунды"),
-        table([{t: "Раунд"}, {t: "Соперник"}, {t: "Статус"}, {t: "Мы", r: 1}, {t: "Они", r: 1}],
+        table([{t: "Раунд", cls: "hm"}, {t: "Соперник"}, {t: "Статус", cls: "hm"}, {t: "Мы", r: 1}, {t: "Они", r: 1}],
           cw.rounds.map(r => { const fin = /завершена/.test(r.state), win = r.us > r.them || (r.us === r.them && +r.usPct > +r.themPct);
             return {cls: fin ? (win ? "good" : "bad") : "", cells: [r.n, r.opp, r.state, {v: r.us + "⭐ · " + r.usPct + "%", cls: "num"}, {v: r.them + "⭐ · " + r.themPct + "%", cls: "num"}]}; })),
         cw.notAtt.length ? h("div", {style: "margin-top:12px"}, h("div", {class: "meta", style: "margin-bottom:6px"}, "Не атаковали в текущем раунде (" + cw.notAtt.length + ")"),
           h("div", {class: "chips"}, cw.notAtt.map(n => h("button", {class: "chip bad", type: "button", onclick: () => openPlayer(n)}, n)))) : null));
       v.append(card("Участники ЛВК", cw.players.length + " игроков",
-        table([{t: "Игрок"}, {t: "В составе", r: 1}, {t: "Атак", r: 1}, {t: "Звёзд", r: 1}, {t: "Пропустил"}, {t: "Баллы", r: 1}],
+        table([{t: "Игрок"}, {t: "В составе", r: 1, cls: "hm"}, {t: "Атак", r: 1}, {t: "Звёзд", r: 1}, {t: "Пропустил", cls: "hm"}, {t: "Баллы", r: 1}],
           cw.players.map(r => ({cls: r.cs.cls, cells: [pl(r.name, null, r.th), {v: r.lineup, cls: "num"}, {v: r.att, cls: "num"}, {v: r.stars, cls: "num"}, r.missedTxt || "—", {v: r.cs.pts, cls: "num"}]}))),
         how("Как считаются баллы ЛВК", "В ЛВК одна атака за раунд. Без пропусков и все атаки на 3 звезды — 5 баллов (ярко-зелёный). Без пропусков, в среднем от 2 звёзд — 3, меньше — 2 (светло-зелёный). Есть пропуски — 1. Нет атак или ни одной звезды — 0 (красный). В рейтинг минусы за ЛВК попадают только по итогам лиги.")));
       return;
@@ -1476,10 +1490,10 @@ details.how b{color:var(--ink)}
       v.append(card("Журнал войн", "последние " + log.length,
         h("div", {class: "stats", style: "margin-bottom:12px"}, stat(wins, "побед", "good"), stat(ties, "ничьих"), stat(losses, "поражений", losses ? "bad" : "")),
         h("div", {class: "meta", style: "margin-bottom:8px"}, "Нажмите на войну — откроется статистика игроков и их баллы."),
-        table([{t: "Окончание"}, {t: "Итог"}, {t: "Размер"}, {t: "Мы"}, {t: "Соперник"}, {t: ""}],
+        table([{t: "Окончание"}, {t: "Итог", cls: "hm"}, {t: "Размер", cls: "hm"}, {t: "Мы"}, {t: "Соперник"}, {t: ""}],
           log.map(r => { const d = warDocFor(r);
             return {cls: r.result === "Победа" ? "good" : r.result === "Поражение" ? "bad" : "", onclick: () => openWar(r, d),
-              cells: [{v: r.end, cls: "dim"}, r.result, r.size, {v: r.us, cls: "num"}, r.opp, {v: d ? (d.final ? "подробно ›" : "часть ›") : "›", cls: d ? "linkc" : "dim"}]}; }))));
+              cells: [{v: r.end, cls: "dim"}, r.result, r.size, {v: r.us, cls: "num"}, r.opp, {v: h("span", {}, h("span", {class: "lkt"}, d ? (d.final ? "подробно " : "часть ") : ""), "›"), cls: d ? "linkc" : "dim"}]}; }))));
       return;
     }
     if (!mis) { const s = state.missed; v.append(card("Пропуски атак", null, empty("Пока нет данных", s ? s.md : ""))); return; }
@@ -1507,7 +1521,7 @@ details.how b{color:var(--ink)}
       h("div", {class: "stats"}, stat(nf(r.loot), "добыча клана"), stat(part.length, "участвовали", "good"), stat(r.missing.length, "не участвовали", r.missing.length ? "bad" : ""),
         stat(used + "/" + poss, "атак"), stat(used ? nf(Math.round(r.loot / used)) : "—", "добычи за атаку"), stat(best, "на 5 баллов", best ? "good" : ""))));
     v.append(card("Участники", "баллов клана: " + total,
-      table([{t: "#", r: 1}, {t: "Игрок"}, {t: "Атаки"}, {t: "Добыча", r: 1}, {t: "Баллы", r: 1}],
+      table([{t: "#", r: 1, cls: "hm"}, {t: "Игрок"}, {t: "Атаки"}, {t: "Добыча", r: 1}, {t: "Баллы", r: 1}],
         r.rows.map((x, i) => ({cls: x.rs ? x.rs.cls : "", cells: [{v: x.absent ? "—" : i + 1, cls: "dim"}, pl(x.name), x.absent ? "не был" : x.used + "/" + x.max, {v: nf(x.loot), cls: "num"}, {v: x.rs ? x.rs.pts : "—", cls: "num"}]}))),
       how("Как считаются баллы рейдов", "Все атаки и добыча от 25 000 — 5 баллов (ярко-зелёный). Все атаки, добыча от 15 000 — 3, меньше — 2 (светло-зелёный). Не все атаки — 1. Не участвовал или добыча меньше 5 000 — 0 (красный). В рейтинге 0 превращается в −2.")));
   }
@@ -1539,7 +1553,7 @@ details.how b{color:var(--ink)}
       (isAll ? "сумма баллов за все недели" : "свой рейтинг недели: баллы с нуля") + (liveWar || liveCwl || liveRaid ? " · идут " + [liveWar ? "КВ" : "", liveCwl ? "ЛВК" : "", liveRaid ? "рейды" : ""].filter(Boolean).join(", ") + " — баллы обновляются каждый час" : ""),
       h("div", {class: "chips", style: "margin-bottom:12px"}, chip("войн " + counts.war), chip("рейдов " + counts.raid), chip("ЛВК " + counts.cwl),
         chip("топ-15 — зелёные", "good"), chip("в минусе " + rows.filter(r => score(r) < 0).length, "bad")),
-      table([{t: "#", r: 1}, {t: "Игрок"}, {t: "Звание"}, {t: "Отдал", r: 1}, {t: "Донаты", r: 1}].concat(showWar ? [{t: "КВ", r: 1}] : [], showCwl ? [{t: "ЛВК", r: 1}] : [], [{t: "Рейды", r: 1}], [{t: isAll ? "Всего" : "Итого", r: 1}]),
+      table([{t: "#", r: 1, cls: "hm"}, {t: "Игрок"}, {t: "Звание", cls: "hm"}, {t: "Отдал", r: 1, cls: "hm"}, {t: "Донаты", r: 1}].concat(showWar ? [{t: "КВ", r: 1}] : [], showCwl ? [{t: "ЛВК", r: 1}] : [], [{t: "Рейды", r: 1}], [{t: isAll ? "Всего" : "Итого", r: 1}]),
         rows.map((r, i) => ({cls: score(r) < 0 ? "bad" : (i < 15 && score(r) > 0 ? "good" : ""), cells: [
           {v: i + 1, cls: "rank"}, h("span", {}, pl(r.p.name), frozenTag(r.k)), rolePill(r.p.role), {v: r.donAmt === null ? "—" : nf(r.donAmt), cls: "num"},
           {v: plus(r.don), cls: "num " + signCls(r.don)}, ].concat(showWar ? [{v: plus(r.war), cls: "num " + signCls(r.war)}] : [], showCwl ? [{v: plus(r.cwl), cls: "num " + signCls(r.cwl)}] : [], [{v: plus(r.raid), cls: "num " + signCls(r.raid)}],
@@ -1562,7 +1576,7 @@ details.how b{color:var(--ink)}
           .sort((a, b) => O[a.decision] - O[b.decision] || a.no.length - b.no.length || b.p.score - a.p.score || b.p.given - a.p.given);
         const n = d => list.filter(x => x.decision === d).length;
         v.append(card(title, `повысить ${n("yes")} · почти ${n("almost")} · пока нет ${n("no")}`,
-          list.length ? table([{t: "Игрок"}, {t: "Решение"}, {t: "Отдал", r: 1}, {t: "Рейды"}, {t: "КВ"}, {t: "Почему да"}, {t: "Чего не хватает"}],
+          list.length ? table([{t: "Игрок"}, {t: "Решение"}, {t: "Отдал", r: 1}, {t: "Рейды", cls: "hm"}, {t: "КВ", cls: "hm"}, {t: "Почему да", cls: "hm"}, {t: "Чего не хватает", cls: "hm"}],
             list.map(x => ({cls: x.decision === "yes" ? "good" : "", cells: [pl(x.p.name), chip(L[x.decision], x.decision === "yes" ? "good" : x.decision === "almost" ? "warn" : ""),
               {v: nf(x.p.given), cls: "num"}, x.p.raid, x.p.war, {v: x.yes.join("; ") || "—", cls: "wrapc"}, {v: x.no.join("; ") || "—", cls: "wrapc"}]}))) : empty("Некого рассматривать")));
       }
@@ -1574,7 +1588,7 @@ details.how b{color:var(--ink)}
           .sort((a, b) => O[a.decision] - O[b.decision] || b.bad.length - a.bad.length || a.p.score - b.p.score);
         const n = d => list.filter(x => x.decision === d).length;
         v.append(card(title, `понизить ${n("down")} · предупредить ${n("warn")} · оставить ${n("keep")}`,
-          list.length ? table([{t: "Игрок"}, {t: "Решение"}, {t: "Отдал", r: 1}, {t: "Рейды"}, {t: "КВ"}, {t: "Почему понизить"}, {t: "Почему оставить"}],
+          list.length ? table([{t: "Игрок"}, {t: "Решение"}, {t: "Отдал", r: 1}, {t: "Рейды", cls: "hm"}, {t: "КВ", cls: "hm"}, {t: "Почему понизить", cls: "hm"}, {t: "Почему оставить", cls: "hm"}],
             list.map(x => ({cls: x.decision === "down" ? "bad" : "", cells: [pl(x.p.name), chip(L[x.decision], x.decision === "down" ? "bad" : x.decision === "warn" ? "warn" : "good"),
               {v: nf(x.p.given), cls: "num"}, x.p.raid, x.p.war, {v: x.bad.join("; ") || "—", cls: "wrapc"}, {v: x.good.join("; ") || "—", cls: "wrapc"}]}))) : empty("Некого рассматривать")));
       }
