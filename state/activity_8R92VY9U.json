@@ -196,13 +196,13 @@
    "name": "GAS",
    "values": {
     "donations": 416,
-    "donationsReceived": 1683,
+    "donationsReceived": 1729,
     "trophies": 297,
     "builderBaseTrophies": 3097,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T23:11:55.921436+00:00"
+   "last_change": "2026-11-07T10:46:01.864006+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -375,14 +375,14 @@
   "#LG2LULGQJ": {
    "name": "Enot1k",
    "values": {
-    "donations": 121,
+    "donations": 167,
     "donationsReceived": 0,
     "trophies": 149,
     "builderBaseTrophies": 3003,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-07T10:46:01.864006+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -590,5 +590,5 @@
    "left_at": "2026-11-06T20:26:57.069977+00:00"
   }
  },
- "updated": "2026-11-07T10:43:53.913405+00:00"
+ "updated": "2026-11-07T10:46:02.196009+00:00"
 }
