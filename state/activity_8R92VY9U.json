@@ -54,12 +54,12 @@
    "values": {
     "donations": 801,
     "donationsReceived": 249,
-    "trophies": 776,
+    "trophies": 787,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T06:48:08.320440+00:00"
+   "last_change": "2026-11-07T19:29:35.203973+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -604,5 +604,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-07T19:27:26.538910+00:00"
+ "updated": "2026-11-07T19:29:35.380184+00:00"
 }
