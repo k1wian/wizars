@@ -159,14 +159,14 @@
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
    "values": {
-    "donations": 245,
+    "donations": 307,
     "donationsReceived": 0,
-    "trophies": 263,
+    "trophies": 303,
     "builderBaseTrophies": 3476,
     "expLevel": 208
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T19:26:14.238598+00:00"
+   "last_change": "2026-11-07T02:43:52.698912+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -292,13 +292,13 @@
    "name": "GoldBerg",
    "values": {
     "donations": 259,
-    "donationsReceived": 136,
+    "donationsReceived": 219,
     "trophies": 259,
     "builderBaseTrophies": 4104,
     "expLevel": 232
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T01:32:30.735541+00:00"
+   "last_change": "2026-11-07T02:43:52.698912+00:00"
   },
   "#LP2Q080P0": {
    "name": "H A N I B A L",
@@ -317,12 +317,12 @@
    "values": {
     "donations": 0,
     "donationsReceived": 50,
-    "trophies": 97,
+    "trophies": 109,
     "builderBaseTrophies": 2867,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-07T02:43:52.698912+00:00"
   },
   "#2CY9LV9CQ": {
    "name": "Antony",
@@ -459,14 +459,14 @@
   "#8JJ8Q2GJJ": {
    "name": "Pt.urchick",
    "values": {
-    "donations": 21,
-    "donationsReceived": 297,
+    "donations": 72,
+    "donationsReceived": 327,
     "trophies": 0,
     "builderBaseTrophies": 936,
-    "expLevel": 140
+    "expLevel": 141
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T00:27:48.183085+00:00"
+   "last_change": "2026-11-07T02:43:52.698912+00:00"
   },
   "#GJP0LPR08": {
    "name": "isoala",
@@ -590,5 +590,5 @@
    "left_at": "2026-11-06T20:26:57.069977+00:00"
   }
  },
- "updated": "2026-11-07T01:57:44.523611+00:00"
+ "updated": "2026-11-07T02:43:52.853206+00:00"
 }
