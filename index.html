@@ -46,7 +46,7 @@
   --good-bg:#14302a; --great-bg:#1d5338; --bad-bg:#3d1d22; --warn-bg:#3a2c16; color-scheme:dark}
 :root.b20[data-theme="dark"]{--bg:#110c1c; --panel:#1a1328; --soft:#221a34; --line:#34294c; --muted:#a59cbd; --stone:#0d0718; --on-stone-2:#b3a8cc; --brand:#9a6cf0; --top-glow:#3d1f6b}
 *{box-sizing:border-box}
-body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5;padding-top:env(safe-area-inset-top,0px)}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--stone)}
 button,input,select{font:inherit;color:inherit}
 button{cursor:pointer}
