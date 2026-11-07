@@ -255,14 +255,14 @@
   "#YC9CG9C9G": {
    "name": "k1wian",
    "values": {
-    "donations": 1351,
+    "donations": 1401,
     "donationsReceived": 206,
     "trophies": 510,
     "builderBaseTrophies": 2952,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T09:10:50.524624+00:00"
+   "last_change": "2026-11-07T11:41:04.025418+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -593,14 +593,14 @@
    "name": "KNYAZ",
    "values": {
     "donations": 48,
-    "donationsReceived": 0,
+    "donationsReceived": 50,
     "trophies": 0,
     "builderBaseTrophies": 3859,
     "expLevel": 190
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-07T11:34:38.421097+00:00"
+   "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-07T11:38:54.228457+00:00"
+ "updated": "2026-11-07T11:41:04.177490+00:00"
 }
