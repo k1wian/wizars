@@ -639,7 +639,7 @@
   "kind": "cwl",
   "opponent": "بامرام ها",
   "end": "20261107T094934.000Z",
-  "state": "inWar",
+  "state": "warEnded",
   "attacks_per_member": 1,
   "members": {
    "#828Y2YJYJ": {
