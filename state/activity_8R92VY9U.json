@@ -291,14 +291,14 @@
   "#20VL0JRV8": {
    "name": "GoldBerg",
    "values": {
-    "donations": 209,
+    "donations": 259,
     "donationsReceived": 136,
     "trophies": 147,
     "builderBaseTrophies": 4104,
     "expLevel": 232
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T22:11:16.846586+00:00"
+   "last_change": "2026-11-07T00:27:48.183085+00:00"
   },
   "#LP2Q080P0": {
    "name": "H A N I B A L",
@@ -460,13 +460,13 @@
    "name": "Pt.urchick",
    "values": {
     "donations": 21,
-    "donationsReceived": 247,
+    "donationsReceived": 297,
     "trophies": 0,
     "builderBaseTrophies": 936,
     "expLevel": 140
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T23:22:56.940070+00:00"
+   "last_change": "2026-11-07T00:27:48.183085+00:00"
   },
   "#GJP0LPR08": {
    "name": "isoala",
@@ -590,5 +590,5 @@
    "left_at": "2026-11-06T20:26:57.069977+00:00"
   }
  },
- "updated": "2026-11-07T00:25:39.685873+00:00"
+ "updated": "2026-11-07T00:27:48.410508+00:00"
 }
