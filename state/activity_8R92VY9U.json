@@ -327,14 +327,14 @@
   "#2CY9LV9CQ": {
    "name": "Antony",
    "values": {
-    "donations": 15,
+    "donations": 67,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 2979,
     "expLevel": 209
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-07T03:43:02.932286+00:00"
   },
   "#9YRC2RCUJ": {
    "name": "Даня",
@@ -471,14 +471,14 @@
   "#GJP0LPR08": {
    "name": "isoala",
    "values": {
-    "donations": 216,
-    "donationsReceived": 564,
+    "donations": 267,
+    "donationsReceived": 614,
     "trophies": 388,
     "builderBaseTrophies": 2961,
     "expLevel": 141
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T02:50:11.563082+00:00"
+   "last_change": "2026-11-07T03:43:02.932286+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -544,13 +544,13 @@
    "name": "*Kurama*",
    "values": {
     "donations": 2,
-    "donationsReceived": 100,
+    "donationsReceived": 153,
     "trophies": 80,
     "builderBaseTrophies": 2504,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-07T03:43:02.932286+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -590,5 +590,5 @@
    "left_at": "2026-11-06T20:26:57.069977+00:00"
   }
  },
- "updated": "2026-11-07T03:09:29.257165+00:00"
+ "updated": "2026-11-07T03:43:03.090856+00:00"
 }
