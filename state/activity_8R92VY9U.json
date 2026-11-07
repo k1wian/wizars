@@ -293,12 +293,12 @@
    "values": {
     "donations": 259,
     "donationsReceived": 136,
-    "trophies": 185,
+    "trophies": 259,
     "builderBaseTrophies": 4104,
     "expLevel": 232
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T00:29:55.068812+00:00"
+   "last_change": "2026-11-07T01:32:30.735541+00:00"
   },
   "#LP2Q080P0": {
    "name": "H A N I B A L",
@@ -413,12 +413,12 @@
    "values": {
     "donations": 1843,
     "donationsReceived": 3775,
-    "trophies": 476,
+    "trophies": 484,
     "builderBaseTrophies": 3557,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T22:11:16.846586+00:00"
+   "last_change": "2026-11-07T01:32:30.735541+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -590,5 +590,5 @@
    "left_at": "2026-11-06T20:26:57.069977+00:00"
   }
  },
- "updated": "2026-11-07T00:29:55.248271+00:00"
+ "updated": "2026-11-07T01:32:30.888507+00:00"
 }
