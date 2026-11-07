@@ -15,14 +15,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 1871,
+    "donations": 1954,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 4307,
     "expLevel": 249
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T07:54:37.216785+00:00"
+   "last_change": "2026-11-07T15:39:02.851945+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -173,13 +173,13 @@
    "name": "Лорд",
    "values": {
     "donations": 376,
-    "donationsReceived": 986,
+    "donationsReceived": 1069,
     "trophies": 239,
     "builderBaseTrophies": 3788,
     "expLevel": 186
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T15:34:43.455666+00:00"
+   "last_change": "2026-11-07T15:39:02.851945+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -605,5 +605,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-07T15:36:54.592982+00:00"
+ "updated": "2026-11-07T15:39:03.038951+00:00"
 }
