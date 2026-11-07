@@ -113,14 +113,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 1304,
+    "donations": 1355,
     "donationsReceived": 2177,
     "trophies": 628,
     "builderBaseTrophies": 3527,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T10:37:22.639574+00:00"
+   "last_change": "2026-11-07T18:24:59.746171+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -174,13 +174,13 @@
    "name": "Лорд",
    "values": {
     "donations": 376,
-    "donationsReceived": 1069,
+    "donationsReceived": 1120,
     "trophies": 279,
     "builderBaseTrophies": 3788,
     "expLevel": 186
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T18:22:52.091349+00:00"
+   "last_change": "2026-11-07T18:24:59.746171+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -606,5 +606,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-07T18:22:52.299172+00:00"
+ "updated": "2026-11-07T18:24:59.936117+00:00"
 }
