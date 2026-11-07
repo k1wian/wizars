@@ -304,13 +304,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 935,
-    "donationsReceived": 1067,
+    "donationsReceived": 1119,
     "trophies": 110,
     "builderBaseTrophies": 3516,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T04:51:07.702987+00:00"
+   "last_change": "2026-11-07T04:53:15.772085+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -423,14 +423,14 @@
   "#QG0PCCPJ": {
    "name": "данил",
    "values": {
-    "donations": 275,
+    "donations": 327,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3198,
     "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-07T04:53:15.772085+00:00"
   },
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
@@ -590,5 +590,5 @@
    "left_at": "2026-11-06T20:26:57.069977+00:00"
   }
  },
- "updated": "2026-11-07T04:51:07.855265+00:00"
+ "updated": "2026-11-07T04:53:15.887242+00:00"
 }
