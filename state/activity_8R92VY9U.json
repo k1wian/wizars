@@ -473,12 +473,12 @@
    "values": {
     "donations": 216,
     "donationsReceived": 564,
-    "trophies": 376,
+    "trophies": 388,
     "builderBaseTrophies": 2961,
     "expLevel": 141
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-07T02:50:11.563082+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -590,5 +590,5 @@
    "left_at": "2026-11-06T20:26:57.069977+00:00"
   }
  },
- "updated": "2026-11-07T02:48:05.484808+00:00"
+ "updated": "2026-11-07T02:50:11.764820+00:00"
 }
