@@ -51,14 +51,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 771,
+    "donations": 801,
     "donationsReceived": 249,
     "trophies": 776,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T21:36:06.035294+00:00"
+   "last_change": "2026-11-07T06:48:08.320440+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -544,13 +544,13 @@
    "name": "*Kurama*",
    "values": {
     "donations": 2,
-    "donationsReceived": 153,
+    "donationsReceived": 183,
     "trophies": 80,
     "builderBaseTrophies": 2504,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T03:43:02.932286+00:00"
+   "last_change": "2026-11-07T06:48:08.320440+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -590,5 +590,5 @@
    "left_at": "2026-11-06T20:26:57.069977+00:00"
   }
  },
- "updated": "2026-11-07T06:08:11.150404+00:00"
+ "updated": "2026-11-07T06:48:08.484603+00:00"
 }
