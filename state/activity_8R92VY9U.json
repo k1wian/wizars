@@ -3,27 +3,26 @@
   "#2CQLJR0QG": {
    "name": "Pt.Экзорцист♡™",
    "values": {
-    "donations": 439,
-    "donationsReceived": 120,
+    "donations": 0,
+    "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3194,
     "expLevel": 244
    },
-   "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T17:29:23.592988+00:00",
-   "left_at": "2026-11-07T18:07:49.367013+00:00"
+   "first_seen": "2026-11-07T20:05:52.159445+00:00",
+   "last_change": "2026-11-07T20:05:52.159445+00:00"
   },
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 1986,
+    "donations": 2036,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 4307,
     "expLevel": 249
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T19:16:46.072296+00:00"
+   "last_change": "2026-11-07T20:05:52.159445+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -112,14 +111,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 1355,
-    "donationsReceived": 2262,
+    "donations": 1390,
+    "donationsReceived": 2263,
     "trophies": 628,
     "builderBaseTrophies": 3527,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T19:16:46.072296+00:00"
+   "last_change": "2026-11-07T20:05:52.159445+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -136,14 +135,14 @@
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 1168,
+    "donations": 1169,
     "donationsReceived": 196,
     "trophies": 472,
     "builderBaseTrophies": 3194,
     "expLevel": 186
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T12:58:14.448124+00:00"
+   "last_change": "2026-11-07T20:05:52.159445+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -460,15 +459,14 @@
   "#8JJ8Q2GJJ": {
    "name": "Pt.urchick",
    "values": {
-    "donations": 72,
-    "donationsReceived": 327,
+    "donations": 0,
+    "donationsReceived": 85,
     "trophies": 0,
     "builderBaseTrophies": 936,
     "expLevel": 141
    },
-   "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T02:43:52.698912+00:00",
-   "left_at": "2026-11-07T14:49:28.334151+00:00"
+   "first_seen": "2026-11-07T20:05:52.159445+00:00",
+   "last_change": "2026-11-07T20:05:52.159445+00:00"
   },
   "#GJP0LPR08": {
    "name": "isoala",
@@ -604,5 +602,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-07T19:42:31.588557+00:00"
+ "updated": "2026-11-07T20:05:52.351260+00:00"
 }
