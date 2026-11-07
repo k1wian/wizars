@@ -304,13 +304,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 935,
-    "donationsReceived": 1119,
+    "donationsReceived": 1122,
     "trophies": 110,
-    "builderBaseTrophies": 3506,
+    "builderBaseTrophies": 3477,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T05:05:49.684036+00:00"
+   "last_change": "2026-11-07T05:07:54.294398+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -567,14 +567,14 @@
   "#YJRQVLQ9Q": {
    "name": "Егор51 батя",
    "values": {
-    "donations": 53,
+    "donations": 56,
     "donationsReceived": 0,
     "trophies": 490,
     "builderBaseTrophies": 2494,
     "expLevel": 177
    },
    "first_seen": "2026-11-06T20:16:26.063011+00:00",
-   "last_change": "2026-11-07T04:46:57.635413+00:00"
+   "last_change": "2026-11-07T05:07:54.294398+00:00"
   },
   "#2V8G8G8UL": {
    "name": "ismail argun",
@@ -590,5 +590,5 @@
    "left_at": "2026-11-06T20:26:57.069977+00:00"
   }
  },
- "updated": "2026-11-07T05:05:49.791191+00:00"
+ "updated": "2026-11-07T05:07:54.413995+00:00"
 }
