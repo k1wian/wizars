@@ -3,14 +3,14 @@
   "#2CQLJR0QG": {
    "name": "Pt.Экзорцист♡™",
    "values": {
-    "donations": 0,
+    "donations": 50,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3194,
     "expLevel": 244
    },
    "first_seen": "2026-11-07T20:05:52.159445+00:00",
-   "last_change": "2026-11-07T20:05:52.159445+00:00"
+   "last_change": "2026-11-07T21:34:13.040042+00:00"
   },
   "#29JGGU8J2": {
    "name": "DiMoN",
@@ -196,13 +196,13 @@
    "name": "GAS",
    "values": {
     "donations": 416,
-    "donationsReceived": 1962,
+    "donationsReceived": 2012,
     "trophies": 316,
     "builderBaseTrophies": 3097,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T21:32:03.929627+00:00"
+   "last_change": "2026-11-07T21:34:13.040042+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -602,5 +602,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-07T21:32:04.306852+00:00"
+ "updated": "2026-11-07T21:34:13.347292+00:00"
 }
