@@ -267,14 +267,14 @@
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
-    "donations": 378,
+    "donations": 436,
     "donationsReceived": 1082,
     "trophies": 447,
     "builderBaseTrophies": 3184,
     "expLevel": 168
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T08:45:25.943352+00:00"
+   "last_change": "2026-11-07T08:49:38.800482+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -412,13 +412,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 1954,
-    "donationsReceived": 4329,
+    "donationsReceived": 4387,
     "trophies": 496,
     "builderBaseTrophies": 3588,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T08:45:25.943352+00:00"
+   "last_change": "2026-11-07T08:49:38.800482+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -590,5 +590,5 @@
    "left_at": "2026-11-06T20:26:57.069977+00:00"
   }
  },
- "updated": "2026-11-07T08:47:31.752319+00:00"
+ "updated": "2026-11-07T08:49:38.925212+00:00"
 }
