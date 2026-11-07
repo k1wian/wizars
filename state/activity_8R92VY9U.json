@@ -221,13 +221,13 @@
    "name": "mikki",
    "values": {
     "donations": 214,
-    "donationsReceived": 994,
+    "donationsReceived": 1074,
     "trophies": 332,
     "builderBaseTrophies": 3260,
     "expLevel": 173
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T20:24:51.736685+00:00"
+   "last_change": "2026-11-07T14:49:28.334151+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -467,7 +467,8 @@
     "expLevel": 141
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T02:43:52.698912+00:00"
+   "last_change": "2026-11-07T02:43:52.698912+00:00",
+   "left_at": "2026-11-07T14:49:28.334151+00:00"
   },
   "#GJP0LPR08": {
    "name": "isoala",
@@ -603,5 +604,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-07T14:47:15.407963+00:00"
+ "updated": "2026-11-07T14:49:28.707963+00:00"
 }
