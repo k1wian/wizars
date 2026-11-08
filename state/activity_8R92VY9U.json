@@ -379,12 +379,12 @@
    "values": {
     "donations": 237,
     "donationsReceived": 217,
-    "trophies": 327,
+    "trophies": 367,
     "builderBaseTrophies": 3003,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T21:28:36.678418+00:00"
+   "last_change": "2026-11-08T21:32:49.301647+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-08T21:30:42.021124+00:00"
+ "updated": "2026-11-08T21:32:49.425144+00:00"
 }
