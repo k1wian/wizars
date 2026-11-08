@@ -79,12 +79,12 @@
    "values": {
     "donations": 829,
     "donationsReceived": 1372,
-    "trophies": 665,
+    "trophies": 674,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T15:46:46.252979+00:00"
+   "last_change": "2026-11-08T21:07:37.533778+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -305,14 +305,14 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 988,
-    "donationsReceived": 1225,
+    "donations": 991,
+    "donationsReceived": 1275,
     "trophies": 110,
     "builderBaseTrophies": 3474,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T06:57:53.119900+00:00"
+   "last_change": "2026-11-08T21:07:37.533778+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -378,13 +378,13 @@
    "name": "Enot1k",
    "values": {
     "donations": 225,
-    "donationsReceived": 0,
-    "trophies": 167,
+    "donationsReceived": 53,
+    "trophies": 207,
     "builderBaseTrophies": 3003,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T17:25:49.764681+00:00"
+   "last_change": "2026-11-08T21:07:37.533778+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -414,14 +414,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 2249,
-    "donationsReceived": 5140,
+    "donations": 2352,
+    "donationsReceived": 5143,
     "trophies": 514,
     "builderBaseTrophies": 3537,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T19:20:53.213092+00:00"
+   "last_change": "2026-11-08T21:07:37.533778+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-08T20:34:32.148276+00:00"
+ "updated": "2026-11-08T21:07:37.657358+00:00"
 }
