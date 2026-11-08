@@ -171,14 +171,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 389,
+    "donations": 439,
     "donationsReceived": 1152,
     "trophies": 279,
     "builderBaseTrophies": 3788,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T21:08:30.161766+00:00"
+   "last_change": "2026-11-08T05:00:31.963021+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -472,13 +472,13 @@
    "name": "isoala",
    "values": {
     "donations": 315,
-    "donationsReceived": 668,
+    "donationsReceived": 718,
     "trophies": 416,
     "builderBaseTrophies": 2978,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T18:22:52.091349+00:00"
+   "last_change": "2026-11-08T05:00:31.963021+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -602,5 +602,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T04:58:25.681153+00:00"
+ "updated": "2026-11-08T05:00:32.254735+00:00"
 }
