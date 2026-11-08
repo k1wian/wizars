@@ -621,15 +621,14 @@
    "name": "Lord",
    "values": {
     "donations": 0,
-    "donationsReceived": 80,
+    "donationsReceived": 0,
     "trophies": 425,
     "builderBaseTrophies": 2543,
     "expLevel": 134
    },
-   "first_seen": "2026-11-08T17:08:28.354073+00:00",
-   "last_change": "2026-11-08T17:08:28.354073+00:00",
-   "left_at": "2026-11-08T17:10:41.678546+00:00"
+   "first_seen": "2026-11-08T17:12:51.298677+00:00",
+   "last_change": "2026-11-08T17:12:51.298677+00:00"
   }
  },
- "updated": "2026-11-08T17:10:42.130880+00:00"
+ "updated": "2026-11-08T17:12:51.561903+00:00"
 }
