@@ -15,14 +15,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 2066,
+    "donations": 2116,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 4307,
     "expLevel": 249
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T21:08:30.161766+00:00"
+   "last_change": "2026-11-08T07:54:52.098220+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -195,14 +195,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 420,
-    "donationsReceived": 2012,
+    "donations": 421,
+    "donationsReceived": 2062,
     "trophies": 343,
-    "builderBaseTrophies": 3144,
+    "builderBaseTrophies": 3125,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T06:49:31.122526+00:00"
+   "last_change": "2026-11-08T07:54:52.098220+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -317,12 +317,12 @@
    "values": {
     "donations": 0,
     "donationsReceived": 50,
-    "trophies": 109,
+    "trophies": 135,
     "builderBaseTrophies": 2867,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T02:43:52.698912+00:00"
+   "last_change": "2026-11-08T07:54:52.098220+00:00"
   },
   "#2CY9LV9CQ": {
    "name": "Antony",
@@ -415,10 +415,10 @@
     "donationsReceived": 4906,
     "trophies": 496,
     "builderBaseTrophies": 3586,
-    "expLevel": 195
+    "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T19:16:46.072296+00:00"
+   "last_change": "2026-11-08T07:54:52.098220+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -472,13 +472,13 @@
    "name": "isoala",
    "values": {
     "donations": 315,
-    "donationsReceived": 718,
+    "donationsReceived": 719,
     "trophies": 416,
     "builderBaseTrophies": 2978,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T05:00:31.963021+00:00"
+   "last_change": "2026-11-08T07:54:52.098220+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -602,5 +602,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T07:14:45.283893+00:00"
+ "updated": "2026-11-08T07:54:52.210668+00:00"
 }
