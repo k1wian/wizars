@@ -221,26 +221,26 @@
   "#GJLUCQ2CC": {
    "name": "mikki",
    "values": {
-    "donations": 269,
+    "donations": 309,
     "donationsReceived": 1450,
     "trophies": 445,
     "builderBaseTrophies": 3315,
     "expLevel": 173
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T10:37:18.541964+00:00"
+   "last_change": "2026-11-08T18:01:59.189044+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
    "values": {
     "donations": 51,
-    "donationsReceived": 516,
-    "trophies": 159,
+    "donationsReceived": 566,
+    "trophies": 184,
     "builderBaseTrophies": 2783,
     "expLevel": 164
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T17:34:43.622337+00:00"
+   "last_change": "2026-11-08T18:01:59.189044+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -462,14 +462,14 @@
   "#8JJ8Q2GJJ": {
    "name": "Pt.urchick",
    "values": {
-    "donations": 85,
+    "donations": 95,
     "donationsReceived": 542,
     "trophies": 0,
     "builderBaseTrophies": 936,
     "expLevel": 141
    },
    "first_seen": "2026-11-07T20:05:52.159445+00:00",
-   "last_change": "2026-11-08T17:08:28.354073+00:00"
+   "last_change": "2026-11-08T18:01:59.189044+00:00"
   },
   "#GJP0LPR08": {
    "name": "isoala",
@@ -631,5 +631,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-08T17:34:43.812066+00:00"
+ "updated": "2026-11-08T18:01:59.447205+00:00"
 }
