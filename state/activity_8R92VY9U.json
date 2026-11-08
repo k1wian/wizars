@@ -15,14 +15,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 2117,
+    "donations": 2121,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 4307,
     "expLevel": 249
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T08:15:43.279268+00:00"
+   "last_change": "2026-11-08T08:45:04.818446+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -112,13 +112,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 1393,
-    "donationsReceived": 2264,
+    "donationsReceived": 2347,
     "trophies": 628,
     "builderBaseTrophies": 3524,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T08:07:23.417181+00:00"
+   "last_change": "2026-11-08T08:45:04.818446+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -257,12 +257,12 @@
    "values": {
     "donations": 1454,
     "donationsReceived": 206,
-    "trophies": 510,
+    "trophies": 530,
     "builderBaseTrophies": 2952,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T12:40:54.870637+00:00"
+   "last_change": "2026-11-08T08:45:04.818446+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -351,14 +351,14 @@
   "#YYVYCLLG9": {
    "name": "ЧaPoДeЙ",
    "values": {
-    "donations": 287,
+    "donations": 366,
     "donationsReceived": 0,
     "trophies": 99,
     "builderBaseTrophies": 1695,
     "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T15:30:26.340253+00:00"
+   "last_change": "2026-11-08T08:45:04.818446+00:00"
   },
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
@@ -602,5 +602,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T08:19:53.209545+00:00"
+ "updated": "2026-11-08T08:45:04.930795+00:00"
 }
