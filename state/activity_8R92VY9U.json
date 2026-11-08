@@ -126,13 +126,13 @@
    "name": "Димаш",
    "values": {
     "donations": 926,
-    "donationsReceived": 466,
+    "donationsReceived": 496,
     "trophies": 466,
     "builderBaseTrophies": 3216,
     "expLevel": 202
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T18:06:18.658971+00:00"
+   "last_change": "2026-11-08T18:23:52.183615+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -414,14 +414,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 2218,
+    "donations": 2249,
     "donationsReceived": 4964,
     "trophies": 514,
     "builderBaseTrophies": 3586,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T16:11:28.771802+00:00"
+   "last_change": "2026-11-08T18:23:52.183615+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -463,13 +463,13 @@
    "name": "Pt.urchick",
    "values": {
     "donations": 95,
-    "donationsReceived": 547,
+    "donationsReceived": 548,
     "trophies": 0,
     "builderBaseTrophies": 936,
     "expLevel": 141
    },
    "first_seen": "2026-11-07T20:05:52.159445+00:00",
-   "last_change": "2026-11-08T18:08:30.296896+00:00"
+   "last_change": "2026-11-08T18:23:52.183615+00:00"
   },
   "#GJP0LPR08": {
    "name": "isoala",
@@ -631,5 +631,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-08T18:21:30.572803+00:00"
+ "updated": "2026-11-08T18:23:52.338103+00:00"
 }
