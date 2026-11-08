@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 2621,
+    "donations": 2671,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 4307,
     "expLevel": 249
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T16:11:28.771802+00:00"
+   "last_change": "2026-11-08T17:08:28.354073+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -113,14 +113,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 1393,
+    "donations": 1395,
     "donationsReceived": 2480,
     "trophies": 628,
     "builderBaseTrophies": 3524,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T14:02:12.660317+00:00"
+   "last_change": "2026-11-08T17:08:28.354073+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -353,14 +353,14 @@
   "#YYVYCLLG9": {
    "name": "ЧaPoДeЙ",
    "values": {
-    "donations": 366,
+    "donations": 446,
     "donationsReceived": 0,
     "trophies": 99,
     "builderBaseTrophies": 1695,
-    "expLevel": 175
+    "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T08:45:04.818446+00:00"
+   "last_change": "2026-11-08T17:08:28.354073+00:00"
   },
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
@@ -453,23 +453,23 @@
     "donations": 177,
     "donationsReceived": 0,
     "trophies": 20,
-    "builderBaseTrophies": 1161,
+    "builderBaseTrophies": 1209,
     "expLevel": 139
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T16:28:27.991532+00:00"
+   "last_change": "2026-11-08T17:08:28.354073+00:00"
   },
   "#8JJ8Q2GJJ": {
    "name": "Pt.urchick",
    "values": {
     "donations": 85,
-    "donationsReceived": 460,
+    "donationsReceived": 542,
     "trophies": 0,
     "builderBaseTrophies": 936,
     "expLevel": 141
    },
    "first_seen": "2026-11-07T20:05:52.159445+00:00",
-   "last_change": "2026-11-08T16:34:53.823517+00:00"
+   "last_change": "2026-11-08T17:08:28.354073+00:00"
   },
   "#GJP0LPR08": {
    "name": "isoala",
@@ -608,15 +608,27 @@
   "#GCU8UV288": {
    "name": "Merknu",
    "values": {
-    "donations": 0,
+    "donations": 30,
     "donationsReceived": 0,
     "trophies": 102,
     "builderBaseTrophies": 2703,
     "expLevel": 161
    },
    "first_seen": "2026-11-08T16:17:48.619234+00:00",
-   "last_change": "2026-11-08T16:32:48.395948+00:00"
+   "last_change": "2026-11-08T17:08:28.354073+00:00"
+  },
+  "#G2UPLL0L8": {
+   "name": "Lord",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 80,
+    "trophies": 425,
+    "builderBaseTrophies": 2543,
+    "expLevel": 134
+   },
+   "first_seen": "2026-11-08T17:08:28.354073+00:00",
+   "last_change": "2026-11-08T17:08:28.354073+00:00"
   }
  },
- "updated": "2026-11-08T16:37:01.141442+00:00"
+ "updated": "2026-11-08T17:08:28.529793+00:00"
 }
