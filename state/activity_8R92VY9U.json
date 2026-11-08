@@ -283,12 +283,12 @@
    "values": {
     "donations": 251,
     "donationsReceived": 470,
-    "trophies": 443,
+    "trophies": 468,
     "builderBaseTrophies": 2953,
     "expLevel": 137
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T10:37:18.541964+00:00"
+   "last_change": "2026-11-08T12:53:11.465982+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -605,5 +605,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T12:51:00.856780+00:00"
+ "updated": "2026-11-08T12:53:11.631572+00:00"
 }
