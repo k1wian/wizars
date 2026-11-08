@@ -437,12 +437,12 @@
    "values": {
     "donations": 112,
     "donationsReceived": 0,
-    "trophies": 71,
+    "trophies": 91,
     "builderBaseTrophies": 3097,
     "expLevel": 212
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-08T05:09:04.925640+00:00"
   },
   "#2LYVVJGJR": {
    "name": "$DiMoN$",
@@ -602,5 +602,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T05:06:58.172505+00:00"
+ "updated": "2026-11-08T05:09:05.081008+00:00"
 }
