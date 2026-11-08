@@ -185,14 +185,14 @@
   "#9R88GUV9Q": {
    "name": "KILLER F",
    "values": {
-    "donations": 230,
+    "donations": 252,
     "donationsReceived": 0,
     "trophies": 412,
     "builderBaseTrophies": 3453,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T18:09:59.487310+00:00"
+   "last_change": "2026-11-08T19:18:46.749908+00:00"
   },
   "#GLYP9PJJ9": {
    "name": "GAS",
@@ -415,13 +415,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 2249,
-    "donationsReceived": 5082,
+    "donationsReceived": 5104,
     "trophies": 514,
     "builderBaseTrophies": 3537,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T19:16:26.219978+00:00"
+   "last_change": "2026-11-08T19:18:46.749908+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -631,5 +631,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-08T19:16:26.379071+00:00"
+ "updated": "2026-11-08T19:18:46.894785+00:00"
 }
