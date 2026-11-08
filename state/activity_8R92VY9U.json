@@ -113,14 +113,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 1395,
+    "donations": 1397,
     "donationsReceived": 2480,
     "trophies": 628,
     "builderBaseTrophies": 3524,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T17:08:28.354073+00:00"
+   "last_change": "2026-11-08T22:07:20.067173+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -378,13 +378,13 @@
    "name": "Enot1k",
    "values": {
     "donations": 237,
-    "donationsReceived": 217,
-    "trophies": 367,
+    "donationsReceived": 219,
+    "trophies": 407,
     "builderBaseTrophies": 3003,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T21:32:49.301647+00:00"
+   "last_change": "2026-11-08T22:07:20.067173+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-08T21:32:49.425144+00:00"
+ "updated": "2026-11-08T22:07:20.231821+00:00"
 }
