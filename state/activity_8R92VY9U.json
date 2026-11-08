@@ -257,14 +257,14 @@
   "#YC9CG9C9G": {
    "name": "k1wian",
    "values": {
-    "donations": 1500,
+    "donations": 1581,
     "donationsReceived": 206,
     "trophies": 530,
     "builderBaseTrophies": 2952,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T09:06:02.259500+00:00"
+   "last_change": "2026-11-08T22:09:27.206631+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -378,13 +378,13 @@
    "name": "Enot1k",
    "values": {
     "donations": 237,
-    "donationsReceived": 219,
+    "donationsReceived": 300,
     "trophies": 407,
     "builderBaseTrophies": 3003,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T22:07:20.067173+00:00"
+   "last_change": "2026-11-08T22:09:27.206631+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-08T22:07:20.231821+00:00"
+ "updated": "2026-11-08T22:09:27.387350+00:00"
 }
