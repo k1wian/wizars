@@ -63,14 +63,14 @@
   "#G8RC08CGG": {
    "name": "Lancelot",
    "values": {
-    "donations": 336,
+    "donations": 386,
     "donationsReceived": 0,
     "trophies": 641,
     "builderBaseTrophies": 2998,
     "expLevel": 170
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T09:00:11.746295+00:00"
+   "last_change": "2026-11-08T00:19:18.099838+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -304,13 +304,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 935,
-    "donationsReceived": 1122,
+    "donationsReceived": 1172,
     "trophies": 110,
     "builderBaseTrophies": 3422,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T05:12:03.920117+00:00"
+   "last_change": "2026-11-08T00:19:18.099838+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -602,5 +602,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T00:17:06.045471+00:00"
+ "updated": "2026-11-08T00:19:18.250211+00:00"
 }
