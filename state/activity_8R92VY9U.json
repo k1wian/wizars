@@ -172,13 +172,13 @@
    "name": "Лорд",
    "values": {
     "donations": 439,
-    "donationsReceived": 1152,
-    "trophies": 279,
+    "donationsReceived": 1200,
+    "trophies": 295,
     "builderBaseTrophies": 3788,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T05:00:31.963021+00:00"
+   "last_change": "2026-11-08T08:03:13.376838+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -567,14 +567,14 @@
   "#YJRQVLQ9Q": {
    "name": "Егор51 батя",
    "values": {
-    "donations": 56,
+    "donations": 104,
     "donationsReceived": 0,
     "trophies": 508,
     "builderBaseTrophies": 2651,
     "expLevel": 177
    },
    "first_seen": "2026-11-06T20:16:26.063011+00:00",
-   "last_change": "2026-11-08T06:49:31.122526+00:00"
+   "last_change": "2026-11-08T08:03:13.376838+00:00"
   },
   "#2V8G8G8UL": {
    "name": "ismail argun",
@@ -602,5 +602,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T08:01:08.184512+00:00"
+ "updated": "2026-11-08T08:03:13.481547+00:00"
 }
