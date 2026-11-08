@@ -243,14 +243,14 @@
   "#GPLYRL920": {
    "name": "10.KARMA.44",
    "values": {
-    "donations": 207,
+    "donations": 208,
     "donationsReceived": 113,
     "trophies": 145,
     "builderBaseTrophies": 2949,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T03:06:30.770084+00:00"
+   "last_change": "2026-11-08T06:55:47.725838+00:00"
   },
   "#YC9CG9C9G": {
    "name": "k1wian",
@@ -304,13 +304,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 988,
-    "donationsReceived": 1224,
+    "donationsReceived": 1225,
     "trophies": 110,
-    "builderBaseTrophies": 3454,
+    "builderBaseTrophies": 3439,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T06:53:42.549243+00:00"
+   "last_change": "2026-11-08T06:55:47.725838+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -602,5 +602,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T06:53:42.700616+00:00"
+ "updated": "2026-11-08T06:55:47.863350+00:00"
 }
