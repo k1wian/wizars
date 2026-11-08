@@ -245,12 +245,12 @@
    "values": {
     "donations": 208,
     "donationsReceived": 113,
-    "trophies": 145,
+    "trophies": 156,
     "builderBaseTrophies": 2949,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T06:55:47.725838+00:00"
+   "last_change": "2026-11-08T06:57:53.119900+00:00"
   },
   "#YC9CG9C9G": {
    "name": "k1wian",
@@ -306,11 +306,11 @@
     "donations": 988,
     "donationsReceived": 1225,
     "trophies": 110,
-    "builderBaseTrophies": 3439,
+    "builderBaseTrophies": 3474,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T06:55:47.725838+00:00"
+   "last_change": "2026-11-08T06:57:53.119900+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -602,5 +602,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T06:55:47.863350+00:00"
+ "updated": "2026-11-08T06:57:53.297532+00:00"
 }
