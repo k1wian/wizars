@@ -39,14 +39,14 @@
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
    "values": {
-    "donations": 206,
+    "donations": 272,
     "donationsReceived": 170,
     "trophies": 782,
     "builderBaseTrophies": 1745,
     "expLevel": 203
    },
    "first_seen": "2026-11-07T19:16:46.072296+00:00",
-   "last_change": "2026-11-07T23:05:39.681723+00:00"
+   "last_change": "2026-11-08T09:47:05.363259+00:00"
   },
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
@@ -76,13 +76,13 @@
    "name": "Ukrop",
    "values": {
     "donations": 784,
-    "donationsReceived": 1245,
+    "donationsReceived": 1328,
     "trophies": 636,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T09:08:07.492746+00:00"
+   "last_change": "2026-11-08T09:47:05.363259+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -459,14 +459,14 @@
   "#8JJ8Q2GJJ": {
    "name": "Pt.urchick",
    "values": {
-    "donations": 68,
+    "donations": 85,
     "donationsReceived": 370,
     "trophies": 0,
     "builderBaseTrophies": 936,
     "expLevel": 141
    },
    "first_seen": "2026-11-07T20:05:52.159445+00:00",
-   "last_change": "2026-11-07T23:05:39.681723+00:00"
+   "last_change": "2026-11-08T09:47:05.363259+00:00"
   },
   "#GJP0LPR08": {
    "name": "isoala",
@@ -602,5 +602,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T09:44:58.882614+00:00"
+ "updated": "2026-11-08T09:47:05.518144+00:00"
 }
