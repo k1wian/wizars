@@ -15,14 +15,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 2121,
+    "donations": 2171,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 4307,
     "expLevel": 249
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T08:45:04.818446+00:00"
+   "last_change": "2026-11-08T08:57:41.526335+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -268,13 +268,13 @@
    "name": "Sənan",
    "values": {
     "donations": 469,
-    "donationsReceived": 1248,
+    "donationsReceived": 1298,
     "trophies": 457,
     "builderBaseTrophies": 3184,
     "expLevel": 169
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T22:06:35.823757+00:00"
+   "last_change": "2026-11-08T08:57:41.526335+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -602,5 +602,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T08:55:36.493732+00:00"
+ "updated": "2026-11-08T08:57:41.643762+00:00"
 }
