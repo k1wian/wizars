@@ -269,14 +269,14 @@
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
-    "donations": 509,
-    "donationsReceived": 1428,
+    "donations": 592,
+    "donationsReceived": 1511,
     "trophies": 483,
     "builderBaseTrophies": 3184,
     "expLevel": 169
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T17:23:41.920910+00:00"
+   "last_change": "2026-11-08T23:05:39.865386+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -377,14 +377,14 @@
   "#LG2LULGQJ": {
    "name": "Enot1k",
    "values": {
-    "donations": 237,
-    "donationsReceived": 300,
-    "trophies": 407,
+    "donations": 320,
+    "donationsReceived": 383,
+    "trophies": 527,
     "builderBaseTrophies": 3003,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T22:09:27.206631+00:00"
+   "last_change": "2026-11-08T23:05:39.865386+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-08T22:32:50.846185+00:00"
+ "updated": "2026-11-08T23:05:39.996968+00:00"
 }
