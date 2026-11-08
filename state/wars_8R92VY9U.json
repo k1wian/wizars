@@ -798,7 +798,7 @@
   "kind": "cwl",
   "opponent": "GG",
   "end": "20261108T095346.000Z",
-  "state": "inWar",
+  "state": "warEnded",
   "attacks_per_member": 1,
   "members": {
    "#828Y2YJYJ": {
