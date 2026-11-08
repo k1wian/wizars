@@ -378,13 +378,13 @@
    "name": "Enot1k",
    "values": {
     "donations": 237,
-    "donationsReceived": 136,
+    "donationsReceived": 217,
     "trophies": 327,
     "builderBaseTrophies": 3003,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T21:24:25.535149+00:00"
+   "last_change": "2026-11-08T21:28:36.678418+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -414,14 +414,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 2352,
+    "donations": 2433,
     "donationsReceived": 5143,
     "trophies": 514,
     "builderBaseTrophies": 3537,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T21:07:37.533778+00:00"
+   "last_change": "2026-11-08T21:28:36.678418+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-08T21:26:31.718742+00:00"
+ "updated": "2026-11-08T21:28:36.805774+00:00"
 }
