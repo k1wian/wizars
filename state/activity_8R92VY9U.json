@@ -137,14 +137,14 @@
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 1209,
+    "donations": 1219,
     "donationsReceived": 196,
     "trophies": 472,
     "builderBaseTrophies": 3194,
     "expLevel": 186
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T21:08:30.161766+00:00"
+   "last_change": "2026-11-08T13:53:43.379879+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -269,14 +269,14 @@
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
-    "donations": 469,
+    "donations": 509,
     "donationsReceived": 1348,
     "trophies": 457,
     "builderBaseTrophies": 3184,
     "expLevel": 169
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T13:45:13.594440+00:00"
+   "last_change": "2026-11-08T13:53:43.379879+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -475,13 +475,13 @@
    "name": "isoala",
    "values": {
     "donations": 315,
-    "donationsReceived": 719,
+    "donationsReceived": 769,
     "trophies": 416,
     "builderBaseTrophies": 2978,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T07:54:52.098220+00:00"
+   "last_change": "2026-11-08T13:53:43.379879+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -605,5 +605,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T13:51:33.996058+00:00"
+ "updated": "2026-11-08T13:53:43.544834+00:00"
 }
