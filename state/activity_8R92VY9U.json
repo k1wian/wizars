@@ -149,14 +149,14 @@
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 354,
+    "donations": 409,
     "donationsReceived": 641,
     "trophies": 389,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T16:34:53.823517+00:00"
+   "last_change": "2026-11-08T18:08:30.296896+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 497,
-    "donationsReceived": 2218,
+    "donationsReceived": 2268,
     "trophies": 343,
     "builderBaseTrophies": 3087,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T18:06:18.658971+00:00"
+   "last_change": "2026-11-08T18:08:30.296896+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -463,13 +463,13 @@
    "name": "Pt.urchick",
    "values": {
     "donations": 95,
-    "donationsReceived": 542,
+    "donationsReceived": 547,
     "trophies": 0,
     "builderBaseTrophies": 936,
     "expLevel": 141
    },
    "first_seen": "2026-11-07T20:05:52.159445+00:00",
-   "last_change": "2026-11-08T18:01:59.189044+00:00"
+   "last_change": "2026-11-08T18:08:30.296896+00:00"
   },
   "#GJP0LPR08": {
    "name": "isoala",
@@ -631,5 +631,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-08T18:06:18.859265+00:00"
+ "updated": "2026-11-08T18:08:30.614458+00:00"
 }
