@@ -29,12 +29,12 @@
    "values": {
     "donations": 432,
     "donationsReceived": 406,
-    "trophies": 439,
+    "trophies": 447,
     "builderBaseTrophies": 4977,
     "expLevel": 226
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T21:14:56.023726+00:00"
+   "last_change": "2026-11-08T03:48:36.483880+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -602,5 +602,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T03:46:28.939303+00:00"
+ "updated": "2026-11-08T03:48:36.652645+00:00"
 }
