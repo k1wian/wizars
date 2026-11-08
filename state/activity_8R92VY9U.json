@@ -67,12 +67,12 @@
    "values": {
     "donations": 438,
     "donationsReceived": 0,
-    "trophies": 641,
+    "trophies": 652,
     "builderBaseTrophies": 2998,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T10:37:18.541964+00:00"
+   "last_change": "2026-11-08T11:31:42.400078+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -430,10 +430,10 @@
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3198,
-    "expLevel": 175
+    "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T04:53:15.772085+00:00"
+   "last_change": "2026-11-08T11:31:42.400078+00:00"
   },
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
@@ -605,5 +605,5 @@
    "last_change": "2026-11-07T11:41:04.025418+00:00"
   }
  },
- "updated": "2026-11-08T11:02:50.492475+00:00"
+ "updated": "2026-11-08T11:31:42.516647+00:00"
 }
