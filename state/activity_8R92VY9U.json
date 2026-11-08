@@ -126,13 +126,13 @@
    "name": "Димаш",
    "values": {
     "donations": 926,
-    "donationsReceived": 413,
+    "donationsReceived": 466,
     "trophies": 466,
     "builderBaseTrophies": 3216,
     "expLevel": 202
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T06:58:43.452310+00:00"
+   "last_change": "2026-11-08T18:06:18.658971+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 444,
+    "donations": 497,
     "donationsReceived": 2218,
     "trophies": 343,
     "builderBaseTrophies": 3087,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T15:46:46.252979+00:00"
+   "last_change": "2026-11-08T18:06:18.658971+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -631,5 +631,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-08T18:04:08.202814+00:00"
+ "updated": "2026-11-08T18:06:18.859265+00:00"
 }
