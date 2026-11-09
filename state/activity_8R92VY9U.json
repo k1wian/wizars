@@ -78,13 +78,13 @@
    "name": "Ukrop",
    "values": {
     "donations": 912,
-    "donationsReceived": 1388,
+    "donationsReceived": 1398,
     "trophies": 743,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T03:50:44.923999+00:00"
+   "last_change": "2026-11-09T03:59:27.367028+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 554,
-    "donationsReceived": 2315,
+    "donationsReceived": 2351,
     "trophies": 352,
     "builderBaseTrophies": 3087,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T03:50:44.923999+00:00"
+   "last_change": "2026-11-09T03:59:27.367028+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -233,14 +233,14 @@
   "#GPLGJCLJV": {
    "name": "Lazari95",
    "values": {
-    "donations": 51,
+    "donations": 97,
     "donationsReceived": 566,
     "trophies": 203,
     "builderBaseTrophies": 2783,
     "expLevel": 164
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T00:03:54.290773+00:00"
+   "last_change": "2026-11-09T03:59:27.367028+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-09T03:57:14.484163+00:00"
+ "updated": "2026-11-09T03:59:27.518694+00:00"
 }
