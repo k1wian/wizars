@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 801,
+    "donations": 863,
     "donationsReceived": 249,
-    "trophies": 0,
+    "trophies": 219,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T06:02:23.404030+00:00"
+   "last_change": "2026-11-09T17:56:30.464729+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -138,13 +138,13 @@
    "name": "GANNIK",
    "values": {
     "donations": 1319,
-    "donationsReceived": 196,
+    "donationsReceived": 314,
     "trophies": 0,
     "builderBaseTrophies": 3194,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T15:57:30.234472+00:00"
+   "last_change": "2026-11-09T17:56:30.464729+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -173,14 +173,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 837,
+    "donations": 843,
     "donationsReceived": 1433,
     "trophies": 0,
     "builderBaseTrophies": 3788,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T12:27:27.658238+00:00"
+   "last_change": "2026-11-09T17:56:30.464729+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -354,14 +354,14 @@
   "#YYVYCLLG9": {
    "name": "ЧaPoДeЙ",
    "values": {
-    "donations": 546,
+    "donations": 596,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 1695,
     "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T16:59:34.864466+00:00"
+   "last_change": "2026-11-09T17:56:30.464729+00:00"
   },
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
@@ -577,12 +577,12 @@
    "values": {
     "donations": 184,
     "donationsReceived": 0,
-    "trophies": 0,
+    "trophies": 27,
     "builderBaseTrophies": 2782,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T20:16:26.063011+00:00",
-   "last_change": "2026-11-09T09:02:19.130954+00:00"
+   "last_change": "2026-11-09T17:56:30.464729+00:00"
   },
   "#2V8G8G8UL": {
    "name": "ismail argun",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-09T17:25:52.575425+00:00"
+ "updated": "2026-11-09T17:56:30.598993+00:00"
 }
