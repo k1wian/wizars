@@ -68,11 +68,11 @@
     "donations": 438,
     "donationsReceived": 0,
     "trophies": 652,
-    "builderBaseTrophies": 2998,
+    "builderBaseTrophies": 2973,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T11:31:42.400078+00:00"
+   "last_change": "2026-11-09T01:45:14.030897+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -139,12 +139,12 @@
    "values": {
     "donations": 1269,
     "donationsReceived": 196,
-    "trophies": 472,
+    "trophies": 486,
     "builderBaseTrophies": 3194,
     "expLevel": 186
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T14:02:12.660317+00:00"
+   "last_change": "2026-11-09T01:45:14.030897+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -549,12 +549,12 @@
    "values": {
     "donations": 2,
     "donationsReceived": 264,
-    "trophies": 172,
+    "trophies": 190,
     "builderBaseTrophies": 2504,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T22:19:19.024217+00:00"
+   "last_change": "2026-11-09T01:45:14.030897+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-09T00:29:03.094931+00:00"
+ "updated": "2026-11-09T01:45:14.251857+00:00"
 }
