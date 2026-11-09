@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 3040,
+    "donations": 3123,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 4307,
     "expLevel": 249
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T14:09:12.394002+00:00"
+   "last_change": "2026-11-09T20:53:46.713804+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 660,
-    "donationsReceived": 2539,
+    "donationsReceived": 2622,
     "trophies": 41,
     "builderBaseTrophies": 3110,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T20:51:30.736805+00:00"
+   "last_change": "2026-11-09T20:53:46.713804+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-09T20:51:31.358103+00:00"
+ "updated": "2026-11-09T20:53:46.896852+00:00"
 }
