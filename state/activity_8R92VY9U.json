@@ -379,12 +379,12 @@
    "values": {
     "donations": 320,
     "donationsReceived": 383,
-    "trophies": 547,
+    "trophies": 0,
     "builderBaseTrophies": 3003,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T00:03:54.290773+00:00"
+   "last_change": "2026-11-09T05:20:03.452818+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -452,12 +452,12 @@
    "values": {
     "donations": 177,
     "donationsReceived": 0,
-    "trophies": 20,
+    "trophies": 0,
     "builderBaseTrophies": 1209,
     "expLevel": 139
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T17:08:28.354073+00:00"
+   "last_change": "2026-11-09T05:20:03.452818+00:00"
   },
   "#8JJ8Q2GJJ": {
    "name": "Pt.urchick",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-09T05:17:52.748940+00:00"
+ "updated": "2026-11-09T05:20:03.900556+00:00"
 }
