@@ -319,12 +319,12 @@
    "values": {
     "donations": 0,
     "donationsReceived": 50,
-    "trophies": 135,
+    "trophies": 164,
     "builderBaseTrophies": 2867,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T07:54:52.098220+00:00"
+   "last_change": "2026-11-09T02:49:18.139592+00:00"
   },
   "#2CY9LV9CQ": {
    "name": "Antony",
@@ -575,11 +575,11 @@
     "donations": 104,
     "donationsReceived": 0,
     "trophies": 508,
-    "builderBaseTrophies": 2651,
+    "builderBaseTrophies": 2732,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T20:16:26.063011+00:00",
-   "last_change": "2026-11-08T12:57:25.264174+00:00"
+   "last_change": "2026-11-09T02:49:18.139592+00:00"
   },
   "#2V8G8G8UL": {
    "name": "ismail argun",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-09T02:11:11.135463+00:00"
+ "updated": "2026-11-09T02:49:18.443069+00:00"
 }
