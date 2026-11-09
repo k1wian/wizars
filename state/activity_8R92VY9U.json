@@ -79,12 +79,12 @@
    "values": {
     "donations": 912,
     "donationsReceived": 1467,
-    "trophies": 743,
+    "trophies": 0,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T05:04:37.879733+00:00"
+   "last_change": "2026-11-09T05:13:27.216838+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -163,12 +163,12 @@
    "values": {
     "donations": 307,
     "donationsReceived": 0,
-    "trophies": 329,
+    "trophies": 0,
     "builderBaseTrophies": 3478,
     "expLevel": 208
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T13:45:13.594440+00:00"
+   "last_change": "2026-11-09T05:13:27.216838+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -475,14 +475,14 @@
   "#GJP0LPR08": {
    "name": "isoala",
    "values": {
-    "donations": 315,
+    "donations": 368,
     "donationsReceived": 819,
     "trophies": 432,
     "builderBaseTrophies": 2978,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T05:04:37.879733+00:00"
+   "last_change": "2026-11-09T05:13:27.216838+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -500,13 +500,13 @@
    "name": "Қазақ",
    "values": {
     "donations": 549,
-    "donationsReceived": 264,
+    "donationsReceived": 317,
     "trophies": 0,
     "builderBaseTrophies": 2653,
     "expLevel": 192
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-07T16:32:18.736788+00:00"
+   "last_change": "2026-11-09T05:13:27.216838+00:00"
   },
   "#YLLGJYQ9V": {
    "name": "drakoslik",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-09T05:11:17.399393+00:00"
+ "updated": "2026-11-09T05:13:27.466144+00:00"
 }
