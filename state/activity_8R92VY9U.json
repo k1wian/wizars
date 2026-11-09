@@ -127,12 +127,12 @@
    "values": {
     "donations": 941,
     "donationsReceived": 496,
-    "trophies": 0,
+    "trophies": 14,
     "builderBaseTrophies": 3283,
     "expLevel": 202
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T06:06:43.083057+00:00"
+   "last_change": "2026-11-09T20:49:18.449498+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -200,11 +200,11 @@
     "donations": 660,
     "donationsReceived": 2539,
     "trophies": 41,
-    "builderBaseTrophies": 3105,
+    "builderBaseTrophies": 3081,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T20:47:09.081727+00:00"
+   "last_change": "2026-11-09T20:49:18.449498+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-09T20:47:09.625222+00:00"
+ "updated": "2026-11-09T20:49:18.937726+00:00"
 }
