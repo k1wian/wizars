@@ -173,14 +173,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 843,
+    "donations": 893,
     "donationsReceived": 1433,
     "trophies": 0,
     "builderBaseTrophies": 3788,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T17:56:30.464729+00:00"
+   "last_change": "2026-11-09T18:52:09.473782+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -222,25 +222,25 @@
    "name": "mikki",
    "values": {
     "donations": 473,
-    "donationsReceived": 1760,
+    "donationsReceived": 1813,
     "trophies": 34,
-    "builderBaseTrophies": 3339,
+    "builderBaseTrophies": 3338,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T18:22:50.039317+00:00"
+   "last_change": "2026-11-09T18:52:09.473782+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
    "values": {
-    "donations": 182,
-    "donationsReceived": 669,
+    "donations": 235,
+    "donationsReceived": 719,
     "trophies": 0,
     "builderBaseTrophies": 2783,
     "expLevel": 164
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T10:23:17.406100+00:00"
+   "last_change": "2026-11-09T18:52:09.473782+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-09T18:22:50.230006+00:00"
+ "updated": "2026-11-09T18:52:09.733196+00:00"
 }
