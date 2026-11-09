@@ -187,12 +187,12 @@
    "values": {
     "donations": 252,
     "donationsReceived": 0,
-    "trophies": 0,
+    "trophies": 15,
     "builderBaseTrophies": 3453,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T06:02:23.404030+00:00"
+   "last_change": "2026-11-09T19:58:30.183165+00:00"
   },
   "#GLYP9PJJ9": {
    "name": "GAS",
@@ -382,10 +382,10 @@
     "donationsReceived": 383,
     "trophies": 0,
     "builderBaseTrophies": 3003,
-    "expLevel": 172
+    "expLevel": 173
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T05:20:03.452818+00:00"
+   "last_change": "2026-11-09T19:58:30.183165+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-09T19:56:00.725594+00:00"
+ "updated": "2026-11-09T19:58:30.418728+00:00"
 }
