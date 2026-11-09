@@ -235,12 +235,12 @@
    "values": {
     "donations": 51,
     "donationsReceived": 566,
-    "trophies": 184,
+    "trophies": 203,
     "builderBaseTrophies": 2783,
     "expLevel": 164
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T18:01:59.189044+00:00"
+   "last_change": "2026-11-09T00:03:54.290773+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -283,12 +283,12 @@
    "values": {
     "donations": 251,
     "donationsReceived": 470,
-    "trophies": 468,
+    "trophies": 508,
     "builderBaseTrophies": 2953,
     "expLevel": 137
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T12:53:11.465982+00:00"
+   "last_change": "2026-11-09T00:03:54.290773+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -379,12 +379,12 @@
    "values": {
     "donations": 320,
     "donationsReceived": 383,
-    "trophies": 527,
+    "trophies": 547,
     "builderBaseTrophies": 3003,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T23:05:39.865386+00:00"
+   "last_change": "2026-11-09T00:03:54.290773+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-08T23:30:56.102540+00:00"
+ "updated": "2026-11-09T00:03:54.413644+00:00"
 }
