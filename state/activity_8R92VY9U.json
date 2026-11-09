@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 433,
-    "donationsReceived": 1500,
+    "donationsReceived": 1553,
     "trophies": 0,
     "builderBaseTrophies": 3315,
     "expLevel": 173
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T06:17:31.869778+00:00"
+   "last_change": "2026-11-09T07:54:05.594747+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -269,14 +269,14 @@
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
-    "donations": 592,
-    "donationsReceived": 1511,
+    "donations": 632,
+    "donationsReceived": 1561,
     "trophies": 0,
     "builderBaseTrophies": 3184,
     "expLevel": 169
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T06:02:23.404030+00:00"
+   "last_change": "2026-11-09T07:54:05.594747+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -414,14 +414,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 2516,
+    "donations": 2576,
     "donationsReceived": 5261,
     "trophies": 0,
     "builderBaseTrophies": 3537,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T06:17:31.869778+00:00"
+   "last_change": "2026-11-09T07:54:05.594747+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -475,14 +475,14 @@
   "#GJP0LPR08": {
    "name": "isoala",
    "values": {
-    "donations": 418,
-    "donationsReceived": 875,
+    "donations": 471,
+    "donationsReceived": 925,
     "trophies": 0,
-    "builderBaseTrophies": 2978,
+    "builderBaseTrophies": 3006,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T06:17:31.869778+00:00"
+   "last_change": "2026-11-09T07:54:05.594747+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-09T06:28:24.039742+00:00"
+ "updated": "2026-11-09T07:54:05.987807+00:00"
 }
