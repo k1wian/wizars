@@ -223,12 +223,12 @@
    "values": {
     "donations": 473,
     "donationsReceived": 1813,
-    "trophies": 34,
+    "trophies": 53,
     "builderBaseTrophies": 3338,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T18:52:09.473782+00:00"
+   "last_change": "2026-11-09T20:16:03.812549+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-09T20:13:54.640713+00:00"
+ "updated": "2026-11-09T20:16:04.025620+00:00"
 }
