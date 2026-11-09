@@ -957,7 +957,7 @@
   "kind": "cwl",
   "opponent": "bugis chek11",
   "end": "20261109T100323.000Z",
-  "state": "inWar",
+  "state": "warEnded",
   "attacks_per_member": 1,
   "members": {
    "#828Y2YJYJ": {
