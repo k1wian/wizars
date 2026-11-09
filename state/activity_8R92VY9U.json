@@ -527,12 +527,12 @@
    "values": {
     "donations": 0,
     "donationsReceived": 0,
-    "trophies": 0,
+    "trophies": 22,
     "builderBaseTrophies": 455,
     "expLevel": 80
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T20:09:29.185916+00:00"
+   "last_change": "2026-11-09T20:13:54.362184+00:00"
   },
   "#YQVJCUULP": {
    "name": "ПЕчеНЬка",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-09T20:11:45.785968+00:00"
+ "updated": "2026-11-09T20:13:54.640713+00:00"
 }
