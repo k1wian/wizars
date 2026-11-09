@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 3037,
+    "donations": 3040,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 4307,
     "expLevel": 249
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T10:23:17.406100+00:00"
+   "last_change": "2026-11-09T14:09:12.394002+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -601,13 +601,13 @@
    "name": "KNYAZ",
    "values": {
     "donations": 219,
-    "donationsReceived": 153,
+    "donationsReceived": 156,
     "trophies": 0,
     "builderBaseTrophies": 3839,
     "expLevel": 190
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-09T14:06:59.701599+00:00"
+   "last_change": "2026-11-09T14:09:12.394002+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T10:23:17.406100+00:00"
   }
  },
- "updated": "2026-11-09T14:07:00.131785+00:00"
+ "updated": "2026-11-09T14:09:13.144126+00:00"
 }
