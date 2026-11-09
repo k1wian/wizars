@@ -31,11 +31,11 @@
     "donations": 679,
     "donationsReceived": 582,
     "trophies": 0,
-    "builderBaseTrophies": 4962,
-    "expLevel": 226
+    "builderBaseTrophies": 5076,
+    "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T14:49:58.658396+00:00"
+   "last_change": "2026-11-09T20:47:09.081727+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -139,12 +139,12 @@
    "values": {
     "donations": 1319,
     "donationsReceived": 314,
-    "trophies": 10,
+    "trophies": 18,
     "builderBaseTrophies": 3194,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T18:16:21.355197+00:00"
+   "last_change": "2026-11-09T20:47:09.081727+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 557,
-    "donationsReceived": 2406,
-    "trophies": 0,
-    "builderBaseTrophies": 3120,
+    "donations": 660,
+    "donationsReceived": 2539,
+    "trophies": 41,
+    "builderBaseTrophies": 3105,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T11:23:46.748435+00:00"
+   "last_change": "2026-11-09T20:47:09.081727+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -269,14 +269,14 @@
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
-    "donations": 682,
-    "donationsReceived": 1611,
+    "donations": 714,
+    "donationsReceived": 1724,
     "trophies": 16,
     "builderBaseTrophies": 3134,
     "expLevel": 169
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T18:54:23.195434+00:00"
+   "last_change": "2026-11-09T20:47:09.081727+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -354,14 +354,14 @@
   "#YYVYCLLG9": {
    "name": "ЧaPoДeЙ",
    "values": {
-    "donations": 732,
+    "donations": 783,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 1695,
     "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T18:14:14.242078+00:00"
+   "last_change": "2026-11-09T20:47:09.081727+00:00"
   },
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
@@ -378,14 +378,14 @@
   "#LG2LULGQJ": {
    "name": "Enot1k",
    "values": {
-    "donations": 320,
+    "donations": 365,
     "donationsReceived": 383,
     "trophies": 0,
     "builderBaseTrophies": 3003,
     "expLevel": 173
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T19:58:30.183165+00:00"
+   "last_change": "2026-11-09T20:47:09.081727+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -415,14 +415,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 2726,
+    "donations": 2731,
     "donationsReceived": 5612,
     "trophies": 0,
     "builderBaseTrophies": 3537,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T14:49:58.658396+00:00"
+   "last_change": "2026-11-09T20:47:09.081727+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -513,26 +513,26 @@
   "#YLLGJYQ9V": {
    "name": "drakoslik",
    "values": {
-    "donations": 0,
+    "donations": 10,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 1052,
     "expLevel": 98
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T19:34:43.459208+00:00"
+   "last_change": "2026-11-09T20:47:09.081727+00:00"
   },
   "#GC0UJR2GP": {
    "name": "DeMoN",
    "values": {
     "donations": 0,
     "donationsReceived": 0,
-    "trophies": 22,
+    "trophies": 48,
     "builderBaseTrophies": 455,
     "expLevel": 80
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T20:13:54.362184+00:00"
+   "last_change": "2026-11-09T20:47:09.081727+00:00"
   },
   "#YQVJCUULP": {
    "name": "ПЕчеНЬка",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-09T20:18:18.641265+00:00"
+ "updated": "2026-11-09T20:47:09.625222+00:00"
 }
