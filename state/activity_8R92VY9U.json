@@ -490,11 +490,11 @@
     "donations": 0,
     "donationsReceived": 0,
     "trophies": 0,
-    "builderBaseTrophies": 2417,
+    "builderBaseTrophies": 2418,
     "expLevel": 108
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T08:11:28.348770+00:00"
+   "last_change": "2026-11-09T08:13:36.757778+00:00"
   },
   "#GCL2GPQC2": {
    "name": "Қазақ",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-09T08:11:28.468707+00:00"
+ "updated": "2026-11-09T08:13:36.879436+00:00"
 }
