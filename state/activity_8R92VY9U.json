@@ -28,14 +28,14 @@
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 679,
+    "donations": 689,
     "donationsReceived": 582,
     "trophies": 0,
     "builderBaseTrophies": 5076,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T20:47:09.081727+00:00"
+   "last_change": "2026-11-09T21:52:58.444114+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 235,
-    "donationsReceived": 772,
+    "donationsReceived": 782,
     "trophies": 29,
     "builderBaseTrophies": 2783,
     "expLevel": 164
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T21:50:43.556985+00:00"
+   "last_change": "2026-11-09T21:52:58.444114+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-09T21:50:45.334350+00:00"
+ "updated": "2026-11-09T21:52:58.593956+00:00"
 }
