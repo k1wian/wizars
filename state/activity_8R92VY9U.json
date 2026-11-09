@@ -173,14 +173,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 827,
+    "donations": 837,
     "donationsReceived": 1433,
     "trophies": 0,
     "builderBaseTrophies": 3788,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T10:23:17.406100+00:00"
+   "last_change": "2026-11-09T12:27:27.658238+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -221,14 +221,14 @@
   "#GJLUCQ2CC": {
    "name": "mikki",
    "values": {
-    "donations": 433,
-    "donationsReceived": 1657,
+    "donations": 473,
+    "donationsReceived": 1707,
     "trophies": 0,
     "builderBaseTrophies": 3315,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T10:23:17.406100+00:00"
+   "last_change": "2026-11-09T12:27:27.658238+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -269,14 +269,14 @@
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
-    "donations": 632,
-    "donationsReceived": 1561,
+    "donations": 682,
+    "donationsReceived": 1611,
     "trophies": 0,
     "builderBaseTrophies": 3184,
     "expLevel": 169
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T07:54:05.594747+00:00"
+   "last_change": "2026-11-09T12:27:27.658238+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T10:23:17.406100+00:00"
   }
  },
- "updated": "2026-11-09T11:49:23.663894+00:00"
+ "updated": "2026-11-09T12:27:27.974872+00:00"
 }
