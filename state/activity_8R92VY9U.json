@@ -199,12 +199,12 @@
    "values": {
     "donations": 706,
     "donationsReceived": 2622,
-    "trophies": 41,
-    "builderBaseTrophies": 3120,
-    "expLevel": 178
+    "trophies": 52,
+    "builderBaseTrophies": 3099,
+    "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T22:01:37.418567+00:00"
+   "last_change": "2026-11-09T22:40:40.541581+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -604,10 +604,10 @@
     "donationsReceived": 156,
     "trophies": 24,
     "builderBaseTrophies": 3839,
-    "expLevel": 190
+    "expLevel": 191
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-09T19:51:31.066958+00:00"
+   "last_change": "2026-11-09T22:40:40.541581+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-09T22:10:16.008034+00:00"
+ "updated": "2026-11-09T22:40:40.789615+00:00"
 }
