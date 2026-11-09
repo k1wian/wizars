@@ -78,13 +78,13 @@
    "name": "Ukrop",
    "values": {
     "donations": 912,
-    "donationsReceived": 1384,
+    "donationsReceived": 1388,
     "trophies": 743,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T21:20:14.994223+00:00"
+   "last_change": "2026-11-09T03:50:44.923999+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 497,
-    "donationsReceived": 2268,
+    "donations": 554,
+    "donationsReceived": 2315,
     "trophies": 352,
     "builderBaseTrophies": 3087,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T19:16:26.219978+00:00"
+   "last_change": "2026-11-09T03:50:44.923999+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -281,14 +281,14 @@
   "#QUPVR0CU2": {
    "name": "чвв",
    "values": {
-    "donations": 251,
-    "donationsReceived": 470,
+    "donations": 298,
+    "donationsReceived": 523,
     "trophies": 508,
     "builderBaseTrophies": 2953,
     "expLevel": 137
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T00:03:54.290773+00:00"
+   "last_change": "2026-11-09T03:50:44.923999+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-09T03:15:52.770655+00:00"
+ "updated": "2026-11-09T03:50:45.079640+00:00"
 }
