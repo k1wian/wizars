@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 554,
+    "donations": 557,
     "donationsReceived": 2351,
     "trophies": 0,
     "builderBaseTrophies": 3087,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T06:02:23.404030+00:00"
+   "last_change": "2026-11-09T07:58:40.990394+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -476,13 +476,13 @@
    "name": "isoala",
    "values": {
     "donations": 471,
-    "donationsReceived": 925,
+    "donationsReceived": 928,
     "trophies": 0,
     "builderBaseTrophies": 3006,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T07:54:05.594747+00:00"
+   "last_change": "2026-11-09T07:58:40.990394+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -632,5 +632,5 @@
    "left_at": "2026-11-08T17:19:18.381375+00:00"
   }
  },
- "updated": "2026-11-09T07:56:31.392543+00:00"
+ "updated": "2026-11-09T07:58:41.130114+00:00"
 }
