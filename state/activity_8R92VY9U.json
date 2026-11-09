@@ -354,14 +354,14 @@
   "#YYVYCLLG9": {
    "name": "ЧaPoДeЙ",
    "values": {
-    "donations": 596,
+    "donations": 679,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 1695,
     "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T17:56:30.464729+00:00"
+   "last_change": "2026-11-09T18:05:23.398168+00:00"
   },
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
@@ -551,13 +551,13 @@
    "name": "*Kurama*",
    "values": {
     "donations": 2,
-    "donationsReceived": 264,
+    "donationsReceived": 347,
     "trophies": 0,
     "builderBaseTrophies": 2504,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T06:02:23.404030+00:00"
+   "last_change": "2026-11-09T18:05:23.398168+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-09T18:02:59.716458+00:00"
+ "updated": "2026-11-09T18:05:24.588490+00:00"
 }
