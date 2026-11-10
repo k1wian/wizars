@@ -479,12 +479,12 @@
    "values": {
     "donations": 607,
     "donationsReceived": 1131,
-    "trophies": 106,
+    "trophies": 146,
     "builderBaseTrophies": 3045,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T13:50:28.956869+00:00"
+   "last_change": "2026-11-10T13:54:37.997267+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -646,7 +646,19 @@
    },
    "first_seen": "2026-11-09T10:23:17.406100+00:00",
    "last_change": "2026-11-10T10:25:51.890267+00:00"
+  },
+  "#PY98VG0UU": {
+   "name": "$$vitalik$$",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 0,
+    "builderBaseTrophies": 4019,
+    "expLevel": 210
+   },
+   "first_seen": "2026-11-10T13:54:37.997267+00:00",
+   "last_change": "2026-11-10T13:54:37.997267+00:00"
   }
  },
- "updated": "2026-11-10T13:52:34.779122+00:00"
+ "updated": "2026-11-10T13:54:38.127640+00:00"
 }
