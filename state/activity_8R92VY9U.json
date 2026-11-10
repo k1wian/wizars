@@ -247,12 +247,12 @@
    "values": {
     "donations": 208,
     "donationsReceived": 113,
-    "trophies": 0,
+    "trophies": 18,
     "builderBaseTrophies": 2949,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T06:02:23.404030+00:00"
+   "last_change": "2026-11-10T16:58:25.306877+00:00"
   },
   "#YC9CG9C9G": {
    "name": "k1wian",
@@ -661,5 +661,5 @@
    "last_change": "2026-11-10T14:50:28.205028+00:00"
   }
  },
- "updated": "2026-11-10T16:56:21.308884+00:00"
+ "updated": "2026-11-10T16:58:25.487331+00:00"
 }
