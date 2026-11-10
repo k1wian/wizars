@@ -223,12 +223,12 @@
    "values": {
     "donations": 576,
     "donationsReceived": 1963,
-    "trophies": 93,
+    "trophies": 124,
     "builderBaseTrophies": 3324,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T21:38:20.227826+00:00"
+   "last_change": "2026-11-10T21:40:26.146568+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -270,13 +270,13 @@
    "name": "Sənan",
    "values": {
     "donations": 764,
-    "donationsReceived": 1877,
+    "donationsReceived": 1887,
     "trophies": 72,
     "builderBaseTrophies": 3134,
     "expLevel": 169
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T21:38:20.227826+00:00"
+   "last_change": "2026-11-10T21:40:26.146568+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -676,15 +676,15 @@
   "#89J988YYJ": {
    "name": ".MONSTER.",
    "values": {
-    "donations": 0,
+    "donations": 10,
     "donationsReceived": 0,
     "trophies": 455,
     "builderBaseTrophies": 3052,
     "expLevel": 187
    },
    "first_seen": "2026-11-10T20:39:16.308365+00:00",
-   "last_change": "2026-11-10T21:36:14.927298+00:00"
+   "last_change": "2026-11-10T21:40:26.146568+00:00"
   }
  },
- "updated": "2026-11-10T21:38:21.168639+00:00"
+ "updated": "2026-11-10T21:40:27.032286+00:00"
 }
