@@ -91,12 +91,12 @@
    "values": {
     "donations": 0,
     "donationsReceived": 0,
-    "trophies": 0,
+    "trophies": 10,
     "builderBaseTrophies": 3636,
     "expLevel": 183
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-10T12:18:53.365187+00:00"
   },
   "#9PR09PCV": {
    "name": "шах",
@@ -648,5 +648,5 @@
    "last_change": "2026-11-10T10:25:51.890267+00:00"
   }
  },
- "updated": "2026-11-10T11:45:12.786959+00:00"
+ "updated": "2026-11-10T12:18:53.682617+00:00"
 }
