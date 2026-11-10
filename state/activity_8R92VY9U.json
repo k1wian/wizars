@@ -77,14 +77,14 @@
   "#LLUUPVJQ9": {
    "name": "Ukrop",
    "values": {
-    "donations": 1003,
+    "donations": 1106,
     "donationsReceived": 1560,
     "trophies": 41,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T11:20:08.561734+00:00"
+   "last_change": "2026-11-10T13:38:07.075331+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -199,12 +199,12 @@
    "values": {
     "donations": 822,
     "donationsReceived": 2755,
-    "trophies": 171,
+    "trophies": 240,
     "builderBaseTrophies": 3099,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T10:46:32.143731+00:00"
+   "last_change": "2026-11-10T13:38:07.075331+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -478,13 +478,13 @@
    "name": "isoala",
    "values": {
     "donations": 607,
-    "donationsReceived": 1078,
-    "trophies": 30,
+    "donationsReceived": 1131,
+    "trophies": 42,
     "builderBaseTrophies": 3045,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T09:20:40.517712+00:00"
+   "last_change": "2026-11-10T13:38:07.075331+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -577,13 +577,13 @@
    "name": "Егор51 батя",
    "values": {
     "donations": 280,
-    "donationsReceived": 0,
+    "donationsReceived": 50,
     "trophies": 39,
     "builderBaseTrophies": 2875,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T20:16:26.063011+00:00",
-   "last_change": "2026-11-10T12:25:04.068071+00:00"
+   "last_change": "2026-11-10T13:38:07.075331+00:00"
   },
   "#2V8G8G8UL": {
    "name": "ismail argun",
@@ -648,5 +648,5 @@
    "last_change": "2026-11-10T10:25:51.890267+00:00"
   }
  },
- "updated": "2026-11-10T12:45:46.799352+00:00"
+ "updated": "2026-11-10T13:38:07.188811+00:00"
 }
