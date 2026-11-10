@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 1473,
-    "donationsReceived": 2730,
+    "donationsReceived": 2781,
     "trophies": 52,
     "builderBaseTrophies": 3524,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T19:55:04.869282+00:00"
+   "last_change": "2026-11-10T19:59:11.723918+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -222,25 +222,25 @@
    "name": "mikki",
    "values": {
     "donations": 473,
-    "donationsReceived": 1863,
+    "donationsReceived": 1913,
     "trophies": 53,
     "builderBaseTrophies": 3324,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T16:45:57.005518+00:00"
+   "last_change": "2026-11-10T19:59:11.723918+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
    "values": {
-    "donations": 341,
+    "donations": 344,
     "donationsReceived": 918,
     "trophies": 122,
     "builderBaseTrophies": 2783,
     "expLevel": 164
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T18:03:49.408396+00:00"
+   "last_change": "2026-11-10T19:59:11.723918+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -577,14 +577,14 @@
   "#YJRQVLQ9Q": {
    "name": "Егор51 батя",
    "values": {
-    "donations": 280,
+    "donations": 378,
     "donationsReceived": 80,
     "trophies": 39,
     "builderBaseTrophies": 2875,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T20:16:26.063011+00:00",
-   "last_change": "2026-11-10T14:50:28.205028+00:00"
+   "last_change": "2026-11-10T19:59:11.723918+00:00"
   },
   "#2V8G8G8UL": {
    "name": "ismail argun",
@@ -674,5 +674,5 @@
    "left_at": "2026-11-10T18:52:44.630387+00:00"
   }
  },
- "updated": "2026-11-10T19:57:08.464881+00:00"
+ "updated": "2026-11-10T19:59:11.902548+00:00"
 }
