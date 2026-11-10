@@ -479,12 +479,12 @@
    "values": {
     "donations": 607,
     "donationsReceived": 1131,
-    "trophies": 81,
+    "trophies": 92,
     "builderBaseTrophies": 3045,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T13:44:17.292950+00:00"
+   "last_change": "2026-11-10T13:46:20.751616+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -615,12 +615,12 @@
    "values": {
     "donations": 30,
     "donationsReceived": 0,
-    "trophies": 0,
+    "trophies": 28,
     "builderBaseTrophies": 2703,
     "expLevel": 161
    },
    "first_seen": "2026-11-08T16:17:48.619234+00:00",
-   "last_change": "2026-11-09T05:24:23.210036+00:00"
+   "last_change": "2026-11-10T13:46:20.751616+00:00"
   },
   "#G2UPLL0L8": {
    "name": "Lord",
@@ -648,5 +648,5 @@
    "last_change": "2026-11-10T10:25:51.890267+00:00"
   }
  },
- "updated": "2026-11-10T13:44:17.417612+00:00"
+ "updated": "2026-11-10T13:46:21.055208+00:00"
 }
