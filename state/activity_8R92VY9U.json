@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 341,
-    "donationsReceived": 825,
+    "donationsReceived": 865,
     "trophies": 52,
     "builderBaseTrophies": 2783,
     "expLevel": 164
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T08:36:37.891222+00:00"
+   "last_change": "2026-11-10T08:38:45.051791+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -476,14 +476,14 @@
   "#GJP0LPR08": {
    "name": "isoala",
    "values": {
-    "donations": 524,
+    "donations": 564,
     "donationsReceived": 1078,
-    "trophies": 18,
+    "trophies": 30,
     "builderBaseTrophies": 3056,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T08:36:37.891222+00:00"
+   "last_change": "2026-11-10T08:38:45.051791+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-10T08:36:38.411045+00:00"
+ "updated": "2026-11-10T08:38:45.191053+00:00"
 }
