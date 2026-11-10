@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 1473,
-    "donationsReceived": 2781,
+    "donationsReceived": 2892,
     "trophies": 64,
     "builderBaseTrophies": 3524,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T20:03:19.480775+00:00"
+   "last_change": "2026-11-10T20:05:23.639843+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 826,
+    "donations": 937,
     "donationsReceived": 2755,
     "trophies": 265,
     "builderBaseTrophies": 3099,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T19:03:05.539800+00:00"
+   "last_change": "2026-11-10T20:05:23.639843+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -674,5 +674,5 @@
    "left_at": "2026-11-10T18:52:44.630387+00:00"
   }
  },
- "updated": "2026-11-10T20:03:19.764771+00:00"
+ "updated": "2026-11-10T20:05:24.008210+00:00"
 }
