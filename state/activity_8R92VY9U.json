@@ -282,13 +282,13 @@
    "name": "чвв",
    "values": {
     "donations": 298,
-    "donationsReceived": 656,
+    "donationsReceived": 704,
     "trophies": 0,
     "builderBaseTrophies": 2953,
     "expLevel": 138
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T03:44:27.958414+00:00"
+   "last_change": "2026-11-10T03:50:55.733127+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -575,14 +575,14 @@
   "#YJRQVLQ9Q": {
    "name": "Егор51 батя",
    "values": {
-    "donations": 184,
+    "donations": 232,
     "donationsReceived": 0,
     "trophies": 27,
     "builderBaseTrophies": 2782,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T20:16:26.063011+00:00",
-   "last_change": "2026-11-09T17:56:30.464729+00:00"
+   "last_change": "2026-11-10T03:50:55.733127+00:00"
   },
   "#2V8G8G8UL": {
    "name": "ismail argun",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-10T03:48:45.109985+00:00"
+ "updated": "2026-11-10T03:50:56.836412+00:00"
 }
