@@ -281,14 +281,14 @@
   "#QUPVR0CU2": {
    "name": "чвв",
    "values": {
-    "donations": 298,
+    "donations": 363,
     "donationsReceived": 706,
     "trophies": 0,
     "builderBaseTrophies": 2953,
     "expLevel": 138
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T05:48:51.578390+00:00"
+   "last_change": "2026-11-10T18:54:49.188496+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -640,13 +640,13 @@
    "name": "Di_MaS_malou_",
    "values": {
     "donations": 50,
-    "donationsReceived": 183,
+    "donationsReceived": 248,
     "trophies": 0,
     "builderBaseTrophies": 2990,
     "expLevel": 190
    },
    "first_seen": "2026-11-09T10:23:17.406100+00:00",
-   "last_change": "2026-11-10T10:25:51.890267+00:00"
+   "last_change": "2026-11-10T18:54:49.188496+00:00"
   },
   "#PY98VG0UU": {
    "name": "$$vitalik$$",
@@ -674,5 +674,5 @@
    "left_at": "2026-11-10T18:52:44.630387+00:00"
   }
  },
- "updated": "2026-11-10T18:52:45.232384+00:00"
+ "updated": "2026-11-10T18:54:49.531004+00:00"
 }
