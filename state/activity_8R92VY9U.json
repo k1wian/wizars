@@ -659,7 +659,19 @@
    },
    "first_seen": "2026-11-10T13:54:37.997267+00:00",
    "last_change": "2026-11-10T14:50:28.205028+00:00"
+  },
+  "#GGPQLRJGC": {
+   "name": "styushka",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 257,
+    "builderBaseTrophies": 2948,
+    "expLevel": 188
+   },
+   "first_seen": "2026-11-10T18:50:37.725839+00:00",
+   "last_change": "2026-11-10T18:50:37.725839+00:00"
   }
  },
- "updated": "2026-11-10T18:48:32.782447+00:00"
+ "updated": "2026-11-10T18:50:37.932145+00:00"
 }
