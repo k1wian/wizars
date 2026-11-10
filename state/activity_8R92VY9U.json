@@ -78,13 +78,13 @@
    "name": "Ukrop",
    "values": {
     "donations": 1000,
-    "donationsReceived": 1467,
+    "donationsReceived": 1469,
     "trophies": 30,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T23:07:07.992403+00:00"
+   "last_change": "2026-11-10T02:08:10.591041+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -209,14 +209,14 @@
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
    "values": {
-    "donations": 447,
+    "donations": 449,
     "donationsReceived": 249,
     "trophies": 0,
     "builderBaseTrophies": 3602,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-08T06:53:42.549243+00:00"
+   "last_change": "2026-11-10T02:08:10.591041+00:00"
   },
   "#GJLUCQ2CC": {
    "name": "mikki",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-10T02:05:52.715730+00:00"
+ "updated": "2026-11-10T02:08:10.750890+00:00"
 }
