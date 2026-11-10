@@ -223,12 +223,12 @@
    "values": {
     "donations": 473,
     "donationsReceived": 1913,
-    "trophies": 53,
+    "trophies": 93,
     "builderBaseTrophies": 3324,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T19:59:11.723918+00:00"
+   "last_change": "2026-11-10T21:36:14.927298+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -271,12 +271,12 @@
    "values": {
     "donations": 714,
     "donationsReceived": 1774,
-    "trophies": 32,
+    "trophies": 72,
     "builderBaseTrophies": 3134,
     "expLevel": 169
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T16:45:57.005518+00:00"
+   "last_change": "2026-11-10T21:36:14.927298+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -678,13 +678,13 @@
    "values": {
     "donations": 0,
     "donationsReceived": 0,
-    "trophies": 114,
+    "trophies": 455,
     "builderBaseTrophies": 3052,
     "expLevel": 187
    },
    "first_seen": "2026-11-10T20:39:16.308365+00:00",
-   "last_change": "2026-11-10T21:04:26.690836+00:00"
+   "last_change": "2026-11-10T21:36:14.927298+00:00"
   }
  },
- "updated": "2026-11-10T21:04:27.121685+00:00"
+ "updated": "2026-11-10T21:36:15.174947+00:00"
 }
