@@ -78,13 +78,13 @@
    "name": "Ukrop",
    "values": {
     "donations": 1000,
-    "donationsReceived": 1469,
+    "donationsReceived": 1480,
     "trophies": 30,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T02:08:10.591041+00:00"
+   "last_change": "2026-11-10T03:44:27.958414+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -175,12 +175,12 @@
    "values": {
     "donations": 893,
     "donationsReceived": 1433,
-    "trophies": 0,
+    "trophies": 9,
     "builderBaseTrophies": 3788,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T18:52:09.473782+00:00"
+   "last_change": "2026-11-10T03:44:27.958414+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -285,10 +285,10 @@
     "donationsReceived": 656,
     "trophies": 0,
     "builderBaseTrophies": 2953,
-    "expLevel": 137
+    "expLevel": 138
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T16:59:34.864466+00:00"
+   "last_change": "2026-11-10T03:44:27.958414+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -477,13 +477,13 @@
    "name": "isoala",
    "values": {
     "donations": 524,
-    "donationsReceived": 978,
+    "donationsReceived": 1028,
     "trophies": 0,
     "builderBaseTrophies": 3056,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T03:11:22.600782+00:00"
+   "last_change": "2026-11-10T03:44:27.958414+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -600,14 +600,14 @@
   "#QQLGR0C9G": {
    "name": "KNYAZ",
    "values": {
-    "donations": 219,
+    "donations": 280,
     "donationsReceived": 156,
     "trophies": 24,
     "builderBaseTrophies": 3839,
     "expLevel": 191
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-09T22:40:40.541581+00:00"
+   "last_change": "2026-11-10T03:44:27.958414+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-10T03:13:29.588486+00:00"
+ "updated": "2026-11-10T03:44:28.171201+00:00"
 }
