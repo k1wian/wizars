@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 1473,
-    "donationsReceived": 2892,
+    "donationsReceived": 2973,
     "trophies": 87,
     "builderBaseTrophies": 3524,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T20:07:29.017707+00:00"
+   "last_change": "2026-11-10T20:09:32.931974+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 937,
+    "donations": 967,
     "donationsReceived": 2755,
     "trophies": 265,
     "builderBaseTrophies": 3099,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T20:05:23.639843+00:00"
+   "last_change": "2026-11-10T20:09:32.931974+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -235,12 +235,12 @@
    "values": {
     "donations": 344,
     "donationsReceived": 918,
-    "trophies": 173,
+    "trophies": 203,
     "builderBaseTrophies": 2783,
     "expLevel": 164
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T20:07:29.017707+00:00"
+   "last_change": "2026-11-10T20:09:32.931974+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -281,14 +281,14 @@
   "#QUPVR0CU2": {
    "name": "чвв",
    "values": {
-    "donations": 363,
+    "donations": 414,
     "donationsReceived": 706,
     "trophies": 0,
     "builderBaseTrophies": 2953,
     "expLevel": 138
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T18:54:49.188496+00:00"
+   "last_change": "2026-11-10T20:09:32.931974+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -674,5 +674,5 @@
    "left_at": "2026-11-10T18:52:44.630387+00:00"
   }
  },
- "updated": "2026-11-10T20:07:29.411885+00:00"
+ "updated": "2026-11-10T20:09:33.200231+00:00"
 }
