@@ -139,12 +139,12 @@
    "values": {
     "donations": 1425,
     "donationsReceived": 314,
-    "trophies": 399,
+    "trophies": 439,
     "builderBaseTrophies": 3194,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T10:40:23.376395+00:00"
+   "last_change": "2026-11-10T10:44:29.677769+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -199,12 +199,12 @@
    "values": {
     "donations": 822,
     "donationsReceived": 2755,
-    "trophies": 146,
+    "trophies": 159,
     "builderBaseTrophies": 3099,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T10:25:51.890267+00:00"
+   "last_change": "2026-11-10T10:44:29.677769+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -648,5 +648,5 @@
    "last_change": "2026-11-10T10:25:51.890267+00:00"
   }
  },
- "updated": "2026-11-10T10:42:27.163238+00:00"
+ "updated": "2026-11-10T10:44:29.797060+00:00"
 }
