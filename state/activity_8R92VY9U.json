@@ -407,10 +407,10 @@
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3533,
-    "expLevel": 200
+    "expLevel": 201
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-06T17:02:07.539463+00:00"
+   "last_change": "2026-11-10T04:08:26.385461+00:00"
   },
   "#9JVVVJGQL": {
    "name": "KingsZ",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-10T04:06:13.352301+00:00"
+ "updated": "2026-11-10T04:08:26.584319+00:00"
 }
