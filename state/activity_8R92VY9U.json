@@ -78,13 +78,13 @@
    "name": "Ukrop",
    "values": {
     "donations": 1106,
-    "donationsReceived": 1560,
+    "donationsReceived": 1570,
     "trophies": 41,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T13:38:07.075331+00:00"
+   "last_change": "2026-11-10T13:42:14.097981+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -173,14 +173,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 900,
+    "donations": 910,
     "donationsReceived": 1433,
     "trophies": 36,
     "builderBaseTrophies": 3788,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T10:25:51.890267+00:00"
+   "last_change": "2026-11-10T13:42:14.097981+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -479,12 +479,12 @@
    "values": {
     "donations": 607,
     "donationsReceived": 1131,
-    "trophies": 54,
+    "trophies": 68,
     "builderBaseTrophies": 3045,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T13:40:09.724436+00:00"
+   "last_change": "2026-11-10T13:42:14.097981+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -648,5 +648,5 @@
    "last_change": "2026-11-10T10:25:51.890267+00:00"
   }
  },
- "updated": "2026-11-10T13:40:09.871535+00:00"
+ "updated": "2026-11-10T13:42:14.227962+00:00"
 }
