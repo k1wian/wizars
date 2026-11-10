@@ -357,12 +357,12 @@
    "values": {
     "donations": 783,
     "donationsReceived": 0,
-    "trophies": 40,
+    "trophies": 58,
     "builderBaseTrophies": 1695,
     "expLevel": 177
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T16:45:57.005518+00:00"
+   "last_change": "2026-11-10T17:49:18.929279+00:00"
   },
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
@@ -661,5 +661,5 @@
    "last_change": "2026-11-10T14:50:28.205028+00:00"
   }
  },
- "updated": "2026-11-10T17:47:15.632607+00:00"
+ "updated": "2026-11-10T17:49:19.100000+00:00"
 }
