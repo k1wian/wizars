@@ -113,14 +113,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 1455,
+    "donations": 1473,
     "donationsReceived": 2730,
     "trophies": 12,
     "builderBaseTrophies": 3524,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T16:45:57.005518+00:00"
+   "last_change": "2026-11-10T18:58:58.042038+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -640,13 +640,13 @@
    "name": "Di_MaS_malou_",
    "values": {
     "donations": 50,
-    "donationsReceived": 248,
+    "donationsReceived": 266,
     "trophies": 0,
     "builderBaseTrophies": 2990,
     "expLevel": 190
    },
    "first_seen": "2026-11-09T10:23:17.406100+00:00",
-   "last_change": "2026-11-10T18:54:49.188496+00:00"
+   "last_change": "2026-11-10T18:58:58.042038+00:00"
   },
   "#PY98VG0UU": {
    "name": "$$vitalik$$",
@@ -674,5 +674,5 @@
    "left_at": "2026-11-10T18:52:44.630387+00:00"
   }
  },
- "updated": "2026-11-10T18:56:53.590609+00:00"
+ "updated": "2026-11-10T18:58:58.205885+00:00"
 }
