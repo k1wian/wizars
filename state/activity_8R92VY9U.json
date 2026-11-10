@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 867,
+    "donations": 869,
     "donationsReceived": 249,
     "trophies": 271,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T05:48:51.578390+00:00"
+   "last_change": "2026-11-10T20:39:16.308365+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 1473,
-    "donationsReceived": 3054,
+    "donationsReceived": 3137,
     "trophies": 140,
     "builderBaseTrophies": 3524,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T20:13:41.068135+00:00"
+   "last_change": "2026-11-10T20:39:16.308365+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -163,12 +163,12 @@
    "values": {
     "donations": 423,
     "donationsReceived": 0,
-    "trophies": 46,
+    "trophies": 63,
     "builderBaseTrophies": 3478,
     "expLevel": 208
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T13:56:41.111411+00:00"
+   "last_change": "2026-11-10T20:39:16.308365+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 1048,
+    "donations": 1129,
     "donationsReceived": 2755,
     "trophies": 265,
     "builderBaseTrophies": 3099,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T20:11:37.101211+00:00"
+   "last_change": "2026-11-10T20:39:16.308365+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -235,12 +235,12 @@
    "values": {
     "donations": 344,
     "donationsReceived": 918,
-    "trophies": 203,
+    "trophies": 248,
     "builderBaseTrophies": 2783,
     "expLevel": 164
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T20:09:32.931974+00:00"
+   "last_change": "2026-11-10T20:39:16.308365+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -283,12 +283,12 @@
    "values": {
     "donations": 414,
     "donationsReceived": 706,
-    "trophies": 0,
+    "trophies": 26,
     "builderBaseTrophies": 2953,
     "expLevel": 138
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T20:09:32.931974+00:00"
+   "last_change": "2026-11-10T20:39:16.308365+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -653,12 +653,12 @@
    "values": {
     "donations": 36,
     "donationsReceived": 81,
-    "trophies": 214,
+    "trophies": 226,
     "builderBaseTrophies": 4019,
     "expLevel": 210
    },
    "first_seen": "2026-11-10T13:54:37.997267+00:00",
-   "last_change": "2026-11-10T14:50:28.205028+00:00"
+   "last_change": "2026-11-10T20:39:16.308365+00:00"
   },
   "#GGPQLRJGC": {
    "name": "styushka",
@@ -672,7 +672,19 @@
    "first_seen": "2026-11-10T18:50:37.725839+00:00",
    "last_change": "2026-11-10T18:50:37.725839+00:00",
    "left_at": "2026-11-10T18:52:44.630387+00:00"
+  },
+  "#89J988YYJ": {
+   "name": ".MONSTER.",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 0,
+    "builderBaseTrophies": 3052,
+    "expLevel": 187
+   },
+   "first_seen": "2026-11-10T20:39:16.308365+00:00",
+   "last_change": "2026-11-10T20:39:16.308365+00:00"
   }
  },
- "updated": "2026-11-10T20:13:41.278329+00:00"
+ "updated": "2026-11-10T20:39:16.576256+00:00"
 }
