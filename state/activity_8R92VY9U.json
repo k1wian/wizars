@@ -125,14 +125,14 @@
   "#Y929RQ0L2": {
    "name": "Димаш",
    "values": {
-    "donations": 941,
+    "donations": 986,
     "donationsReceived": 496,
     "trophies": 14,
     "builderBaseTrophies": 3283,
     "expLevel": 202
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T20:49:18.449498+00:00"
+   "last_change": "2026-11-10T09:36:02.851627+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -173,14 +173,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 895,
+    "donations": 900,
     "donationsReceived": 1433,
     "trophies": 9,
     "builderBaseTrophies": 3788,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T05:48:51.578390+00:00"
+   "last_change": "2026-11-10T09:36:02.851627+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 822,
-    "donationsReceived": 2705,
+    "donationsReceived": 2755,
     "trophies": 80,
     "builderBaseTrophies": 3099,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T08:15:23.947797+00:00"
+   "last_change": "2026-11-10T09:36:02.851627+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-10T09:33:52.369676+00:00"
+ "updated": "2026-11-10T09:36:03.085925+00:00"
 }
