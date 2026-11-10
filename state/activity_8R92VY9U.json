@@ -199,12 +199,12 @@
    "values": {
     "donations": 822,
     "donationsReceived": 2755,
-    "trophies": 159,
+    "trophies": 171,
     "builderBaseTrophies": 3099,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T10:44:29.677769+00:00"
+   "last_change": "2026-11-10T10:46:32.143731+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -357,12 +357,12 @@
    "values": {
     "donations": 783,
     "donationsReceived": 0,
-    "trophies": 0,
+    "trophies": 30,
     "builderBaseTrophies": 1695,
     "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T20:47:09.081727+00:00"
+   "last_change": "2026-11-10T10:46:32.143731+00:00"
   },
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
@@ -648,5 +648,5 @@
    "last_change": "2026-11-10T10:25:51.890267+00:00"
   }
  },
- "updated": "2026-11-10T10:44:29.797060+00:00"
+ "updated": "2026-11-10T10:46:32.278173+00:00"
 }
