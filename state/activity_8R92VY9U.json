@@ -163,12 +163,12 @@
    "values": {
     "donations": 307,
     "donationsReceived": 0,
-    "trophies": 17,
+    "trophies": 46,
     "builderBaseTrophies": 3478,
     "expLevel": 208
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T19:56:00.517494+00:00"
+   "last_change": "2026-11-10T08:13:11.194754+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -235,12 +235,12 @@
    "values": {
     "donations": 235,
     "donationsReceived": 825,
-    "trophies": 29,
+    "trophies": 52,
     "builderBaseTrophies": 2783,
     "expLevel": 164
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T22:01:37.418567+00:00"
+   "last_change": "2026-11-10T08:13:11.194754+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-10T07:22:55.712575+00:00"
+ "updated": "2026-11-10T08:13:11.303005+00:00"
 }
