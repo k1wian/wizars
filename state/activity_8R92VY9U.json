@@ -210,13 +210,13 @@
    "name": "Navi | Fantasy",
    "values": {
     "donations": 449,
-    "donationsReceived": 249,
+    "donationsReceived": 302,
     "trophies": 0,
     "builderBaseTrophies": 3602,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T02:08:10.591041+00:00"
+   "last_change": "2026-11-10T03:11:22.600782+00:00"
   },
   "#GJLUCQ2CC": {
    "name": "mikki",
@@ -476,14 +476,14 @@
   "#GJP0LPR08": {
    "name": "isoala",
    "values": {
-    "donations": 471,
+    "donations": 524,
     "donationsReceived": 978,
     "trophies": 0,
     "builderBaseTrophies": 3056,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T16:59:34.864466+00:00"
+   "last_change": "2026-11-10T03:11:22.600782+00:00"
   },
   "#GL9P28LVG": {
    "name": "except for like",
@@ -647,5 +647,5 @@
    "last_change": "2026-11-09T16:59:34.864466+00:00"
   }
  },
- "updated": "2026-11-10T03:09:16.514827+00:00"
+ "updated": "2026-11-10T03:11:22.734332+00:00"
 }
