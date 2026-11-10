@@ -247,24 +247,24 @@
    "values": {
     "donations": 208,
     "donationsReceived": 113,
-    "trophies": 18,
+    "trophies": 34,
     "builderBaseTrophies": 2949,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T16:58:25.306877+00:00"
+   "last_change": "2026-11-10T23:29:56.757916+00:00"
   },
   "#YC9CG9C9G": {
    "name": "k1wian",
    "values": {
     "donations": 1639,
     "donationsReceived": 206,
-    "trophies": 22,
+    "trophies": 34,
     "builderBaseTrophies": 2952,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T10:25:51.890267+00:00"
+   "last_change": "2026-11-10T23:29:56.757916+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -686,5 +686,5 @@
    "last_change": "2026-11-10T21:40:26.146568+00:00"
   }
  },
- "updated": "2026-11-10T23:03:01.492464+00:00"
+ "updated": "2026-11-10T23:29:57.409348+00:00"
 }
