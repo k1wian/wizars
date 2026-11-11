@@ -150,13 +150,13 @@
    "name": "пидос-барабос",
    "values": {
     "donations": 584,
-    "donationsReceived": 723,
+    "donationsReceived": 753,
     "trophies": 10,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T14:33:03.551431+00:00"
+   "last_change": "2026-11-11T14:37:10.228450+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 1133,
+    "donations": 1163,
     "donationsReceived": 2853,
     "trophies": 289,
     "builderBaseTrophies": 3162,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T14:14:28.331170+00:00"
+   "last_change": "2026-11-11T14:37:10.228450+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -687,5 +687,5 @@
    "left_at": "2026-11-11T10:32:08.511620+00:00"
   }
  },
- "updated": "2026-11-11T14:35:07.002931+00:00"
+ "updated": "2026-11-11T14:37:10.416314+00:00"
 }
