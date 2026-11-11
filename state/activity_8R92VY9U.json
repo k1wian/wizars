@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 1493,
-    "donationsReceived": 3239,
+    "donationsReceived": 3287,
     "trophies": 161,
     "builderBaseTrophies": 3524,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T09:41:45.526646+00:00"
+   "last_change": "2026-11-11T09:47:55.422582+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -233,14 +233,14 @@
   "#GPLGJCLJV": {
    "name": "Lazari95",
    "values": {
-    "donations": 344,
+    "donations": 392,
     "donationsReceived": 968,
     "trophies": 391,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T09:29:27.110339+00:00"
+   "last_change": "2026-11-11T09:47:55.422582+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -686,5 +686,5 @@
    "last_change": "2026-11-10T21:40:26.146568+00:00"
   }
  },
- "updated": "2026-11-11T09:45:52.600516+00:00"
+ "updated": "2026-11-11T09:47:55.583218+00:00"
 }
