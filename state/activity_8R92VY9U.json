@@ -641,12 +641,12 @@
    "values": {
     "donations": 50,
     "donationsReceived": 347,
-    "trophies": 0,
+    "trophies": 23,
     "builderBaseTrophies": 2990,
     "expLevel": 190
    },
    "first_seen": "2026-11-09T10:23:17.406100+00:00",
-   "last_change": "2026-11-11T11:50:24.793627+00:00"
+   "last_change": "2026-11-11T16:35:25.603809+00:00"
   },
   "#PY98VG0UU": {
    "name": "$$vitalik$$",
@@ -687,5 +687,5 @@
    "left_at": "2026-11-11T10:32:08.511620+00:00"
   }
  },
- "updated": "2026-11-11T16:33:22.195342+00:00"
+ "updated": "2026-11-11T16:35:25.764862+00:00"
 }
