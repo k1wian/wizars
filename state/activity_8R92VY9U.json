@@ -79,12 +79,12 @@
    "values": {
     "donations": 1106,
     "donationsReceived": 1610,
-    "trophies": 91,
+    "trophies": 116,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T10:32:08.511620+00:00"
+   "last_change": "2026-11-11T12:56:59.564410+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -113,38 +113,38 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 1547,
+    "donations": 1600,
     "donationsReceived": 3536,
     "trophies": 179,
-    "builderBaseTrophies": 3513,
+    "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T11:50:24.793627+00:00"
+   "last_change": "2026-11-11T12:56:59.564410+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
    "values": {
     "donations": 986,
-    "donationsReceived": 496,
+    "donationsReceived": 549,
     "trophies": 102,
     "builderBaseTrophies": 3283,
     "expLevel": 202
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T22:54:43.668452+00:00"
+   "last_change": "2026-11-11T12:56:59.564410+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 1596,
+    "donations": 1626,
     "donationsReceived": 314,
     "trophies": 498,
     "builderBaseTrophies": 3194,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T11:50:24.793627+00:00"
+   "last_change": "2026-11-11T12:56:59.564410+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -211,12 +211,12 @@
    "values": {
     "donations": 449,
     "donationsReceived": 302,
-    "trophies": 58,
+    "trophies": 71,
     "builderBaseTrophies": 3602,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T07:22:59.467737+00:00"
+   "last_change": "2026-11-11T12:56:59.564410+00:00"
   },
   "#GJLUCQ2CC": {
    "name": "mikki",
@@ -257,14 +257,14 @@
   "#YC9CG9C9G": {
    "name": "k1wian",
    "values": {
-    "donations": 1657,
+    "donations": 1680,
     "donationsReceived": 206,
     "trophies": 576,
     "builderBaseTrophies": 2952,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T10:32:08.511620+00:00"
+   "last_change": "2026-11-11T12:56:59.564410+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -307,13 +307,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 1276,
-    "donationsReceived": 1590,
+    "donationsReceived": 1643,
     "trophies": 64,
     "builderBaseTrophies": 3458,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T09:54:08.929979+00:00"
+   "last_change": "2026-11-11T12:56:59.564410+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -687,5 +687,5 @@
    "left_at": "2026-11-11T10:32:08.511620+00:00"
   }
  },
- "updated": "2026-11-11T12:17:14.845405+00:00"
+ "updated": "2026-11-11T12:56:59.748008+00:00"
 }
