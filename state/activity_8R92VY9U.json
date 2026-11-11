@@ -113,14 +113,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 1600,
+    "donations": 1659,
     "donationsReceived": 3536,
     "trophies": 179,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T12:56:59.564410+00:00"
+   "last_change": "2026-11-11T15:16:55.233054+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -417,13 +417,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 3116,
-    "donationsReceived": 6221,
+    "donationsReceived": 6280,
     "trophies": 31,
     "builderBaseTrophies": 3537,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T14:35:06.826457+00:00"
+   "last_change": "2026-11-11T15:16:55.233054+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -554,12 +554,12 @@
    "values": {
     "donations": 10,
     "donationsReceived": 347,
-    "trophies": 0,
+    "trophies": 18,
     "builderBaseTrophies": 2467,
     "expLevel": 143
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T14:33:03.551431+00:00"
+   "last_change": "2026-11-11T15:16:55.233054+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -687,5 +687,5 @@
    "left_at": "2026-11-11T10:32:08.511620+00:00"
   }
  },
- "updated": "2026-11-11T14:41:17.010424+00:00"
+ "updated": "2026-11-11T15:16:55.416396+00:00"
 }
