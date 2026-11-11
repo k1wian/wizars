@@ -269,14 +269,14 @@
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
-    "donations": 766,
+    "donations": 829,
     "donationsReceived": 1971,
     "trophies": 131,
     "builderBaseTrophies": 3134,
     "expLevel": 169
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T19:30:18.163711+00:00"
+   "last_change": "2026-11-11T21:38:38.432550+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -652,13 +652,13 @@
    "name": "$$vitalik$$",
    "values": {
     "donations": 87,
-    "donationsReceived": 164,
+    "donationsReceived": 227,
     "trophies": 266,
     "builderBaseTrophies": 4019,
     "expLevel": 210
    },
    "first_seen": "2026-11-10T13:54:37.997267+00:00",
-   "last_change": "2026-11-11T11:50:24.793627+00:00"
+   "last_change": "2026-11-11T21:38:38.432550+00:00"
   },
   "#GGPQLRJGC": {
    "name": "styushka",
@@ -699,5 +699,5 @@
    "last_change": "2026-11-11T21:36:31.693176+00:00"
   }
  },
- "updated": "2026-11-11T21:36:31.902592+00:00"
+ "updated": "2026-11-11T21:38:38.623206+00:00"
 }
