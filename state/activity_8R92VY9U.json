@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 1493,
-    "donationsReceived": 3204,
+    "donationsReceived": 3238,
     "trophies": 161,
     "builderBaseTrophies": 3524,
     "expLevel": 214
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T09:29:27.110339+00:00"
+   "last_change": "2026-11-11T09:39:42.407801+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -428,14 +428,14 @@
   "#QG0PCCPJ": {
    "name": "данил",
    "values": {
-    "donations": 515,
+    "donations": 549,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3198,
     "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T09:29:27.110339+00:00"
+   "last_change": "2026-11-11T09:39:42.407801+00:00"
   },
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
@@ -686,5 +686,5 @@
    "last_change": "2026-11-10T21:40:26.146568+00:00"
   }
  },
- "updated": "2026-11-11T09:37:39.499894+00:00"
+ "updated": "2026-11-11T09:39:42.564122+00:00"
 }
