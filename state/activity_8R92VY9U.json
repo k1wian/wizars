@@ -200,11 +200,11 @@
     "donations": 1129,
     "donationsReceived": 2852,
     "trophies": 265,
-    "builderBaseTrophies": 3134,
+    "builderBaseTrophies": 3125,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T10:50:42.608006+00:00"
+   "last_change": "2026-11-11T10:52:46.105447+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -235,12 +235,12 @@
    "values": {
     "donations": 392,
     "donationsReceived": 971,
-    "trophies": 391,
+    "trophies": 402,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T10:32:08.511620+00:00"
+   "last_change": "2026-11-11T10:52:46.105447+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -687,5 +687,5 @@
    "left_at": "2026-11-11T10:32:08.511620+00:00"
   }
  },
- "updated": "2026-11-11T10:50:42.784264+00:00"
+ "updated": "2026-11-11T10:52:46.285162+00:00"
 }
