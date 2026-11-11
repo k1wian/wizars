@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 1713,
-    "donationsReceived": 3585,
+    "donationsReceived": 3587,
     "trophies": 210,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T17:27:53.634582+00:00"
+   "last_change": "2026-11-11T17:54:46.719410+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -416,14 +416,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 3116,
+    "donations": 3118,
     "donationsReceived": 6281,
     "trophies": 31,
     "builderBaseTrophies": 3537,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T15:19:07.283928+00:00"
+   "last_change": "2026-11-11T17:54:46.719410+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -699,5 +699,5 @@
    "last_change": "2026-11-11T17:27:53.634582+00:00"
   }
  },
- "updated": "2026-11-11T17:52:43.304315+00:00"
+ "updated": "2026-11-11T17:54:46.847913+00:00"
 }
