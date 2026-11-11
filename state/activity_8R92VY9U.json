@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 900,
+    "donations": 983,
     "donationsReceived": 249,
     "trophies": 297,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T06:12:02.377367+00:00"
+   "last_change": "2026-11-11T15:43:51.983987+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -126,13 +126,13 @@
    "name": "Димаш",
    "values": {
     "donations": 986,
-    "donationsReceived": 579,
+    "donationsReceived": 662,
     "trophies": 102,
     "builderBaseTrophies": 3283,
     "expLevel": 202
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T14:14:28.331170+00:00"
+   "last_change": "2026-11-11T15:43:51.983987+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -687,5 +687,5 @@
    "left_at": "2026-11-11T10:32:08.511620+00:00"
   }
  },
- "updated": "2026-11-11T15:41:48.782779+00:00"
+ "updated": "2026-11-11T15:43:52.159206+00:00"
 }
