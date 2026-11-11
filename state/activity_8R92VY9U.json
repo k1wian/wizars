@@ -616,12 +616,12 @@
    "values": {
     "donations": 30,
     "donationsReceived": 0,
-    "trophies": 28,
+    "trophies": 56,
     "builderBaseTrophies": 2703,
     "expLevel": 161
    },
    "first_seen": "2026-11-08T16:17:48.619234+00:00",
-   "last_change": "2026-11-10T13:46:20.751616+00:00"
+   "last_change": "2026-11-11T04:13:34.926226+00:00"
   },
   "#G2UPLL0L8": {
    "name": "Lord",
@@ -686,5 +686,5 @@
    "last_change": "2026-11-10T21:40:26.146568+00:00"
   }
  },
- "updated": "2026-11-11T04:11:31.670511+00:00"
+ "updated": "2026-11-11T04:13:35.146565+00:00"
 }
