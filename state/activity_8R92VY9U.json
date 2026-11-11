@@ -113,14 +113,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 1660,
-    "donationsReceived": 3536,
-    "trophies": 179,
+    "donations": 1713,
+    "donationsReceived": 3585,
+    "trophies": 210,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T15:19:07.283928+00:00"
+   "last_change": "2026-11-11T17:27:53.634582+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -137,14 +137,14 @@
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 1684,
+    "donations": 1716,
     "donationsReceived": 314,
     "trophies": 498,
     "builderBaseTrophies": 3194,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T14:14:28.331170+00:00"
+   "last_change": "2026-11-11T17:27:53.634582+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -199,12 +199,12 @@
    "values": {
     "donations": 1163,
     "donationsReceived": 2853,
-    "trophies": 289,
+    "trophies": 301,
     "builderBaseTrophies": 3162,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T14:37:10.228450+00:00"
+   "last_change": "2026-11-11T17:27:53.634582+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -504,13 +504,13 @@
    "name": "Қазақ",
    "values": {
     "donations": 608,
-    "donationsReceived": 370,
+    "donationsReceived": 423,
     "trophies": 0,
     "builderBaseTrophies": 2653,
     "expLevel": 193
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T14:14:28.331170+00:00"
+   "last_change": "2026-11-11T17:27:53.634582+00:00"
   },
   "#YLLGJYQ9V": {
    "name": "drakoslik",
@@ -685,7 +685,19 @@
    "first_seen": "2026-11-10T20:39:16.308365+00:00",
    "last_change": "2026-11-10T21:40:26.146568+00:00",
    "left_at": "2026-11-11T10:32:08.511620+00:00"
+  },
+  "#LCGURCCL": {
+   "name": "rewero",
+   "values": {
+    "donations": 49,
+    "donationsReceived": 32,
+    "trophies": 244,
+    "builderBaseTrophies": 2791,
+    "expLevel": 147
+   },
+   "first_seen": "2026-11-11T17:27:53.634582+00:00",
+   "last_change": "2026-11-11T17:27:53.634582+00:00"
   }
  },
- "updated": "2026-11-11T16:51:53.951718+00:00"
+ "updated": "2026-11-11T17:27:53.925502+00:00"
 }
