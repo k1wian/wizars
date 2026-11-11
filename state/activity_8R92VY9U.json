@@ -270,13 +270,13 @@
    "name": "Sənan",
    "values": {
     "donations": 766,
-    "donationsReceived": 1931,
+    "donationsReceived": 1971,
     "trophies": 113,
     "builderBaseTrophies": 3134,
     "expLevel": 169
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T18:22:27.241009+00:00"
+   "last_change": "2026-11-11T18:26:34.976841+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -689,15 +689,15 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 49,
+    "donations": 89,
     "donationsReceived": 32,
     "trophies": 244,
     "builderBaseTrophies": 2791,
     "expLevel": 147
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-11T17:27:53.634582+00:00"
+   "last_change": "2026-11-11T18:26:34.976841+00:00"
   }
  },
- "updated": "2026-11-11T18:24:31.656700+00:00"
+ "updated": "2026-11-11T18:26:35.266297+00:00"
 }
