@@ -91,12 +91,12 @@
    "values": {
     "donations": 0,
     "donationsReceived": 0,
-    "trophies": 39,
+    "trophies": 79,
     "builderBaseTrophies": 3636,
     "expLevel": 183
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T05:53:24.370957+00:00"
+   "last_change": "2026-11-11T08:30:03.441068+00:00"
   },
   "#9PR09PCV": {
    "name": "шах",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 1129,
-    "donationsReceived": 2755,
+    "donationsReceived": 2770,
     "trophies": 265,
-    "builderBaseTrophies": 3099,
+    "builderBaseTrophies": 3134,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T20:39:16.308365+00:00"
+   "last_change": "2026-11-11T08:30:03.441068+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -257,26 +257,26 @@
   "#YC9CG9C9G": {
    "name": "k1wian",
    "values": {
-    "donations": 1639,
+    "donations": 1654,
     "donationsReceived": 206,
-    "trophies": 74,
+    "trophies": 576,
     "builderBaseTrophies": 2952,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T07:27:05.406342+00:00"
+   "last_change": "2026-11-11T08:30:03.441068+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
     "donations": 764,
     "donationsReceived": 1887,
-    "trophies": 72,
+    "trophies": 93,
     "builderBaseTrophies": 3134,
     "expLevel": 169
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-10T21:40:26.146568+00:00"
+   "last_change": "2026-11-11T08:30:03.441068+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -686,5 +686,5 @@
    "last_change": "2026-11-10T21:40:26.146568+00:00"
   }
  },
- "updated": "2026-11-11T07:27:05.561320+00:00"
+ "updated": "2026-11-11T08:30:03.620149+00:00"
 }
