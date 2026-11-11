@@ -126,13 +126,13 @@
    "name": "Димаш",
    "values": {
     "donations": 986,
-    "donationsReceived": 745,
+    "donationsReceived": 798,
     "trophies": 169,
     "builderBaseTrophies": 3283,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T19:42:42.756718+00:00"
+   "last_change": "2026-11-11T19:46:48.325710+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 1163,
-    "donationsReceived": 2853,
+    "donations": 1213,
+    "donationsReceived": 2903,
     "trophies": 301,
     "builderBaseTrophies": 3176,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T19:30:18.163711+00:00"
+   "last_change": "2026-11-11T19:46:48.325710+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 392,
-    "donationsReceived": 1031,
+    "donationsReceived": 1034,
     "trophies": 402,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T19:32:23.630068+00:00"
+   "last_change": "2026-11-11T19:46:48.325710+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -306,14 +306,14 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 1276,
-    "donationsReceived": 1643,
+    "donations": 1382,
+    "donationsReceived": 1693,
     "trophies": 64,
     "builderBaseTrophies": 3458,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T12:56:59.564410+00:00"
+   "last_change": "2026-11-11T19:46:48.325710+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -699,5 +699,5 @@
    "last_change": "2026-11-11T19:30:18.163711+00:00"
   }
  },
- "updated": "2026-11-11T19:44:45.587921+00:00"
+ "updated": "2026-11-11T19:46:48.487335+00:00"
 }
