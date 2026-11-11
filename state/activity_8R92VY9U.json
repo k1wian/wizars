@@ -175,12 +175,12 @@
    "values": {
     "donations": 950,
     "donationsReceived": 1433,
-    "trophies": 61,
+    "trophies": 74,
     "builderBaseTrophies": 3788,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T04:52:44.377095+00:00"
+   "last_change": "2026-11-11T09:37:39.336213+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -686,5 +686,5 @@
    "last_change": "2026-11-10T21:40:26.146568+00:00"
   }
  },
- "updated": "2026-11-11T09:35:36.446939+00:00"
+ "updated": "2026-11-11T09:37:39.499894+00:00"
 }
