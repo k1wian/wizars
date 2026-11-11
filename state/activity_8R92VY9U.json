@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 983,
+    "donations": 993,
     "donationsReceived": 249,
     "trophies": 457,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T19:30:18.163711+00:00"
+   "last_change": "2026-11-11T19:32:23.630068+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -173,14 +173,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 1089,
+    "donations": 1129,
     "donationsReceived": 1599,
     "trophies": 74,
     "builderBaseTrophies": 3788,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T14:35:06.826457+00:00"
+   "last_change": "2026-11-11T19:32:23.630068+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 392,
-    "donationsReceived": 981,
+    "donationsReceived": 1031,
     "trophies": 402,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T19:30:18.163711+00:00"
+   "last_change": "2026-11-11T19:32:23.630068+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -699,5 +699,5 @@
    "last_change": "2026-11-11T19:30:18.163711+00:00"
   }
  },
- "updated": "2026-11-11T19:30:20.811156+00:00"
+ "updated": "2026-11-11T19:32:23.787932+00:00"
 }
