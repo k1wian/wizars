@@ -211,12 +211,12 @@
    "values": {
     "donations": 449,
     "donationsReceived": 302,
-    "trophies": 39,
+    "trophies": 58,
     "builderBaseTrophies": 3602,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T03:48:48.039847+00:00"
+   "last_change": "2026-11-11T07:22:59.467737+00:00"
   },
   "#GJLUCQ2CC": {
    "name": "mikki",
@@ -686,5 +686,5 @@
    "last_change": "2026-11-10T21:40:26.146568+00:00"
   }
  },
- "updated": "2026-11-11T07:20:56.706370+00:00"
+ "updated": "2026-11-11T07:22:59.628646+00:00"
 }
