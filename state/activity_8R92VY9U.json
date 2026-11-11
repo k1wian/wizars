@@ -55,12 +55,12 @@
    "values": {
     "donations": 983,
     "donationsReceived": 249,
-    "trophies": 297,
+    "trophies": 457,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T15:43:51.983987+00:00"
+   "last_change": "2026-11-11T19:30:18.163711+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -91,12 +91,12 @@
    "values": {
     "donations": 0,
     "donationsReceived": 0,
-    "trophies": 94,
+    "trophies": 113,
     "builderBaseTrophies": 3636,
     "expLevel": 183
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T11:50:24.793627+00:00"
+   "last_change": "2026-11-11T19:30:18.163711+00:00"
   },
   "#9PR09PCV": {
    "name": "шах",
@@ -137,14 +137,14 @@
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 1718,
+    "donations": 1728,
     "donationsReceived": 314,
     "trophies": 498,
     "builderBaseTrophies": 3194,
     "expLevel": 187
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T18:22:27.241009+00:00"
+   "last_change": "2026-11-11T19:30:18.163711+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -200,11 +200,11 @@
     "donations": 1163,
     "donationsReceived": 2853,
     "trophies": 301,
-    "builderBaseTrophies": 3162,
+    "builderBaseTrophies": 3176,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T17:27:53.634582+00:00"
+   "last_change": "2026-11-11T19:30:18.163711+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 392,
-    "donationsReceived": 971,
+    "donationsReceived": 981,
     "trophies": 402,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T10:52:46.105447+00:00"
+   "last_change": "2026-11-11T19:30:18.163711+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -271,12 +271,12 @@
    "values": {
     "donations": 766,
     "donationsReceived": 1971,
-    "trophies": 113,
+    "trophies": 131,
     "builderBaseTrophies": 3134,
     "expLevel": 169
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T18:26:34.976841+00:00"
+   "last_change": "2026-11-11T19:30:18.163711+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -580,11 +580,11 @@
     "donations": 378,
     "donationsReceived": 80,
     "trophies": 50,
-    "builderBaseTrophies": 2912,
+    "builderBaseTrophies": 2948,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T20:16:26.063011+00:00",
-   "last_change": "2026-11-11T17:48:36.699189+00:00"
+   "last_change": "2026-11-11T19:30:18.163711+00:00"
   },
   "#2V8G8G8UL": {
    "name": "ismail argun",
@@ -641,12 +641,12 @@
    "values": {
     "donations": 50,
     "donationsReceived": 347,
-    "trophies": 63,
+    "trophies": 170,
     "builderBaseTrophies": 2990,
     "expLevel": 190
    },
    "first_seen": "2026-11-09T10:23:17.406100+00:00",
-   "last_change": "2026-11-11T18:49:24.894951+00:00"
+   "last_change": "2026-11-11T19:30:18.163711+00:00"
   },
   "#PY98VG0UU": {
    "name": "$$vitalik$$",
@@ -691,13 +691,13 @@
    "values": {
     "donations": 89,
     "donationsReceived": 32,
-    "trophies": 434,
+    "trophies": 554,
     "builderBaseTrophies": 2791,
     "expLevel": 147
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-11T18:49:24.894951+00:00"
+   "last_change": "2026-11-11T19:30:18.163711+00:00"
   }
  },
- "updated": "2026-11-11T18:49:25.184827+00:00"
+ "updated": "2026-11-11T19:30:20.811156+00:00"
 }
