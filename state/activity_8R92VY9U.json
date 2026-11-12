@@ -175,12 +175,12 @@
    "values": {
     "donations": 1212,
     "donationsReceived": 1599,
-    "trophies": 74,
+    "trophies": 273,
     "builderBaseTrophies": 3788,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T02:45:35.390007+00:00"
+   "last_change": "2026-11-12T03:48:29.235936+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -554,12 +554,12 @@
    "values": {
     "donations": 10,
     "donationsReceived": 347,
-    "trophies": 18,
+    "trophies": 45,
     "builderBaseTrophies": 2467,
     "expLevel": 143
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T15:16:55.233054+00:00"
+   "last_change": "2026-11-12T03:48:29.235936+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -699,5 +699,5 @@
    "last_change": "2026-11-11T21:36:31.693176+00:00"
   }
  },
- "updated": "2026-11-12T03:12:20.667583+00:00"
+ "updated": "2026-11-12T03:48:29.424638+00:00"
 }
