@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 3498,
+    "donations": 3505,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 4307,
     "expLevel": 249
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T10:14:54.473184+00:00"
+   "last_change": "2026-11-12T18:47:50.830214+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 1756,
-    "donationsReceived": 3646,
+    "donationsReceived": 3702,
     "trophies": 222,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T18:11:21.353586+00:00"
+   "last_change": "2026-11-12T18:47:50.830214+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -137,38 +137,38 @@
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 1973,
+    "donations": 1975,
     "donationsReceived": 314,
     "trophies": 512,
     "builderBaseTrophies": 3229,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T14:19:56.399782+00:00"
+   "last_change": "2026-11-12T18:47:50.830214+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
     "donations": 584,
-    "donationsReceived": 753,
+    "donationsReceived": 863,
     "trophies": 36,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T05:11:50.399630+00:00"
+   "last_change": "2026-11-12T18:47:50.830214+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
    "values": {
-    "donations": 425,
+    "donations": 533,
     "donationsReceived": 0,
-    "trophies": 287,
+    "trophies": 518,
     "builderBaseTrophies": 3478,
     "expLevel": 208
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T18:11:21.353586+00:00"
+   "last_change": "2026-11-12T18:47:50.830214+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -578,14 +578,14 @@
   "#YJRQVLQ9Q": {
    "name": "Егор51 батя",
    "values": {
-    "donations": 458,
+    "donations": 507,
     "donationsReceived": 80,
     "trophies": 85,
     "builderBaseTrophies": 2984,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T20:16:26.063011+00:00",
-   "last_change": "2026-11-12T17:48:22.204551+00:00"
+   "last_change": "2026-11-12T18:47:50.830214+00:00"
   },
   "#2V8G8G8UL": {
    "name": "ismail argun",
@@ -715,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T18:13:27.241570+00:00"
+ "updated": "2026-11-12T18:47:51.083634+00:00"
 }
