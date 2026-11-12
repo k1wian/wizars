@@ -175,12 +175,12 @@
    "values": {
     "donations": 1212,
     "donationsReceived": 1599,
-    "trophies": 537,
+    "trophies": 545,
     "builderBaseTrophies": 3788,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T04:09:12.384780+00:00"
+   "last_change": "2026-11-12T13:09:22.456338+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -605,12 +605,12 @@
    "values": {
     "donations": 280,
     "donationsReceived": 209,
-    "trophies": 64,
+    "trophies": 91,
     "builderBaseTrophies": 3839,
     "expLevel": 191
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-11T08:32:06.661294+00:00"
+   "last_change": "2026-11-12T13:09:22.456338+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -715,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T13:07:19.452513+00:00"
+ "updated": "2026-11-12T13:09:22.632607+00:00"
 }
