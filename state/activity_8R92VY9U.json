@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 392,
-    "donationsReceived": 1044,
+    "donationsReceived": 1084,
     "trophies": 423,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T18:49:54.672101+00:00"
+   "last_change": "2026-11-12T18:51:58.184058+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -417,14 +417,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 3362,
+    "donations": 3402,
     "donationsReceived": 6648,
     "trophies": 519,
     "builderBaseTrophies": 3537,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T16:30:33.042000+00:00"
+   "last_change": "2026-11-12T18:51:58.184058+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -715,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T18:49:54.892817+00:00"
+ "updated": "2026-11-12T18:51:58.407756+00:00"
 }
