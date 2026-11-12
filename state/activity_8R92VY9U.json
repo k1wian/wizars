@@ -639,14 +639,14 @@
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
    "values": {
-    "donations": 50,
+    "donations": 105,
     "donationsReceived": 347,
     "trophies": 170,
     "builderBaseTrophies": 2990,
     "expLevel": 190
    },
    "first_seen": "2026-11-09T10:23:17.406100+00:00",
-   "last_change": "2026-11-11T19:30:18.163711+00:00"
+   "last_change": "2026-11-12T09:02:00.098211+00:00"
   },
   "#PY98VG0UU": {
    "name": "$$vitalik$$",
@@ -690,13 +690,13 @@
    "name": "rewero",
    "values": {
     "donations": 148,
-    "donationsReceived": 87,
+    "donationsReceived": 142,
     "trophies": 554,
     "builderBaseTrophies": 2791,
     "expLevel": 147
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-12T08:35:22.344299+00:00"
+   "last_change": "2026-11-12T09:02:00.098211+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -712,5 +712,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T08:59:54.763359+00:00"
+ "updated": "2026-11-12T09:02:00.252471+00:00"
 }
