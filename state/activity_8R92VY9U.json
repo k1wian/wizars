@@ -53,26 +53,26 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 1129,
+    "donations": 1134,
     "donationsReceived": 249,
-    "trophies": 526,
+    "trophies": 612,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T05:59:57.531480+00:00"
+   "last_change": "2026-11-12T17:48:22.204551+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
    "values": {
     "donations": 463,
     "donationsReceived": 0,
-    "trophies": 654,
+    "trophies": 694,
     "builderBaseTrophies": 2973,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T16:55:50.717704+00:00"
+   "last_change": "2026-11-12T17:48:22.204551+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 1388,
-    "donationsReceived": 3149,
-    "trophies": 347,
-    "builderBaseTrophies": 3090,
+    "donationsReceived": 3184,
+    "trophies": 357,
+    "builderBaseTrophies": 3053,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T11:54:26.762503+00:00"
+   "last_change": "2026-11-12T17:48:22.204551+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -247,24 +247,24 @@
    "values": {
     "donations": 208,
     "donationsReceived": 113,
-    "trophies": 67,
+    "trophies": 83,
     "builderBaseTrophies": 2949,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T00:28:27.835048+00:00"
+   "last_change": "2026-11-12T17:48:22.204551+00:00"
   },
   "#YC9CG9C9G": {
    "name": "k1wian",
    "values": {
-    "donations": 1726,
+    "donations": 1776,
     "donationsReceived": 206,
     "trophies": 585,
     "builderBaseTrophies": 2952,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T10:21:08.145798+00:00"
+   "last_change": "2026-11-12T17:48:22.204551+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -307,13 +307,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 1495,
-    "donationsReceived": 1945,
+    "donationsReceived": 1995,
     "trophies": 64,
     "builderBaseTrophies": 3458,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T10:14:54.473184+00:00"
+   "last_change": "2026-11-12T17:48:22.204551+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -578,14 +578,14 @@
   "#YJRQVLQ9Q": {
    "name": "Егор51 батя",
    "values": {
-    "donations": 428,
+    "donations": 458,
     "donationsReceived": 80,
     "trophies": 85,
-    "builderBaseTrophies": 2948,
+    "builderBaseTrophies": 2984,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T20:16:26.063011+00:00",
-   "last_change": "2026-11-12T14:36:22.732380+00:00"
+   "last_change": "2026-11-12T17:48:22.204551+00:00"
   },
   "#2V8G8G8UL": {
    "name": "ismail argun",
@@ -715,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T16:55:50.919991+00:00"
+ "updated": "2026-11-12T17:48:22.948473+00:00"
 }
