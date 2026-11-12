@@ -125,14 +125,14 @@
   "#Y929RQ0L2": {
    "name": "Димаш",
    "values": {
-    "donations": 986,
+    "donations": 1026,
     "donationsReceived": 828,
     "trophies": 169,
     "builderBaseTrophies": 3283,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T21:28:08.746695+00:00"
+   "last_change": "2026-11-12T19:56:20.855204+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -418,13 +418,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 3402,
-    "donationsReceived": 6703,
+    "donationsReceived": 6743,
     "trophies": 519,
     "builderBaseTrophies": 3537,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T19:49:56.971749+00:00"
+   "last_change": "2026-11-12T19:56:20.855204+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -715,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T19:54:18.185892+00:00"
+ "updated": "2026-11-12T19:56:21.015204+00:00"
 }
