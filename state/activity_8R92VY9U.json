@@ -67,12 +67,12 @@
    "values": {
     "donations": 438,
     "donationsReceived": 0,
-    "trophies": 45,
+    "trophies": 56,
     "builderBaseTrophies": 2973,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T10:32:08.511620+00:00"
+   "last_change": "2026-11-12T12:59:03.213589+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -163,12 +163,12 @@
    "values": {
     "donations": 423,
     "donationsReceived": 0,
-    "trophies": 78,
+    "trophies": 198,
     "builderBaseTrophies": 3478,
     "expLevel": 208
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T16:27:11.901901+00:00"
+   "last_change": "2026-11-12T12:59:03.213589+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 612,
-    "donationsReceived": 2056,
+    "donationsReceived": 2106,
     "trophies": 438,
     "builderBaseTrophies": 3324,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T05:55:51.726784+00:00"
+   "last_change": "2026-11-12T12:59:03.213589+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -281,14 +281,14 @@
   "#QUPVR0CU2": {
    "name": "чвв",
    "values": {
-    "donations": 432,
+    "donations": 482,
     "donationsReceived": 706,
     "trophies": 26,
     "builderBaseTrophies": 2953,
     "expLevel": 138
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T04:52:44.377095+00:00"
+   "last_change": "2026-11-12T12:59:03.213589+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -715,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T12:21:13.695212+00:00"
+ "updated": "2026-11-12T12:59:03.395017+00:00"
 }
