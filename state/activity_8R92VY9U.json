@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 1076,
+    "donations": 1129,
     "donationsReceived": 249,
     "trophies": 526,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T05:55:51.726784+00:00"
+   "last_change": "2026-11-12T05:59:57.531480+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -307,13 +307,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 1495,
-    "donationsReceived": 1809,
+    "donationsReceived": 1862,
     "trophies": 64,
     "builderBaseTrophies": 3458,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T00:24:21.200912+00:00"
+   "last_change": "2026-11-12T05:59:57.531480+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -712,5 +712,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T05:57:54.711106+00:00"
+ "updated": "2026-11-12T05:59:57.694095+00:00"
 }
