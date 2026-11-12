@@ -68,11 +68,11 @@
     "donations": 463,
     "donationsReceived": 0,
     "trophies": 694,
-    "builderBaseTrophies": 2973,
+    "builderBaseTrophies": 3003,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T17:48:22.204551+00:00"
+   "last_change": "2026-11-12T20:44:04.890309+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -715,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T20:16:51.650621+00:00"
+ "updated": "2026-11-12T20:44:05.042254+00:00"
 }
