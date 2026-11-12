@@ -307,13 +307,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 1495,
-    "donationsReceived": 1726,
+    "donationsReceived": 1809,
     "trophies": 64,
     "builderBaseTrophies": 3458,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T21:28:08.746695+00:00"
+   "last_change": "2026-11-12T00:24:21.200912+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -379,14 +379,14 @@
   "#LG2LULGQJ": {
    "name": "Enot1k",
    "values": {
-    "donations": 365,
+    "donations": 448,
     "donationsReceived": 383,
     "trophies": 88,
     "builderBaseTrophies": 3003,
     "expLevel": 173
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T21:28:08.746695+00:00"
+   "last_change": "2026-11-12T00:24:21.200912+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -699,5 +699,5 @@
    "last_change": "2026-11-11T21:36:31.693176+00:00"
   }
  },
- "updated": "2026-11-12T00:22:18.128034+00:00"
+ "updated": "2026-11-12T00:24:21.437944+00:00"
 }
