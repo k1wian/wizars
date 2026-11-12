@@ -200,11 +200,11 @@
     "donations": 1250,
     "donationsReceived": 3099,
     "trophies": 314,
-    "builderBaseTrophies": 3176,
+    "builderBaseTrophies": 3174,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T05:55:51.726784+00:00"
+   "last_change": "2026-11-12T07:19:26.060359+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -712,5 +712,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T07:17:22.983145+00:00"
+ "updated": "2026-11-12T07:19:26.225102+00:00"
 }
