@@ -139,12 +139,12 @@
    "values": {
     "donations": 1863,
     "donationsReceived": 314,
-    "trophies": 498,
+    "trophies": 512,
     "builderBaseTrophies": 3194,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T06:08:13.586823+00:00"
+   "last_change": "2026-11-12T11:54:26.762503+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -199,12 +199,12 @@
    "values": {
     "donations": 1388,
     "donationsReceived": 3149,
-    "trophies": 314,
+    "trophies": 347,
     "builderBaseTrophies": 3090,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T09:54:10.443320+00:00"
+   "last_change": "2026-11-12T11:54:26.762503+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -419,12 +419,12 @@
    "values": {
     "donations": 3362,
     "donationsReceived": 6458,
-    "trophies": 498,
+    "trophies": 519,
     "builderBaseTrophies": 3537,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T23:35:03.295447+00:00"
+   "last_change": "2026-11-12T11:54:26.762503+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -648,7 +648,8 @@
     "expLevel": 190
    },
    "first_seen": "2026-11-09T10:23:17.406100+00:00",
-   "last_change": "2026-11-12T09:54:10.443320+00:00"
+   "last_change": "2026-11-12T09:54:10.443320+00:00",
+   "left_at": "2026-11-12T11:54:26.762503+00:00"
   },
   "#PY98VG0UU": {
    "name": "$$vitalik$$",
@@ -714,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T11:22:46.778640+00:00"
+ "updated": "2026-11-12T11:54:26.921131+00:00"
 }
