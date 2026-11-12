@@ -173,14 +173,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 1129,
+    "donations": 1212,
     "donationsReceived": 1599,
     "trophies": 74,
     "builderBaseTrophies": 3788,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T19:32:23.630068+00:00"
+   "last_change": "2026-11-12T02:45:35.390007+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -210,13 +210,13 @@
    "name": "Navi | Fantasy",
    "values": {
     "donations": 449,
-    "donationsReceived": 302,
+    "donationsReceived": 385,
     "trophies": 71,
     "builderBaseTrophies": 3602,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T02:04:41.070820+00:00"
+   "last_change": "2026-11-12T02:45:35.390007+00:00"
   },
   "#GJLUCQ2CC": {
    "name": "mikki",
@@ -653,12 +653,12 @@
    "values": {
     "donations": 87,
     "donationsReceived": 358,
-    "trophies": 278,
+    "trophies": 297,
     "builderBaseTrophies": 4019,
     "expLevel": 210
    },
    "first_seen": "2026-11-10T13:54:37.997267+00:00",
-   "last_change": "2026-11-11T22:51:31.949233+00:00"
+   "last_change": "2026-11-12T02:45:35.390007+00:00"
   },
   "#GGPQLRJGC": {
    "name": "styushka",
@@ -699,5 +699,5 @@
    "last_change": "2026-11-11T21:36:31.693176+00:00"
   }
  },
- "updated": "2026-11-12T02:14:59.088260+00:00"
+ "updated": "2026-11-12T02:45:35.571218+00:00"
 }
