@@ -580,12 +580,12 @@
    "values": {
     "donations": 428,
     "donationsReceived": 80,
-    "trophies": 60,
+    "trophies": 85,
     "builderBaseTrophies": 2948,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T20:16:26.063011+00:00",
-   "last_change": "2026-11-12T08:35:22.344299+00:00"
+   "last_change": "2026-11-12T14:36:22.732380+00:00"
   },
   "#2V8G8G8UL": {
    "name": "ismail argun",
@@ -715,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T14:34:19.627368+00:00"
+ "updated": "2026-11-12T14:36:22.917100+00:00"
 }
