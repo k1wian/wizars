@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 1756,
-    "donationsReceived": 3644,
+    "donationsReceived": 3646,
     "trophies": 222,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T08:35:22.344299+00:00"
+   "last_change": "2026-11-12T18:11:21.353586+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -161,14 +161,14 @@
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
    "values": {
-    "donations": 423,
+    "donations": 425,
     "donationsReceived": 0,
     "trophies": 287,
     "builderBaseTrophies": 3478,
     "expLevel": 208
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T13:07:19.275963+00:00"
+   "last_change": "2026-11-12T18:11:21.353586+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -715,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T18:09:16.291165+00:00"
+ "updated": "2026-11-12T18:11:21.940371+00:00"
 }
