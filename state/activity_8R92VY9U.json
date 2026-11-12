@@ -55,12 +55,12 @@
    "values": {
     "donations": 1076,
     "donationsReceived": 249,
-    "trophies": 515,
+    "trophies": 526,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T19:40:38.576995+00:00"
+   "last_change": "2026-11-12T05:55:51.726784+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -137,14 +137,14 @@
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 1730,
+    "donations": 1833,
     "donationsReceived": 314,
     "trophies": 498,
     "builderBaseTrophies": 3194,
-    "expLevel": 187
+    "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T21:28:08.746695+00:00"
+   "last_change": "2026-11-12T05:55:51.726784+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 1250,
-    "donationsReceived": 3049,
-    "trophies": 301,
+    "donationsReceived": 3099,
+    "trophies": 314,
     "builderBaseTrophies": 3176,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T05:05:41.010277+00:00"
+   "last_change": "2026-11-12T05:55:51.726784+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 612,
-    "donationsReceived": 2003,
+    "donationsReceived": 2056,
     "trophies": 438,
     "builderBaseTrophies": 3324,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T05:05:41.010277+00:00"
+   "last_change": "2026-11-12T05:55:51.726784+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -712,5 +712,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T05:20:03.767777+00:00"
+ "updated": "2026-11-12T05:55:51.874126+00:00"
 }
