@@ -1236,8 +1236,8 @@
    },
    "#G8RC08CGG": {
     "name": "Lancelot",
-    "used": 0,
-    "stars": 0
+    "used": 1,
+    "stars": 2
    },
    "#29JGGU8J2": {
     "name": "DiMoN",
@@ -1291,8 +1291,8 @@
    },
    "#QG0PCCPJ": {
     "name": "данил",
-    "used": 1,
-    "stars": 3
+    "used": 2,
+    "stars": 5
    }
   }
  }

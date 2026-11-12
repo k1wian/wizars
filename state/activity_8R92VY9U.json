@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 3433,
+    "donations": 3495,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 4307,
     "expLevel": 249
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T08:35:22.344299+00:00"
+   "last_change": "2026-11-12T09:54:10.443320+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 1305,
-    "donationsReceived": 3099,
+    "donations": 1388,
+    "donationsReceived": 3149,
     "trophies": 314,
     "builderBaseTrophies": 3090,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T08:35:22.344299+00:00"
+   "last_change": "2026-11-12T09:54:10.443320+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -428,14 +428,14 @@
   "#QG0PCCPJ": {
    "name": "данил",
    "values": {
-    "donations": 598,
+    "donations": 624,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3198,
     "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-11T10:32:08.511620+00:00"
+   "last_change": "2026-11-12T09:54:10.443320+00:00"
   },
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
@@ -639,14 +639,14 @@
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
    "values": {
-    "donations": 105,
-    "donationsReceived": 347,
-    "trophies": 170,
+    "donations": 150,
+    "donationsReceived": 483,
+    "trophies": 302,
     "builderBaseTrophies": 2990,
     "expLevel": 190
    },
    "first_seen": "2026-11-09T10:23:17.406100+00:00",
-   "last_change": "2026-11-12T09:02:00.098211+00:00"
+   "last_change": "2026-11-12T09:54:10.443320+00:00"
   },
   "#PY98VG0UU": {
    "name": "$$vitalik$$",
@@ -690,13 +690,13 @@
    "name": "rewero",
    "values": {
     "donations": 148,
-    "donationsReceived": 142,
+    "donationsReceived": 172,
     "trophies": 554,
     "builderBaseTrophies": 2791,
     "expLevel": 147
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-12T09:02:00.098211+00:00"
+   "last_change": "2026-11-12T09:54:10.443320+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -712,5 +712,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T09:02:00.252471+00:00"
+ "updated": "2026-11-12T09:54:10.615845+00:00"
 }
