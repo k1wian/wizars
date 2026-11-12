@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 1388,
-    "donationsReceived": 3184,
+    "donationsReceived": 3266,
     "trophies": 357,
     "builderBaseTrophies": 3053,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T17:48:22.204551+00:00"
+   "last_change": "2026-11-12T21:02:32.544674+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -417,14 +417,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 3402,
+    "donations": 3484,
     "donationsReceived": 6913,
     "trophies": 519,
     "builderBaseTrophies": 3514,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T20:16:51.493048+00:00"
+   "last_change": "2026-11-12T21:02:32.544674+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -715,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-12T21:00:29.217685+00:00"
+ "updated": "2026-11-12T21:02:32.695093+00:00"
 }
