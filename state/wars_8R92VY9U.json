@@ -1116,7 +1116,7 @@
   "kind": "war",
   "opponent": "WAR✓LORDS™",
   "end": "20261112T095719.000Z",
-  "state": "inWar",
+  "state": "warEnded",
   "attacks_per_member": 2,
   "members": {
    "#828Y2YJYJ": {
