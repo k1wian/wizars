@@ -187,12 +187,12 @@
    "values": {
     "donations": 252,
     "donationsReceived": 0,
-    "trophies": 41,
+    "trophies": 66,
     "builderBaseTrophies": 3453,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T22:41:26.147579+00:00"
+   "last_change": "2026-11-13T14:11:14.564922+00:00"
   },
   "#GLYP9PJJ9": {
    "name": "GAS",
@@ -223,12 +223,12 @@
    "values": {
     "donations": 616,
     "donationsReceived": 2209,
-    "trophies": 438,
+    "trophies": 451,
     "builderBaseTrophies": 3366,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T10:38:35.094136+00:00"
+   "last_change": "2026-11-13T14:11:14.564922+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -257,14 +257,14 @@
   "#YC9CG9C9G": {
    "name": "k1wian",
    "values": {
-    "donations": 1776,
+    "donations": 1835,
     "donationsReceived": 206,
     "trophies": 585,
     "builderBaseTrophies": 2952,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T17:48:22.204551+00:00"
+   "last_change": "2026-11-13T14:11:14.564922+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -418,13 +418,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 3693,
-    "donationsReceived": 7319,
+    "donationsReceived": 7378,
     "trophies": 519,
     "builderBaseTrophies": 3514,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T13:16:54.459849+00:00"
+   "last_change": "2026-11-13T14:11:14.564922+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -716,5 +716,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-13T13:23:06.298297+00:00"
+ "updated": "2026-11-13T14:11:14.758404+00:00"
 }
