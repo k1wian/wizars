@@ -417,14 +417,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 3640,
+    "donations": 3693,
     "donationsReceived": 7260,
     "trophies": 519,
     "builderBaseTrophies": 3514,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T13:02:30.394010+00:00"
+   "last_change": "2026-11-13T13:14:51.324356+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -505,13 +505,13 @@
    "name": "Қазақ",
    "values": {
     "donations": 609,
-    "donationsReceived": 476,
+    "donationsReceived": 529,
     "trophies": 0,
     "builderBaseTrophies": 2718,
     "expLevel": 193
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T13:12:48.146608+00:00"
+   "last_change": "2026-11-13T13:14:51.324356+00:00"
   },
   "#YLLGJYQ9V": {
    "name": "drakoslik",
@@ -716,5 +716,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-13T13:12:48.319666+00:00"
+ "updated": "2026-11-13T13:14:51.484602+00:00"
 }
