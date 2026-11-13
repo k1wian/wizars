@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 3676,
+    "donations": 3706,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 4307,
     "expLevel": 249
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T21:41:04.319269+00:00"
+   "last_change": "2026-11-13T09:44:40.020534+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -418,13 +418,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 3564,
-    "donationsReceived": 7171,
+    "donationsReceived": 7201,
     "trophies": 519,
     "builderBaseTrophies": 3514,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T08:16:27.685085+00:00"
+   "last_change": "2026-11-13T09:44:40.020534+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -716,5 +716,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-13T09:42:37.076549+00:00"
+ "updated": "2026-11-13T09:44:40.197019+00:00"
 }
