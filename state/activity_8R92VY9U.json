@@ -77,14 +77,14 @@
   "#LLUUPVJQ9": {
    "name": "Ukrop",
    "values": {
-    "donations": 1293,
-    "donationsReceived": 1862,
+    "donations": 1308,
+    "donationsReceived": 1915,
     "trophies": 685,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T15:30:16.007760+00:00"
+   "last_change": "2026-11-13T17:34:29.658121+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -151,12 +151,12 @@
    "values": {
     "donations": 636,
     "donationsReceived": 944,
-    "trophies": 402,
+    "trophies": 428,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T17:32:07.449041+00:00"
+   "last_change": "2026-11-13T17:34:29.658121+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 1473,
-    "donationsReceived": 3538,
+    "donations": 1513,
+    "donationsReceived": 3553,
     "trophies": 357,
     "builderBaseTrophies": 3086,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T17:32:07.449041+00:00"
+   "last_change": "2026-11-13T17:34:29.658121+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -306,14 +306,14 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 1624,
+    "donations": 1637,
     "donationsReceived": 2057,
     "trophies": 64,
     "builderBaseTrophies": 3426,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T10:30:22.555444+00:00"
+   "last_change": "2026-11-13T17:34:29.658121+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -716,5 +716,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-13T17:32:07.545164+00:00"
+ "updated": "2026-11-13T17:34:29.784846+00:00"
 }
