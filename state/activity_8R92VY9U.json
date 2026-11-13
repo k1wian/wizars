@@ -173,14 +173,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 1212,
+    "donations": 1263,
     "donationsReceived": 1599,
     "trophies": 545,
     "builderBaseTrophies": 3788,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T13:09:22.456338+00:00"
+   "last_change": "2026-11-13T03:19:39.105405+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -210,13 +210,13 @@
    "name": "Navi | Fantasy",
    "values": {
     "donations": 449,
-    "donationsReceived": 385,
+    "donationsReceived": 436,
     "trophies": 87,
     "builderBaseTrophies": 3602,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T08:35:22.344299+00:00"
+   "last_change": "2026-11-13T03:19:39.105405+00:00"
   },
   "#GJLUCQ2CC": {
    "name": "mikki",
@@ -715,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-13T02:27:26.910356+00:00"
+ "updated": "2026-11-13T03:19:39.309289+00:00"
 }
