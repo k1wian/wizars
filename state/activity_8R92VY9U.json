@@ -138,13 +138,13 @@
    "name": "GANNIK",
    "values": {
     "donations": 2093,
-    "donationsReceived": 314,
+    "donationsReceived": 345,
     "trophies": 540,
     "builderBaseTrophies": 3237,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T14:29:58.727459+00:00"
+   "last_change": "2026-11-13T14:34:10.969551+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -281,14 +281,14 @@
   "#QUPVR0CU2": {
    "name": "чвв",
    "values": {
-    "donations": 482,
+    "donations": 543,
     "donationsReceived": 706,
     "trophies": 46,
     "builderBaseTrophies": 2953,
     "expLevel": 138
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T21:08:41.355833+00:00"
+   "last_change": "2026-11-13T14:34:10.969551+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -656,13 +656,13 @@
    "name": "$$vitalik$$",
    "values": {
     "donations": 146,
-    "donationsReceived": 411,
+    "donationsReceived": 441,
     "trophies": 297,
     "builderBaseTrophies": 4019,
     "expLevel": 210
    },
    "first_seen": "2026-11-10T13:54:37.997267+00:00",
-   "last_change": "2026-11-13T14:21:37.379465+00:00"
+   "last_change": "2026-11-13T14:34:10.969551+00:00"
   },
   "#GGPQLRJGC": {
    "name": "styushka",
@@ -716,5 +716,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-13T14:32:07.383812+00:00"
+ "updated": "2026-11-13T14:34:11.415245+00:00"
 }
