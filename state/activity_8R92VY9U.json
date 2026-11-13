@@ -429,14 +429,14 @@
   "#QG0PCCPJ": {
    "name": "данил",
    "values": {
-    "donations": 624,
+    "donations": 677,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3198,
     "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T09:54:10.443320+00:00"
+   "last_change": "2026-11-13T00:55:40.950472+00:00"
   },
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
@@ -505,13 +505,13 @@
    "name": "Қазақ",
    "values": {
     "donations": 608,
-    "donationsReceived": 423,
+    "donationsReceived": 476,
     "trophies": 0,
     "builderBaseTrophies": 2703,
     "expLevel": 193
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T11:08:21.514336+00:00"
+   "last_change": "2026-11-13T00:55:40.950472+00:00"
   },
   "#YLLGJYQ9V": {
    "name": "drakoslik",
@@ -555,12 +555,12 @@
    "values": {
     "donations": 10,
     "donationsReceived": 347,
-    "trophies": 69,
+    "trophies": 88,
     "builderBaseTrophies": 2467,
     "expLevel": 143
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T15:24:36.817559+00:00"
+   "last_change": "2026-11-13T00:55:40.950472+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -715,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-13T00:03:03.963699+00:00"
+ "updated": "2026-11-13T00:55:41.090324+00:00"
 }
