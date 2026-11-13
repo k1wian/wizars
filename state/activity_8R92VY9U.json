@@ -418,13 +418,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 3693,
-    "donationsReceived": 7378,
+    "donationsReceived": 7437,
     "trophies": 519,
     "builderBaseTrophies": 3514,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T14:11:14.564922+00:00"
+   "last_change": "2026-11-13T14:15:23.491705+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -655,14 +655,14 @@
   "#PY98VG0UU": {
    "name": "$$vitalik$$",
    "values": {
-    "donations": 87,
+    "donations": 146,
     "donationsReceived": 358,
     "trophies": 297,
     "builderBaseTrophies": 4019,
     "expLevel": 210
    },
    "first_seen": "2026-11-10T13:54:37.997267+00:00",
-   "last_change": "2026-11-12T02:45:35.390007+00:00"
+   "last_change": "2026-11-13T14:15:23.491705+00:00"
   },
   "#GGPQLRJGC": {
    "name": "styushka",
@@ -716,5 +716,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-13T14:13:18.602604+00:00"
+ "updated": "2026-11-13T14:15:23.665135+00:00"
 }
