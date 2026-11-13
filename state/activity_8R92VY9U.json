@@ -28,14 +28,14 @@
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 1014,
+    "donations": 1029,
     "donationsReceived": 582,
     "trophies": 63,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T20:34:04.249956+00:00"
+   "last_change": "2026-11-13T20:36:07.249259+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -418,13 +418,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 3836,
-    "donationsReceived": 7511,
+    "donationsReceived": 7526,
     "trophies": 519,
     "builderBaseTrophies": 3514,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T20:34:04.249956+00:00"
+   "last_change": "2026-11-13T20:36:07.249259+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -716,5 +716,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-13T20:34:04.385496+00:00"
+ "updated": "2026-11-13T20:36:07.456159+00:00"
 }
