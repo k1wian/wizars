@@ -309,11 +309,11 @@
     "donations": 1495,
     "donationsReceived": 2045,
     "trophies": 64,
-    "builderBaseTrophies": 3431,
+    "builderBaseTrophies": 3466,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T05:35:55.302546+00:00"
+   "last_change": "2026-11-13T05:37:58.114608+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -715,5 +715,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-13T05:35:55.467200+00:00"
+ "updated": "2026-11-13T05:37:58.272310+00:00"
 }
