@@ -507,11 +507,11 @@
     "donations": 608,
     "donationsReceived": 476,
     "trophies": 0,
-    "builderBaseTrophies": 2703,
+    "builderBaseTrophies": 2753,
     "expLevel": 193
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T00:55:40.950472+00:00"
+   "last_change": "2026-11-13T08:26:40.291473+00:00"
   },
   "#YLLGJYQ9V": {
    "name": "drakoslik",
@@ -716,5 +716,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-13T08:24:37.953748+00:00"
+ "updated": "2026-11-13T08:26:40.403226+00:00"
 }
