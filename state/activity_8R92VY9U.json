@@ -173,14 +173,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 1263,
+    "donations": 1348,
     "donationsReceived": 1599,
     "trophies": 545,
     "builderBaseTrophies": 3788,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T03:19:39.105405+00:00"
+   "last_change": "2026-11-13T06:32:34.839751+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -221,14 +221,14 @@
   "#GJLUCQ2CC": {
    "name": "mikki",
    "values": {
-    "donations": 612,
-    "donationsReceived": 2106,
+    "donations": 616,
+    "donationsReceived": 2156,
     "trophies": 438,
     "builderBaseTrophies": 3324,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T12:59:03.213589+00:00"
+   "last_change": "2026-11-13T06:32:34.839751+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -417,14 +417,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 3484,
-    "donationsReceived": 6968,
+    "donations": 3534,
+    "donationsReceived": 7057,
     "trophies": 519,
     "builderBaseTrophies": 3514,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-12T21:41:04.319269+00:00"
+   "last_change": "2026-11-13T06:32:34.839751+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -585,7 +585,8 @@
     "expLevel": 178
    },
    "first_seen": "2026-11-06T20:16:26.063011+00:00",
-   "last_change": "2026-11-13T05:56:27.427961+00:00"
+   "last_change": "2026-11-13T05:56:27.427961+00:00",
+   "left_at": "2026-11-13T06:32:34.839751+00:00"
   },
   "#2V8G8G8UL": {
    "name": "ismail argun",
@@ -715,5 +716,5 @@
    "left_at": "2026-11-12T04:53:20.866165+00:00"
   }
  },
- "updated": "2026-11-13T05:56:27.586662+00:00"
+ "updated": "2026-11-13T06:32:34.949485+00:00"
 }
