@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 3879,
+    "donations": 3934,
     "donationsReceived": 53,
     "trophies": 0,
     "builderBaseTrophies": 4307,
     "expLevel": 249
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T12:59:01.160661+00:00"
+   "last_change": "2026-11-14T19:18:05.521911+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -138,13 +138,13 @@
    "name": "GANNIK",
    "values": {
     "donations": 2322,
-    "donationsReceived": 465,
+    "donationsReceived": 520,
     "trophies": 540,
     "builderBaseTrophies": 3237,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T18:09:32.778513+00:00"
+   "last_change": "2026-11-14T19:18:05.521911+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -199,12 +199,12 @@
    "values": {
     "donations": 1828,
     "donationsReceived": 4123,
-    "trophies": 487,
+    "trophies": 498,
     "builderBaseTrophies": 3085,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T16:33:45.184497+00:00"
+   "last_change": "2026-11-14T19:18:05.521911+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-14T18:36:17.660541+00:00"
+ "updated": "2026-11-14T19:18:05.640950+00:00"
 }
