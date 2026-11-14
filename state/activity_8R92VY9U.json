@@ -138,13 +138,13 @@
    "name": "GANNIK",
    "values": {
     "donations": 2322,
-    "donationsReceived": 432,
+    "donationsReceived": 465,
     "trophies": 540,
     "builderBaseTrophies": 3237,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T13:46:14.386052+00:00"
+   "last_change": "2026-11-14T18:09:32.778513+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -185,14 +185,14 @@
   "#9R88GUV9Q": {
    "name": "KILLER F",
    "values": {
-    "donations": 252,
+    "donations": 283,
     "donationsReceived": 0,
-    "trophies": 283,
+    "trophies": 353,
     "builderBaseTrophies": 3453,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T17:54:55.506389+00:00"
+   "last_change": "2026-11-14T18:09:32.778513+00:00"
   },
   "#GLYP9PJJ9": {
    "name": "GAS",
@@ -693,14 +693,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 702,
+    "donations": 704,
     "donationsReceived": 227,
     "trophies": 588,
     "builderBaseTrophies": 2791,
     "expLevel": 148
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-14T16:33:45.184497+00:00"
+   "last_change": "2026-11-14T18:09:32.778513+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-14T17:54:55.689445+00:00"
+ "updated": "2026-11-14T18:09:32.916575+00:00"
 }
