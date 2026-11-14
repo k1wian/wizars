@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 1828,
-    "donationsReceived": 4123,
+    "donations": 1831,
+    "donationsReceived": 4299,
     "trophies": 498,
     "builderBaseTrophies": 3085,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T19:18:05.521911+00:00"
+   "last_change": "2026-11-14T21:10:01.411125+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 397,
-    "donationsReceived": 1236,
+    "donationsReceived": 1239,
     "trophies": 462,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T20:07:18.115035+00:00"
+   "last_change": "2026-11-14T21:10:01.411125+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -257,26 +257,26 @@
   "#YC9CG9C9G": {
    "name": "k1wian",
    "values": {
-    "donations": 1952,
+    "donations": 2181,
     "donationsReceived": 206,
     "trophies": 585,
     "builderBaseTrophies": 2952,
     "expLevel": 198
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T17:50:45.869386+00:00"
+   "last_change": "2026-11-14T21:10:01.411125+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
     "donations": 1013,
     "donationsReceived": 2218,
-    "trophies": 509,
+    "trophies": 524,
     "builderBaseTrophies": 3217,
     "expLevel": 170
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T13:46:14.386052+00:00"
+   "last_change": "2026-11-14T21:10:01.411125+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -554,13 +554,13 @@
    "name": "*Kurama*",
    "values": {
     "donations": 10,
-    "donationsReceived": 347,
-    "trophies": 116,
+    "donationsReceived": 400,
+    "trophies": 129,
     "builderBaseTrophies": 2467,
     "expLevel": 143
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T05:45:12.280747+00:00"
+   "last_change": "2026-11-14T21:10:01.411125+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-14T20:34:12.451106+00:00"
+ "updated": "2026-11-14T21:10:01.593532+00:00"
 }
