@@ -65,14 +65,14 @@
   "#G8RC08CGG": {
    "name": "Lancelot",
    "values": {
-    "donations": 513,
+    "donations": 568,
     "donationsReceived": 0,
     "trophies": 702,
     "builderBaseTrophies": 3003,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T23:12:13.630270+00:00"
+   "last_change": "2026-11-14T09:40:19.083717+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 1513,
-    "donationsReceived": 3553,
+    "donationsReceived": 3625,
     "trophies": 407,
-    "builderBaseTrophies": 3070,
+    "builderBaseTrophies": 3071,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T09:10:43.712830+00:00"
+   "last_change": "2026-11-14T09:40:19.083717+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -308,12 +308,12 @@
    "values": {
     "donations": 1637,
     "donationsReceived": 2323,
-    "trophies": 64,
+    "trophies": 72,
     "builderBaseTrophies": 3403,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T05:45:12.280747+00:00"
+   "last_change": "2026-11-14T09:40:19.083717+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -693,14 +693,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 612,
-    "donationsReceived": 172,
+    "donations": 652,
+    "donationsReceived": 195,
     "trophies": 588,
     "builderBaseTrophies": 2791,
     "expLevel": 148
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-14T06:51:46.282596+00:00"
+   "last_change": "2026-11-14T09:40:19.083717+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-14T09:10:43.870474+00:00"
+ "updated": "2026-11-14T09:40:19.248891+00:00"
 }
