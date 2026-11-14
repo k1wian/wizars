@@ -113,14 +113,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 1759,
+    "donations": 1837,
     "donationsReceived": 3818,
     "trophies": 222,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T20:25:48.927392+00:00"
+   "last_change": "2026-11-14T04:46:28.320341+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -150,13 +150,13 @@
    "name": "пидос-барабос",
    "values": {
     "donations": 717,
-    "donationsReceived": 944,
+    "donationsReceived": 1022,
     "trophies": 468,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T21:38:33.905148+00:00"
+   "last_change": "2026-11-14T04:46:28.320341+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -199,12 +199,12 @@
    "values": {
     "donations": 1513,
     "donationsReceived": 3553,
-    "trophies": 394,
+    "trophies": 407,
     "builderBaseTrophies": 3086,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T01:38:14.722501+00:00"
+   "last_change": "2026-11-14T04:46:28.320341+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -309,11 +309,11 @@
     "donations": 1637,
     "donationsReceived": 2273,
     "trophies": 64,
-    "builderBaseTrophies": 3452,
+    "builderBaseTrophies": 3403,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T04:07:49.385886+00:00"
+   "last_change": "2026-11-14T04:46:28.320341+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-14T04:09:52.416584+00:00"
+ "updated": "2026-11-14T04:46:28.486543+00:00"
 }
