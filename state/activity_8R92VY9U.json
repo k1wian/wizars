@@ -30,12 +30,12 @@
    "values": {
     "donations": 1139,
     "donationsReceived": 582,
-    "trophies": 88,
+    "trophies": 208,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T16:33:45.184497+00:00"
+   "last_change": "2026-11-14T20:07:18.115035+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -151,12 +151,12 @@
    "values": {
     "donations": 717,
     "donationsReceived": 1024,
-    "trophies": 468,
+    "trophies": 487,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T05:45:12.280747+00:00"
+   "last_change": "2026-11-14T20:07:18.115035+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -173,14 +173,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 1429,
+    "donations": 1469,
     "donationsReceived": 1765,
     "trophies": 593,
     "builderBaseTrophies": 3788,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T13:46:14.386052+00:00"
+   "last_change": "2026-11-14T20:07:18.115035+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 397,
-    "donationsReceived": 1196,
+    "donationsReceived": 1236,
     "trophies": 462,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T19:42:54.899856+00:00"
+   "last_change": "2026-11-14T20:07:18.115035+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-14T19:44:57.745597+00:00"
+ "updated": "2026-11-14T20:07:18.750703+00:00"
 }
