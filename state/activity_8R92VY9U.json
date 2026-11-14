@@ -77,14 +77,14 @@
   "#LLUUPVJQ9": {
    "name": "Ukrop",
    "values": {
-    "donations": 1537,
+    "donations": 1629,
     "donationsReceived": 1980,
     "trophies": 685,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T10:36:39.436137+00:00"
+   "last_change": "2026-11-14T11:31:26.352228+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -114,25 +114,25 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 1840,
-    "donationsReceived": 3868,
+    "donationsReceived": 3873,
     "trophies": 222,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T10:36:39.436137+00:00"
+   "last_change": "2026-11-14T11:31:26.352228+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
    "values": {
-    "donations": 1173,
-    "donationsReceived": 1015,
+    "donations": 1177,
+    "donationsReceived": 1098,
     "trophies": 414,
     "builderBaseTrophies": 3283,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T10:57:43.385980+00:00"
+   "last_change": "2026-11-14T11:31:26.352228+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 1513,
-    "donationsReceived": 3641,
-    "trophies": 407,
-    "builderBaseTrophies": 3071,
+    "donations": 1773,
+    "donationsReceived": 3729,
+    "trophies": 447,
+    "builderBaseTrophies": 3085,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T10:36:39.436137+00:00"
+   "last_change": "2026-11-14T11:31:26.352228+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -417,14 +417,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 3944,
-    "donationsReceived": 8416,
+    "donations": 4027,
+    "donationsReceived": 8679,
     "trophies": 519,
     "builderBaseTrophies": 3544,
     "expLevel": 198
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T10:53:37.187010+00:00"
+   "last_change": "2026-11-14T11:31:26.352228+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-14T11:01:49.798169+00:00"
+ "updated": "2026-11-14T11:31:26.524456+00:00"
 }
