@@ -65,14 +65,14 @@
   "#G8RC08CGG": {
    "name": "Lancelot",
    "values": {
-    "donations": 568,
+    "donations": 600,
     "donationsReceived": 0,
     "trophies": 702,
     "builderBaseTrophies": 3003,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T09:40:19.083717+00:00"
+   "last_change": "2026-11-14T15:51:53.648348+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 1828,
-    "donationsReceived": 4035,
+    "donationsReceived": 4067,
     "trophies": 487,
     "builderBaseTrophies": 3085,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T15:33:24.929397+00:00"
+   "last_change": "2026-11-14T15:51:53.648348+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-14T15:49:50.081127+00:00"
+ "updated": "2026-11-14T15:51:53.862276+00:00"
 }
