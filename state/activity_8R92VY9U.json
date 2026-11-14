@@ -77,14 +77,14 @@
   "#LLUUPVJQ9": {
    "name": "Ukrop",
    "values": {
-    "donations": 1520,
+    "donations": 1537,
     "donationsReceived": 1980,
     "trophies": 685,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T00:05:50.505700+00:00"
+   "last_change": "2026-11-14T10:36:39.436137+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -113,26 +113,26 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 1837,
-    "donationsReceived": 3818,
+    "donations": 1840,
+    "donationsReceived": 3868,
     "trophies": 222,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T04:46:28.320341+00:00"
+   "last_change": "2026-11-14T10:36:39.436137+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
    "values": {
-    "donations": 1066,
-    "donationsReceived": 962,
-    "trophies": 169,
+    "donations": 1173,
+    "donationsReceived": 1015,
+    "trophies": 249,
     "builderBaseTrophies": 3283,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T15:15:49.138196+00:00"
+   "last_change": "2026-11-14T10:36:39.436137+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 1513,
-    "donationsReceived": 3626,
+    "donationsReceived": 3641,
     "trophies": 407,
     "builderBaseTrophies": 3071,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T09:52:48.153112+00:00"
+   "last_change": "2026-11-14T10:36:39.436137+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -261,10 +261,10 @@
     "donationsReceived": 206,
     "trophies": 585,
     "builderBaseTrophies": 2952,
-    "expLevel": 197
+    "expLevel": 198
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T06:51:46.282596+00:00"
+   "last_change": "2026-11-14T10:36:39.436137+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -307,13 +307,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 1670,
-    "donationsReceived": 2323,
+    "donationsReceived": 2326,
     "trophies": 72,
     "builderBaseTrophies": 3403,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T09:52:48.153112+00:00"
+   "last_change": "2026-11-14T10:36:39.436137+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -417,14 +417,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 3891,
-    "donationsReceived": 8327,
+    "donations": 3944,
+    "donationsReceived": 8386,
     "trophies": 519,
     "builderBaseTrophies": 3544,
     "expLevel": 198
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T08:21:01.038636+00:00"
+   "last_change": "2026-11-14T10:36:39.436137+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-14T10:07:16.259648+00:00"
+ "updated": "2026-11-14T10:36:39.575675+00:00"
 }
