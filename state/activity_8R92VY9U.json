@@ -187,12 +187,12 @@
    "values": {
     "donations": 252,
     "donationsReceived": 0,
-    "trophies": 193,
+    "trophies": 233,
     "builderBaseTrophies": 3453,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T17:48:42.764234+00:00"
+   "last_change": "2026-11-14T17:50:45.869386+00:00"
   },
   "#GLYP9PJJ9": {
    "name": "GAS",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 394,
-    "donationsReceived": 1184,
+    "donationsReceived": 1186,
     "trophies": 462,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T15:47:46.709719+00:00"
+   "last_change": "2026-11-14T17:50:45.869386+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -257,14 +257,14 @@
   "#YC9CG9C9G": {
    "name": "k1wian",
    "values": {
-    "donations": 1950,
+    "donations": 1952,
     "donationsReceived": 206,
     "trophies": 585,
     "builderBaseTrophies": 2952,
     "expLevel": 198
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T13:46:14.386052+00:00"
+   "last_change": "2026-11-14T17:50:45.869386+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-14T17:48:42.961677+00:00"
+ "updated": "2026-11-14T17:50:46.824705+00:00"
 }
