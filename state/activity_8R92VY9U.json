@@ -113,14 +113,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 1929,
-    "donationsReceived": 3979,
+    "donations": 1984,
+    "donationsReceived": 4037,
     "trophies": 293,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T19:28:24.392980+00:00"
+   "last_change": "2026-11-14T19:30:30.429004+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -137,14 +137,14 @@
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 2322,
+    "donations": 2329,
     "donationsReceived": 520,
     "trophies": 540,
     "builderBaseTrophies": 3237,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T19:18:05.521911+00:00"
+   "last_change": "2026-11-14T19:30:30.429004+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -233,14 +233,14 @@
   "#GPLGJCLJV": {
    "name": "Lazari95",
    "values": {
-    "donations": 394,
+    "donations": 397,
     "donationsReceived": 1186,
     "trophies": 462,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T17:50:45.869386+00:00"
+   "last_change": "2026-11-14T19:30:30.429004+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -417,14 +417,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 4251,
-    "donationsReceived": 9293,
+    "donations": 4299,
+    "donationsReceived": 9348,
     "trophies": 519,
     "builderBaseTrophies": 3419,
     "expLevel": 198
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T19:26:19.550983+00:00"
+   "last_change": "2026-11-14T19:30:30.429004+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-14T19:28:24.651682+00:00"
+ "updated": "2026-11-14T19:30:30.544363+00:00"
 }
