@@ -307,13 +307,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 1990,
-    "donationsReceived": 2376,
+    "donationsReceived": 2409,
     "trophies": 72,
     "builderBaseTrophies": 3403,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T16:48:06.751130+00:00"
+   "last_change": "2026-11-14T16:58:24.444674+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -417,14 +417,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 4167,
+    "donations": 4200,
     "donationsReceived": 9204,
     "trophies": 519,
     "builderBaseTrophies": 3419,
     "expLevel": 198
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T16:48:06.751130+00:00"
+   "last_change": "2026-11-14T16:58:24.444674+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-14T16:56:20.622729+00:00"
+ "updated": "2026-11-14T16:58:24.654586+00:00"
 }
