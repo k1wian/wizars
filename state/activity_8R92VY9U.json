@@ -433,10 +433,10 @@
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3198,
-    "expLevel": 176
+    "expLevel": 177
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T11:49:58.583934+00:00"
+   "last_change": "2026-11-14T22:28:29.234985+00:00"
   },
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-14T22:26:24.905025+00:00"
+ "updated": "2026-11-14T22:28:29.437247+00:00"
 }
