@@ -30,12 +30,12 @@
    "values": {
     "donations": 1331,
     "donationsReceived": 668,
-    "trophies": 208,
+    "trophies": 234,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T08:24:33.167081+00:00"
+   "last_change": "2026-11-15T12:41:53.098168+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -150,13 +150,13 @@
    "name": "пидос-барабос",
    "values": {
     "donations": 823,
-    "donationsReceived": 1104,
+    "donationsReceived": 1185,
     "trophies": 487,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T05:48:03.097264+00:00"
+   "last_change": "2026-11-15T12:41:53.098168+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -245,14 +245,14 @@
   "#GPLYRL920": {
    "name": "10.KARMA.44",
    "values": {
-    "donations": 208,
+    "donations": 238,
     "donationsReceived": 113,
     "trophies": 105,
     "builderBaseTrophies": 2949,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T08:14:12.760940+00:00"
+   "last_change": "2026-11-15T12:41:53.098168+00:00"
   },
   "#YC9CG9C9G": {
    "name": "k1wian",
@@ -281,14 +281,14 @@
   "#QUPVR0CU2": {
    "name": "чвв",
    "values": {
-    "donations": 674,
+    "donations": 724,
     "donationsReceived": 789,
     "trophies": 491,
     "builderBaseTrophies": 2953,
     "expLevel": 139
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T08:24:33.167081+00:00"
+   "last_change": "2026-11-15T12:41:53.098168+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -417,14 +417,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 4403,
+    "donations": 4404,
     "donationsReceived": 9927,
     "trophies": 535,
     "builderBaseTrophies": 3419,
-    "expLevel": 198
+    "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T10:59:37.796141+00:00"
+   "last_change": "2026-11-15T12:41:53.098168+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-15T12:00:27.060635+00:00"
+ "updated": "2026-11-15T12:41:53.209797+00:00"
 }
