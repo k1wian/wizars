@@ -149,14 +149,14 @@
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 823,
+    "donations": 903,
     "donationsReceived": 1185,
     "trophies": 487,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T12:41:53.098168+00:00"
+   "last_change": "2026-11-15T15:48:56.458721+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -605,13 +605,13 @@
    "name": "KNYAZ",
    "values": {
     "donations": 333,
-    "donationsReceived": 209,
+    "donationsReceived": 289,
     "trophies": 414,
     "builderBaseTrophies": 3839,
     "expLevel": 191
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-15T03:51:59.538708+00:00"
+   "last_change": "2026-11-15T15:48:56.458721+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -753,5 +753,5 @@
    "last_change": "2026-11-15T15:34:25.971697+00:00"
   }
  },
- "updated": "2026-11-15T15:46:52.776848+00:00"
+ "updated": "2026-11-15T15:48:56.631953+00:00"
 }
