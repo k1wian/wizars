@@ -29,13 +29,13 @@
    "name": "B.O.T",
    "values": {
     "donations": 1331,
-    "donationsReceived": 726,
+    "donationsReceived": 756,
     "trophies": 246,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T16:36:45.786905+00:00"
+   "last_change": "2026-11-15T18:38:04.200981+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 1417,
+    "donations": 1447,
     "donationsReceived": 249,
     "trophies": 731,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T09:05:05.507405+00:00"
+   "last_change": "2026-11-15T18:38:04.200981+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -151,12 +151,12 @@
    "values": {
     "donations": 903,
     "donationsReceived": 1185,
-    "trophies": 487,
+    "trophies": 499,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T15:48:56.458721+00:00"
+   "last_change": "2026-11-15T18:38:04.200981+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -173,14 +173,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 1896,
+    "donations": 1954,
     "donationsReceived": 1813,
     "trophies": 593,
     "builderBaseTrophies": 3788,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T16:59:38.974355+00:00"
+   "last_change": "2026-11-15T18:38:04.200981+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -695,11 +695,11 @@
     "donations": 754,
     "donationsReceived": 227,
     "trophies": 588,
-    "builderBaseTrophies": 2791,
+    "builderBaseTrophies": 2818,
     "expLevel": 148
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-14T22:07:47.070028+00:00"
+   "last_change": "2026-11-15T18:38:04.200981+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -743,13 +743,13 @@
    "name": "ерлан",
    "values": {
     "donations": 0,
-    "donationsReceived": 58,
+    "donationsReceived": 116,
     "trophies": 0,
     "builderBaseTrophies": 3365,
     "expLevel": 180
    },
    "first_seen": "2026-11-15T15:34:25.971697+00:00",
-   "last_change": "2026-11-15T15:34:25.971697+00:00"
+   "last_change": "2026-11-15T18:38:04.200981+00:00"
   },
   "#GR8YRP9PR": {
    "name": "[$]•Баходир•[$]",
@@ -777,5 +777,5 @@
    "last_change": "2026-11-15T17:31:04.030457+00:00"
   }
  },
- "updated": "2026-11-15T17:56:14.284726+00:00"
+ "updated": "2026-11-15T18:38:05.137438+00:00"
 }
