@@ -187,12 +187,12 @@
    "values": {
     "donations": 283,
     "donationsReceived": 0,
-    "trophies": 353,
+    "trophies": 365,
     "builderBaseTrophies": 3453,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T18:09:32.778513+00:00"
+   "last_change": "2026-11-15T00:19:12.203284+00:00"
   },
   "#GLYP9PJJ9": {
    "name": "GAS",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-15T00:17:08.810756+00:00"
+ "updated": "2026-11-15T00:19:12.326689+00:00"
 }
