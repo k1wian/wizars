@@ -28,14 +28,14 @@
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 1283,
+    "donations": 1331,
     "donationsReceived": 668,
     "trophies": 208,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T07:59:49.105956+00:00"
+   "last_change": "2026-11-15T08:24:33.167081+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -114,25 +114,25 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 2043,
-    "donationsReceived": 4145,
+    "donationsReceived": 4150,
     "trophies": 297,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T08:20:23.035290+00:00"
+   "last_change": "2026-11-15T08:24:33.167081+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
    "values": {
-    "donations": 1282,
+    "donations": 1322,
     "donationsReceived": 1098,
     "trophies": 440,
     "builderBaseTrophies": 3283,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T07:59:49.105956+00:00"
+   "last_change": "2026-11-15T08:24:33.167081+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -282,13 +282,13 @@
    "name": "чвв",
    "values": {
     "donations": 674,
-    "donationsReceived": 706,
+    "donationsReceived": 789,
     "trophies": 491,
     "builderBaseTrophies": 2953,
     "expLevel": 139
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T08:18:18.898347+00:00"
+   "last_change": "2026-11-15T08:24:33.167081+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-15T08:22:29.872731+00:00"
+ "updated": "2026-11-15T08:24:33.391416+00:00"
 }
