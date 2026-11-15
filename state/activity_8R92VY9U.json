@@ -631,12 +631,12 @@
    "values": {
     "donations": 15,
     "donationsReceived": 83,
-    "trophies": 333,
+    "trophies": 348,
     "builderBaseTrophies": 2814,
     "expLevel": 135
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-15T16:55:31.808544+00:00"
+   "last_change": "2026-11-15T17:01:42.971678+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -765,5 +765,5 @@
    "left_at": "2026-11-15T16:51:17.847706+00:00"
   }
  },
- "updated": "2026-11-15T16:59:39.195360+00:00"
+ "updated": "2026-11-15T17:01:43.174065+00:00"
 }
