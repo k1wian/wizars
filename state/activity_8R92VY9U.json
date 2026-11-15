@@ -28,14 +28,14 @@
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 1139,
-    "donationsReceived": 582,
+    "donations": 1224,
+    "donationsReceived": 638,
     "trophies": 208,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T20:07:18.115035+00:00"
+   "last_change": "2026-11-15T05:48:03.097264+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 1984,
-    "donationsReceived": 4037,
+    "donationsReceived": 4092,
     "trophies": 293,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T19:30:30.429004+00:00"
+   "last_change": "2026-11-15T05:48:03.097264+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -149,14 +149,14 @@
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 717,
-    "donationsReceived": 1024,
+    "donations": 823,
+    "donationsReceived": 1104,
     "trophies": 487,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T20:07:18.115035+00:00"
+   "last_change": "2026-11-15T05:48:03.097264+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-15T05:15:11.821789+00:00"
+ "updated": "2026-11-15T05:48:03.268064+00:00"
 }
