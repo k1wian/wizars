@@ -417,14 +417,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 4454,
+    "donations": 4484,
     "donationsReceived": 10134,
     "trophies": 535,
     "builderBaseTrophies": 3419,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T16:47:09.717137+00:00"
+   "last_change": "2026-11-15T16:53:27.277363+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -630,13 +630,13 @@
    "name": "Lord",
    "values": {
     "donations": 0,
-    "donationsReceived": 53,
+    "donationsReceived": 83,
     "trophies": 333,
     "builderBaseTrophies": 2814,
     "expLevel": 135
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-15T16:51:17.847706+00:00"
+   "last_change": "2026-11-15T16:53:27.277363+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -765,5 +765,5 @@
    "left_at": "2026-11-15T16:51:17.847706+00:00"
   }
  },
- "updated": "2026-11-15T16:51:18.358586+00:00"
+ "updated": "2026-11-15T16:53:27.476441+00:00"
 }
