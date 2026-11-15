@@ -125,14 +125,14 @@
   "#Y929RQ0L2": {
    "name": "Димаш",
    "values": {
-    "donations": 1322,
+    "donations": 1343,
     "donationsReceived": 1098,
     "trophies": 440,
     "builderBaseTrophies": 3283,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T08:24:33.167081+00:00"
+   "last_change": "2026-11-15T12:52:09.410088+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -270,13 +270,13 @@
    "name": "Sənan",
    "values": {
     "donations": 1063,
-    "donationsReceived": 2381,
+    "donationsReceived": 2493,
     "trophies": 524,
     "builderBaseTrophies": 3217,
     "expLevel": 170
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T06:54:49.031802+00:00"
+   "last_change": "2026-11-15T12:52:09.410088+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -306,14 +306,14 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 1990,
+    "donations": 2081,
     "donationsReceived": 2569,
     "trophies": 72,
     "builderBaseTrophies": 3454,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T09:05:05.507405+00:00"
+   "last_change": "2026-11-15T12:52:09.410088+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-15T12:50:06.067747+00:00"
+ "updated": "2026-11-15T12:52:09.512792+00:00"
 }
