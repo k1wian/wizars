@@ -271,12 +271,12 @@
    "values": {
     "donations": 1063,
     "donationsReceived": 2493,
-    "trophies": 524,
+    "trophies": 541,
     "builderBaseTrophies": 3217,
     "expLevel": 170
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T12:52:09.410088+00:00"
+   "last_change": "2026-11-15T17:31:04.030457+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -418,13 +418,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 4484,
-    "donationsReceived": 10248,
+    "donationsReceived": 10362,
     "trophies": 535,
     "builderBaseTrophies": 3419,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T16:59:38.974355+00:00"
+   "last_change": "2026-11-15T17:31:04.030457+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -763,7 +763,19 @@
    "first_seen": "2026-11-15T16:40:55.323884+00:00",
    "last_change": "2026-11-15T16:40:55.323884+00:00",
    "left_at": "2026-11-15T16:51:17.847706+00:00"
+  },
+  "#GURCGCY99": {
+   "name": "Мейрамбек",
+   "values": {
+    "donations": 114,
+    "donationsReceived": 0,
+    "trophies": 0,
+    "builderBaseTrophies": 2445,
+    "expLevel": 144
+   },
+   "first_seen": "2026-11-15T17:31:04.030457+00:00",
+   "last_change": "2026-11-15T17:31:04.030457+00:00"
   }
  },
- "updated": "2026-11-15T17:01:43.174065+00:00"
+ "updated": "2026-11-15T17:31:04.327069+00:00"
 }
