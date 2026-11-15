@@ -505,13 +505,13 @@
    "name": "Қазақ",
    "values": {
     "donations": 668,
-    "donationsReceived": 582,
+    "donationsReceived": 635,
     "trophies": 0,
     "builderBaseTrophies": 2718,
     "expLevel": 193
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-13T19:35:14.824345+00:00"
+   "last_change": "2026-11-15T03:47:46.357759+00:00"
   },
   "#YLLGJYQ9V": {
    "name": "drakoslik",
@@ -604,14 +604,14 @@
   "#QQLGR0C9G": {
    "name": "KNYAZ",
    "values": {
-    "donations": 280,
+    "donations": 333,
     "donationsReceived": 209,
-    "trophies": 101,
+    "trophies": 337,
     "builderBaseTrophies": 3839,
     "expLevel": 191
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-15T02:45:37.095810+00:00"
+   "last_change": "2026-11-15T03:47:46.357759+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-15T03:12:33.242470+00:00"
+ "updated": "2026-11-15T03:47:46.546966+00:00"
 }
