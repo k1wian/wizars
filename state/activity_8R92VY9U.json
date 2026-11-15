@@ -356,14 +356,14 @@
   "#YYVYCLLG9": {
    "name": "ЧaPoДeЙ",
    "values": {
-    "donations": 1040,
+    "donations": 1125,
     "donationsReceived": 53,
     "trophies": 98,
     "builderBaseTrophies": 1695,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T10:06:42.575916+00:00"
+   "last_change": "2026-11-15T10:08:46.910750+00:00"
   },
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
@@ -418,13 +418,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 4403,
-    "donationsReceived": 9723,
+    "donationsReceived": 9808,
     "trophies": 535,
     "builderBaseTrophies": 3419,
     "expLevel": 198
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T10:06:42.575916+00:00"
+   "last_change": "2026-11-15T10:08:46.910750+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -741,5 +741,5 @@
    "last_change": "2026-11-14T02:52:31.011747+00:00"
   }
  },
- "updated": "2026-11-15T10:06:43.056050+00:00"
+ "updated": "2026-11-15T10:08:47.136495+00:00"
 }
