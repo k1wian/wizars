@@ -28,14 +28,14 @@
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 1355,
+    "donations": 1365,
     "donationsReceived": 756,
     "trophies": 246,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T20:34:14.515133+00:00"
+   "last_change": "2026-11-15T22:35:00.077893+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 510,
-    "donationsReceived": 1239,
+    "donationsReceived": 1289,
     "trophies": 478,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T06:13:07.860741+00:00"
+   "last_change": "2026-11-15T22:35:00.077893+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -692,14 +692,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 811,
+    "donations": 851,
     "donationsReceived": 251,
     "trophies": 613,
     "builderBaseTrophies": 2818,
     "expLevel": 148
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-15T20:34:14.515133+00:00"
+   "last_change": "2026-11-15T22:35:00.077893+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -777,5 +777,5 @@
    "last_change": "2026-11-15T17:31:04.030457+00:00"
   }
  },
- "updated": "2026-11-15T21:56:43.456107+00:00"
+ "updated": "2026-11-15T22:35:00.725404+00:00"
 }
