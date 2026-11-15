@@ -28,14 +28,14 @@
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 1331,
+    "donations": 1355,
     "donationsReceived": 756,
     "trophies": 246,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T18:38:04.200981+00:00"
+   "last_change": "2026-11-15T20:34:14.515133+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -693,13 +693,13 @@
    "name": "rewero",
    "values": {
     "donations": 811,
-    "donationsReceived": 227,
+    "donationsReceived": 251,
     "trophies": 613,
     "builderBaseTrophies": 2818,
     "expLevel": 148
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-15T19:39:07.079625+00:00"
+   "last_change": "2026-11-15T20:34:14.515133+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -777,5 +777,5 @@
    "last_change": "2026-11-15T17:31:04.030457+00:00"
   }
  },
- "updated": "2026-11-15T20:04:04.943648+00:00"
+ "updated": "2026-11-15T20:34:14.841096+00:00"
 }
