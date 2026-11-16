@@ -65,26 +65,26 @@
   "#G8RC08CGG": {
    "name": "Lancelot",
    "values": {
-    "donations": 652,
+    "donations": 692,
     "donationsReceived": 0,
     "trophies": 711,
     "builderBaseTrophies": 3003,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T07:59:49.105956+00:00"
+   "last_change": "2026-11-16T10:35:44.438080+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
    "values": {
-    "donations": 1821,
-    "donationsReceived": 2130,
+    "donations": 1837,
+    "donationsReceived": 2180,
     "trophies": 710,
     "builderBaseTrophies": 3111,
     "expLevel": 195
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T04:06:42.791722+00:00"
+   "last_change": "2026-11-16T10:35:44.438080+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -113,14 +113,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 2123,
+    "donations": 2173,
     "donationsReceived": 4370,
     "trophies": 385,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T05:56:51.212649+00:00"
+   "last_change": "2026-11-16T10:35:44.438080+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 1924,
-    "donationsReceived": 4563,
+    "donationsReceived": 4723,
     "trophies": 508,
     "builderBaseTrophies": 3053,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T08:31:35.422219+00:00"
+   "last_change": "2026-11-16T10:35:44.438080+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -429,14 +429,14 @@
   "#QG0PCCPJ": {
    "name": "данил",
    "values": {
-    "donations": 735,
+    "donations": 897,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3198,
     "expLevel": 177
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-14T22:28:29.234985+00:00"
+   "last_change": "2026-11-16T10:35:44.438080+00:00"
   },
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
@@ -693,13 +693,13 @@
    "name": "rewero",
    "values": {
     "donations": 851,
-    "donationsReceived": 306,
+    "donationsReceived": 364,
     "trophies": 613,
     "builderBaseTrophies": 2818,
-    "expLevel": 148
+    "expLevel": 149
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-16T08:31:35.422219+00:00"
+   "last_change": "2026-11-16T10:35:44.438080+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -777,5 +777,5 @@
    "last_change": "2026-11-15T17:31:04.030457+00:00"
   }
  },
- "updated": "2026-11-16T08:56:34.515582+00:00"
+ "updated": "2026-11-16T10:35:44.544732+00:00"
 }
