@@ -161,14 +161,14 @@
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
    "values": {
-    "donations": 616,
+    "donations": 699,
     "donationsReceived": 0,
     "trophies": 533,
     "builderBaseTrophies": 3478,
     "expLevel": 209
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T05:50:27.230461+00:00"
+   "last_change": "2026-11-16T11:02:39.910395+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -307,13 +307,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 2081,
-    "donationsReceived": 2775,
+    "donationsReceived": 2858,
     "trophies": 72,
     "builderBaseTrophies": 3462,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T08:31:35.422219+00:00"
+   "last_change": "2026-11-16T11:02:39.910395+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -777,5 +777,5 @@
    "last_change": "2026-11-15T17:31:04.030457+00:00"
   }
  },
- "updated": "2026-11-16T11:00:36.521845+00:00"
+ "updated": "2026-11-16T11:02:40.002011+00:00"
 }
