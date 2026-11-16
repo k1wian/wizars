@@ -28,14 +28,14 @@
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 1370,
+    "donations": 1423,
     "donationsReceived": 756,
     "trophies": 29,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T19:51:45.287244+00:00"
+   "last_change": "2026-11-16T20:45:27.099930+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -199,12 +199,12 @@
    "values": {
     "donations": 1995,
     "donationsReceived": 4951,
-    "trophies": 0,
+    "trophies": 20,
     "builderBaseTrophies": 3090,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T19:51:45.287244+00:00"
+   "last_change": "2026-11-16T20:45:27.099930+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 707,
-    "donationsReceived": 2511,
+    "donationsReceived": 2564,
     "trophies": 0,
     "builderBaseTrophies": 3353,
     "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T18:51:45.838360+00:00"
+   "last_change": "2026-11-16T20:45:27.099930+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -778,5 +778,5 @@
    "left_at": "2026-11-16T16:52:24.997669+00:00"
   }
  },
- "updated": "2026-11-16T20:16:54.179968+00:00"
+ "updated": "2026-11-16T20:45:27.570425+00:00"
 }
