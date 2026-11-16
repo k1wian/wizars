@@ -1483,7 +1483,7 @@
  "20261115T091846.000Z_#2J90J9CP2": {
   "kind": "war",
   "opponent": "also",
-  "end": "20261117T081846.000Z",
+  "end": "20261117T090541.000Z",
   "state": "inWar",
   "attacks_per_member": 2,
   "members": {
@@ -1494,8 +1494,8 @@
    },
    "#LCGURCCL": {
     "name": "rewero",
-    "used": 1,
-    "stars": 3
+    "used": 2,
+    "stars": 5
    },
    "#QP8LPLL80": {
     "name": "Лорд",

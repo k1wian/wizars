@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 1924,
-    "donationsReceived": 4723,
+    "donationsReceived": 4778,
     "trophies": 508,
-    "builderBaseTrophies": 3053,
+    "builderBaseTrophies": 3090,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T10:35:44.438080+00:00"
+   "last_change": "2026-11-16T12:22:38.171130+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -417,14 +417,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 4577,
+    "donations": 4592,
     "donationsReceived": 10419,
     "trophies": 535,
     "builderBaseTrophies": 3419,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T08:31:35.422219+00:00"
+   "last_change": "2026-11-16T12:22:38.171130+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -692,14 +692,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 851,
+    "donations": 891,
     "donationsReceived": 364,
     "trophies": 613,
     "builderBaseTrophies": 2818,
     "expLevel": 149
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-16T10:35:44.438080+00:00"
+   "last_change": "2026-11-16T12:22:38.171130+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -777,5 +777,5 @@
    "last_change": "2026-11-15T17:31:04.030457+00:00"
   }
  },
- "updated": "2026-11-16T11:02:40.002011+00:00"
+ "updated": "2026-11-16T12:22:38.318973+00:00"
 }
