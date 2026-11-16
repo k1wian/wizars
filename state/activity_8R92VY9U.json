@@ -125,14 +125,14 @@
   "#Y929RQ0L2": {
    "name": "Димаш",
    "values": {
-    "donations": 1574,
-    "donationsReceived": 1201,
+    "donations": 1657,
+    "donationsReceived": 1254,
     "trophies": 0,
     "builderBaseTrophies": 3268,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T15:04:18.800417+00:00"
+   "last_change": "2026-11-16T18:51:45.838360+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -149,14 +149,14 @@
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 1089,
+    "donations": 1141,
     "donationsReceived": 1185,
     "trophies": 0,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T17:56:28.007858+00:00"
+   "last_change": "2026-11-16T18:51:45.838360+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -209,26 +209,26 @@
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
    "values": {
-    "donations": 678,
-    "donationsReceived": 519,
+    "donations": 719,
+    "donationsReceived": 602,
     "trophies": 0,
     "builderBaseTrophies": 3602,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T15:04:18.800417+00:00"
+   "last_change": "2026-11-16T18:51:45.838360+00:00"
   },
   "#GJLUCQ2CC": {
    "name": "mikki",
    "values": {
     "donations": 707,
-    "donationsReceived": 2471,
+    "donationsReceived": 2511,
     "trophies": 0,
     "builderBaseTrophies": 3353,
     "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T15:04:18.800417+00:00"
+   "last_change": "2026-11-16T18:51:45.838360+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -778,5 +778,5 @@
    "left_at": "2026-11-16T16:52:24.997669+00:00"
   }
  },
- "updated": "2026-11-16T18:21:25.259834+00:00"
+ "updated": "2026-11-16T18:51:47.002246+00:00"
 }
