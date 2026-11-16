@@ -270,13 +270,13 @@
    "name": "Sənan",
    "values": {
     "donations": 1116,
-    "donationsReceived": 2573,
+    "donationsReceived": 2583,
     "trophies": 16,
     "builderBaseTrophies": 3257,
     "expLevel": 170
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T18:21:24.782337+00:00"
+   "last_change": "2026-11-16T21:04:20.136187+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -528,14 +528,14 @@
   "#GC0UJR2GP": {
    "name": "DeMoN",
    "values": {
-    "donations": 0,
+    "donations": 10,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 455,
     "expLevel": 81
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T15:04:18.800417+00:00"
+   "last_change": "2026-11-16T21:04:20.136187+00:00"
   },
   "#YQVJCUULP": {
    "name": "ПЕчеНЬка",
@@ -778,5 +778,5 @@
    "left_at": "2026-11-16T16:52:24.997669+00:00"
   }
  },
- "updated": "2026-11-16T21:02:12.775193+00:00"
+ "updated": "2026-11-16T21:04:20.877671+00:00"
 }
