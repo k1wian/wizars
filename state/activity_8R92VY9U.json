@@ -79,12 +79,12 @@
    "values": {
     "donations": 1837,
     "donationsReceived": 2180,
-    "trophies": 9,
+    "trophies": 49,
     "builderBaseTrophies": 3111,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T18:13:06.330313+00:00"
+   "last_change": "2026-11-16T22:43:18.425455+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -139,12 +139,12 @@
    "values": {
     "donations": 2522,
     "donationsReceived": 520,
-    "trophies": 10,
+    "trophies": 26,
     "builderBaseTrophies": 3237,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T21:55:37.750065+00:00"
+   "last_change": "2026-11-16T22:43:18.425455+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -778,5 +778,5 @@
    "left_at": "2026-11-16T16:52:24.997669+00:00"
   }
  },
- "updated": "2026-11-16T22:08:11.747542+00:00"
+ "updated": "2026-11-16T22:43:18.610512+00:00"
 }
