@@ -28,14 +28,14 @@
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 1365,
+    "donations": 1370,
     "donationsReceived": 756,
     "trophies": 246,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T22:35:00.077893+00:00"
+   "last_change": "2026-11-16T05:56:51.212649+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 2123,
-    "donationsReceived": 4365,
+    "donationsReceived": 4370,
     "trophies": 385,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T23:40:14.414831+00:00"
+   "last_change": "2026-11-16T05:56:51.212649+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -777,5 +777,5 @@
    "last_change": "2026-11-15T17:31:04.030457+00:00"
   }
  },
- "updated": "2026-11-16T05:54:37.306621+00:00"
+ "updated": "2026-11-16T05:56:51.542953+00:00"
 }
