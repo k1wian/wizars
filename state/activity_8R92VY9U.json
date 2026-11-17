@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 4712,
+    "donations": 4800,
     "donationsReceived": 53,
     "trophies": 48,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T09:59:12.390047+00:00"
+   "last_change": "2026-11-17T10:01:15.717910+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 2038,
-    "donationsReceived": 5167,
-    "trophies": 135,
+    "donationsReceived": 5255,
+    "trophies": 146,
     "builderBaseTrophies": 3102,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T09:57:08.404085+00:00"
+   "last_change": "2026-11-17T10:01:15.717910+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -661,7 +661,8 @@
     "expLevel": 210
    },
    "first_seen": "2026-11-10T13:54:37.997267+00:00",
-   "last_change": "2026-11-16T15:04:18.800417+00:00"
+   "last_change": "2026-11-16T15:04:18.800417+00:00",
+   "left_at": "2026-11-17T10:01:15.717910+00:00"
   },
   "#GGPQLRJGC": {
    "name": "styushka",
@@ -737,7 +738,8 @@
     "expLevel": 188
    },
    "first_seen": "2026-11-14T02:52:31.011747+00:00",
-   "last_change": "2026-11-14T02:52:31.011747+00:00"
+   "last_change": "2026-11-14T02:52:31.011747+00:00",
+   "left_at": "2026-11-17T10:01:15.717910+00:00"
   },
   "#GJ002G90U": {
    "name": "ерлан",
@@ -790,5 +792,5 @@
    "last_change": "2026-11-17T09:57:08.404085+00:00"
   }
  },
- "updated": "2026-11-17T09:59:12.581798+00:00"
+ "updated": "2026-11-17T10:01:15.829352+00:00"
 }
