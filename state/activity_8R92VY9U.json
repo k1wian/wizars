@@ -77,14 +77,14 @@
   "#LLUUPVJQ9": {
    "name": "Ukrop",
    "values": {
-    "donations": 1892,
+    "donations": 1971,
     "donationsReceived": 2323,
     "trophies": 169,
     "builderBaseTrophies": 3111,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T11:03:27.651737+00:00"
+   "last_change": "2026-11-17T11:11:47.819995+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 2229,
-    "donationsReceived": 4538,
+    "donationsReceived": 4617,
     "trophies": 18,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T09:59:12.390047+00:00"
+   "last_change": "2026-11-17T11:11:47.819995+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -791,5 +791,5 @@
    "last_change": "2026-11-17T09:57:08.404085+00:00"
   }
  },
- "updated": "2026-11-17T11:09:43.806998+00:00"
+ "updated": "2026-11-17T11:11:48.089854+00:00"
 }
