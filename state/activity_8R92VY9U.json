@@ -125,26 +125,26 @@
   "#Y929RQ0L2": {
    "name": "Димаш",
    "values": {
-    "donations": 1687,
+    "donations": 1727,
     "donationsReceived": 1284,
     "trophies": 10,
     "builderBaseTrophies": 3325,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T10:15:40.676702+00:00"
+   "last_change": "2026-11-17T10:23:56.080638+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 2522,
+    "donations": 2532,
     "donationsReceived": 520,
     "trophies": 26,
     "builderBaseTrophies": 3237,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T22:43:18.425455+00:00"
+   "last_change": "2026-11-17T10:23:56.080638+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 567,
-    "donationsReceived": 1389,
+    "donationsReceived": 1439,
     "trophies": 0,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T09:57:08.404085+00:00"
+   "last_change": "2026-11-17T10:23:56.080638+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -792,5 +792,5 @@
    "last_change": "2026-11-17T09:57:08.404085+00:00"
   }
  },
- "updated": "2026-11-17T10:21:53.427733+00:00"
+ "updated": "2026-11-17T10:23:56.189207+00:00"
 }
