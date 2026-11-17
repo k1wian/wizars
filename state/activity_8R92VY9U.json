@@ -65,14 +65,14 @@
   "#G8RC08CGG": {
    "name": "Lancelot",
    "values": {
-    "donations": 692,
+    "donations": 745,
     "donationsReceived": 0,
-    "trophies": 267,
+    "trophies": 474,
     "builderBaseTrophies": 3003,
     "expLevel": 173
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T19:19:05.395345+00:00"
+   "last_change": "2026-11-17T19:58:40.786963+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 707,
-    "donationsReceived": 2928,
+    "donationsReceived": 2981,
     "trophies": 168,
     "builderBaseTrophies": 3353,
     "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T18:53:52.955890+00:00"
+   "last_change": "2026-11-17T19:58:40.786963+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -814,7 +814,19 @@
    },
    "first_seen": "2026-11-17T18:53:52.955890+00:00",
    "last_change": "2026-11-17T19:00:07.814303+00:00"
+  },
+  "#L8CUYRQVY": {
+   "name": "キツネanime",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 250,
+    "builderBaseTrophies": 2400,
+    "expLevel": 149
+   },
+   "first_seen": "2026-11-17T19:58:40.786963+00:00",
+   "last_change": "2026-11-17T19:58:40.786963+00:00"
   }
  },
- "updated": "2026-11-17T19:19:05.582191+00:00"
+ "updated": "2026-11-17T19:58:41.441519+00:00"
 }
