@@ -77,14 +77,14 @@
   "#LLUUPVJQ9": {
    "name": "Ukrop",
    "values": {
-    "donations": 1973,
-    "donationsReceived": 2378,
+    "donations": 2026,
+    "donationsReceived": 2379,
     "trophies": 209,
     "builderBaseTrophies": 3111,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T13:09:11.327786+00:00"
+   "last_change": "2026-11-17T14:15:09.542451+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -151,24 +151,24 @@
    "values": {
     "donations": 1249,
     "donationsReceived": 1185,
-    "trophies": 0,
+    "trophies": 15,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T07:08:31.800069+00:00"
+   "last_change": "2026-11-17T14:15:09.542451+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
    "values": {
-    "donations": 699,
+    "donations": 731,
     "donationsReceived": 0,
     "trophies": 27,
     "builderBaseTrophies": 3478,
     "expLevel": 209
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T17:56:28.007858+00:00"
+   "last_change": "2026-11-17T14:15:09.542451+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 2040,
-    "donationsReceived": 5469,
-    "trophies": 176,
+    "donationsReceived": 5541,
+    "trophies": 192,
     "builderBaseTrophies": 3102,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T11:52:15.641185+00:00"
+   "last_change": "2026-11-17T14:15:09.542451+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 567,
-    "donationsReceived": 1492,
+    "donationsReceived": 1545,
     "trophies": 51,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T13:21:38.771436+00:00"
+   "last_change": "2026-11-17T14:15:09.542451+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -416,14 +416,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 4644,
+    "donations": 4685,
     "donationsReceived": 10529,
     "trophies": 42,
     "builderBaseTrophies": 3485,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T13:00:29.926385+00:00"
+   "last_change": "2026-11-17T14:15:09.542451+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -791,5 +791,5 @@
    "last_change": "2026-11-17T12:56:20.600087+00:00"
   }
  },
- "updated": "2026-11-17T13:21:39.615495+00:00"
+ "updated": "2026-11-17T14:15:09.769843+00:00"
 }
