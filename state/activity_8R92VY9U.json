@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 1602,
+    "donations": 1715,
     "donationsReceived": 249,
     "trophies": 0,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T17:56:28.007858+00:00"
+   "last_change": "2026-11-17T17:35:49.973721+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -78,13 +78,13 @@
    "name": "Ukrop",
    "values": {
     "donations": 2026,
-    "donationsReceived": 2379,
+    "donationsReceived": 2409,
     "trophies": 217,
     "builderBaseTrophies": 3111,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T15:25:01.324570+00:00"
+   "last_change": "2026-11-17T17:35:49.973721+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -115,12 +115,12 @@
    "values": {
     "donations": 2229,
     "donationsReceived": 4624,
-    "trophies": 18,
+    "trophies": 31,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T11:52:15.641185+00:00"
+   "last_change": "2026-11-17T17:35:49.973721+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -163,12 +163,12 @@
    "values": {
     "donations": 731,
     "donationsReceived": 0,
-    "trophies": 27,
+    "trophies": 44,
     "builderBaseTrophies": 3478,
     "expLevel": 209
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T14:15:09.542451+00:00"
+   "last_change": "2026-11-17T17:35:49.973721+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 707,
-    "donationsReceived": 2775,
+    "donationsReceived": 2825,
     "trophies": 87,
     "builderBaseTrophies": 3353,
     "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T07:08:31.800069+00:00"
+   "last_change": "2026-11-17T17:35:49.973721+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -693,13 +693,13 @@
    "name": "rewero",
    "values": {
     "donations": 1133,
-    "donationsReceived": 445,
+    "donationsReceived": 478,
     "trophies": 0,
     "builderBaseTrophies": 2794,
     "expLevel": 150
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-17T16:50:08.576512+00:00"
+   "last_change": "2026-11-17T17:35:49.973721+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -804,5 +804,5 @@
    "left_at": "2026-11-17T14:42:05.106970+00:00"
   }
  },
- "updated": "2026-11-17T16:56:22.502807+00:00"
+ "updated": "2026-11-17T17:35:50.257617+00:00"
 }
