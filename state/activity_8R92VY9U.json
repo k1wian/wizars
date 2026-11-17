@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 2229,
-    "donationsReceived": 4617,
+    "donationsReceived": 4624,
     "trophies": 18,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T11:11:47.819995+00:00"
+   "last_change": "2026-11-17T11:52:15.641185+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -138,13 +138,13 @@
    "name": "GANNIK",
    "values": {
     "donations": 2532,
-    "donationsReceived": 520,
+    "donationsReceived": 638,
     "trophies": 26,
     "builderBaseTrophies": 3237,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T10:23:56.080638+00:00"
+   "last_change": "2026-11-17T11:52:15.641185+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 2038,
-    "donationsReceived": 5327,
-    "trophies": 166,
+    "donations": 2040,
+    "donationsReceived": 5469,
+    "trophies": 176,
     "builderBaseTrophies": 3102,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T10:15:40.676702+00:00"
+   "last_change": "2026-11-17T11:52:15.641185+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -416,14 +416,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 4642,
+    "donations": 4644,
     "donationsReceived": 10529,
     "trophies": 26,
     "builderBaseTrophies": 3485,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T10:59:19.048517+00:00"
+   "last_change": "2026-11-17T11:52:15.641185+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -781,15 +781,15 @@
   "#8JCGGU920": {
    "name": "Бизон",
    "values": {
-    "donations": 105,
+    "donations": 368,
     "donationsReceived": 58,
     "trophies": 546,
     "builderBaseTrophies": 2974,
     "expLevel": 238
    },
    "first_seen": "2026-11-17T05:30:33.457690+00:00",
-   "last_change": "2026-11-17T09:57:08.404085+00:00"
+   "last_change": "2026-11-17T11:52:15.641185+00:00"
   }
  },
- "updated": "2026-11-17T11:24:19.113374+00:00"
+ "updated": "2026-11-17T11:52:15.821868+00:00"
 }
