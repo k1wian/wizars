@@ -235,12 +235,12 @@
    "values": {
     "donations": 567,
     "donationsReceived": 1492,
-    "trophies": 22,
+    "trophies": 33,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T10:59:19.048517+00:00"
+   "last_change": "2026-11-17T11:09:43.622017+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -605,12 +605,12 @@
    "values": {
     "donations": 333,
     "donationsReceived": 292,
-    "trophies": 0,
+    "trophies": 20,
     "builderBaseTrophies": 3839,
     "expLevel": 191
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-16T15:04:18.800417+00:00"
+   "last_change": "2026-11-17T11:09:43.622017+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -791,5 +791,5 @@
    "last_change": "2026-11-17T09:57:08.404085+00:00"
   }
  },
- "updated": "2026-11-17T11:07:38.575899+00:00"
+ "updated": "2026-11-17T11:09:43.806998+00:00"
 }
