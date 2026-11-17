@@ -53,26 +53,26 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 1877,
+    "donations": 1929,
     "donationsReceived": 249,
-    "trophies": 285,
+    "trophies": 325,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T18:58:02.569158+00:00"
+   "last_change": "2026-11-17T19:00:07.814303+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
    "values": {
     "donations": 692,
     "donationsReceived": 0,
-    "trophies": 47,
+    "trophies": 62,
     "builderBaseTrophies": 3003,
     "expLevel": 173
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T18:58:02.569158+00:00"
+   "last_change": "2026-11-17T19:00:07.814303+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -270,13 +270,13 @@
    "name": "Sənan",
    "values": {
     "donations": 1118,
-    "donationsReceived": 2748,
-    "trophies": 68,
+    "donationsReceived": 2800,
+    "trophies": 89,
     "builderBaseTrophies": 3257,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T18:58:02.569158+00:00"
+   "last_change": "2026-11-17T19:00:07.814303+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -808,13 +808,13 @@
    "values": {
     "donations": 53,
     "donationsReceived": 77,
-    "trophies": 40,
+    "trophies": 52,
     "builderBaseTrophies": 1598,
     "expLevel": 110
    },
    "first_seen": "2026-11-17T18:53:52.955890+00:00",
-   "last_change": "2026-11-17T18:58:02.569158+00:00"
+   "last_change": "2026-11-17T19:00:07.814303+00:00"
   }
  },
- "updated": "2026-11-17T18:58:02.980335+00:00"
+ "updated": "2026-11-17T19:00:08.211654+00:00"
 }
