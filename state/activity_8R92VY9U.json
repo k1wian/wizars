@@ -149,14 +149,14 @@
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 1141,
+    "donations": 1181,
     "donationsReceived": 1185,
     "trophies": 0,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T18:51:45.838360+00:00"
+   "last_change": "2026-11-17T04:28:15.913203+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -223,12 +223,12 @@
    "values": {
     "donations": 707,
     "donationsReceived": 2564,
-    "trophies": 10,
+    "trophies": 18,
     "builderBaseTrophies": 3353,
     "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T20:49:39.236490+00:00"
+   "last_change": "2026-11-17T04:28:15.913203+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -270,13 +270,13 @@
    "name": "Sənan",
    "values": {
     "donations": 1116,
-    "donationsReceived": 2695,
+    "donationsReceived": 2748,
     "trophies": 16,
     "builderBaseTrophies": 3257,
-    "expLevel": 170
+    "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T21:43:09.473647+00:00"
+   "last_change": "2026-11-17T04:28:15.913203+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -629,14 +629,14 @@
   "#G2UPLL0L8": {
    "name": "Lord",
    "values": {
-    "donations": 15,
+    "donations": 28,
     "donationsReceived": 83,
-    "trophies": 0,
+    "trophies": 120,
     "builderBaseTrophies": 2814,
     "expLevel": 135
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-16T15:04:18.800417+00:00"
+   "last_change": "2026-11-17T04:28:15.913203+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -778,5 +778,5 @@
    "left_at": "2026-11-16T16:52:24.997669+00:00"
   }
  },
- "updated": "2026-11-17T03:45:59.322753+00:00"
+ "updated": "2026-11-17T04:28:16.014550+00:00"
 }
