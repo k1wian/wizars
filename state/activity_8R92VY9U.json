@@ -235,12 +235,12 @@
    "values": {
     "donations": 567,
     "donationsReceived": 1492,
-    "trophies": 33,
+    "trophies": 51,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T11:09:43.622017+00:00"
+   "last_change": "2026-11-17T13:21:38.771436+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -791,5 +791,5 @@
    "last_change": "2026-11-17T12:56:20.600087+00:00"
   }
  },
- "updated": "2026-11-17T13:19:34.532794+00:00"
+ "updated": "2026-11-17T13:21:39.615495+00:00"
 }
