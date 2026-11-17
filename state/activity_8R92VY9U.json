@@ -79,12 +79,12 @@
    "values": {
     "donations": 2026,
     "donationsReceived": 2379,
-    "trophies": 209,
+    "trophies": 217,
     "builderBaseTrophies": 3111,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T14:15:09.542451+00:00"
+   "last_change": "2026-11-17T15:25:01.324570+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -185,14 +185,14 @@
   "#9R88GUV9Q": {
    "name": "KILLER F",
    "values": {
-    "donations": 346,
+    "donations": 389,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3453,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T15:22:56.813102+00:00"
+   "last_change": "2026-11-17T15:25:01.324570+00:00"
   },
   "#GLYP9PJJ9": {
    "name": "GAS",
@@ -282,13 +282,13 @@
    "name": "чвв",
    "values": {
     "donations": 793,
-    "donationsReceived": 1005,
-    "trophies": 279,
+    "donationsReceived": 1088,
+    "trophies": 319,
     "builderBaseTrophies": 2953,
     "expLevel": 140
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T15:22:56.813102+00:00"
+   "last_change": "2026-11-17T15:25:01.324570+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -781,14 +781,14 @@
   "#8JCGGU920": {
    "name": "Бизон",
    "values": {
-    "donations": 596,
+    "donations": 636,
     "donationsReceived": 58,
     "trophies": 546,
     "builderBaseTrophies": 2974,
     "expLevel": 238
    },
    "first_seen": "2026-11-17T05:30:33.457690+00:00",
-   "last_change": "2026-11-17T15:22:56.813102+00:00"
+   "last_change": "2026-11-17T15:25:01.324570+00:00"
   },
   "#QQ0CV0Q22": {
    "name": "FLyWERK",
@@ -804,5 +804,5 @@
    "left_at": "2026-11-17T14:42:05.106970+00:00"
   }
  },
- "updated": "2026-11-17T15:22:57.106697+00:00"
+ "updated": "2026-11-17T15:25:01.458626+00:00"
 }
