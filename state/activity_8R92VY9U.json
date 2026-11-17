@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 567,
-    "donationsReceived": 1439,
-    "trophies": 0,
+    "donationsReceived": 1492,
+    "trophies": 22,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T10:23:56.080638+00:00"
+   "last_change": "2026-11-17T10:59:19.048517+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -319,14 +319,13 @@
    "name": "ZERO",
    "values": {
     "donations": 0,
-    "donationsReceived": 130,
+    "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 2867,
     "expLevel": 171
    },
-   "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T09:02:19.130954+00:00",
-   "left_at": "2026-11-12T10:12:50.713128+00:00"
+   "first_seen": "2026-11-17T10:59:19.048517+00:00",
+   "last_change": "2026-11-17T10:59:19.048517+00:00"
   },
   "#2CY9LV9CQ": {
    "name": "Antony",
@@ -356,14 +355,14 @@
   "#YYVYCLLG9": {
    "name": "ЧaPoДeЙ",
    "values": {
-    "donations": 1247,
+    "donations": 1250,
     "donationsReceived": 119,
     "trophies": 18,
     "builderBaseTrophies": 1695,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T10:13:37.315163+00:00"
+   "last_change": "2026-11-17T10:59:19.048517+00:00"
   },
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
@@ -417,14 +416,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 4592,
+    "donations": 4642,
     "donationsReceived": 10529,
     "trophies": 26,
     "builderBaseTrophies": 3485,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T08:38:17.394344+00:00"
+   "last_change": "2026-11-17T10:59:19.048517+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -631,12 +630,12 @@
    "values": {
     "donations": 81,
     "donationsReceived": 83,
-    "trophies": 232,
+    "trophies": 252,
     "builderBaseTrophies": 2814,
     "expLevel": 135
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-17T07:16:46.286663+00:00"
+   "last_change": "2026-11-17T10:59:19.048517+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -792,5 +791,5 @@
    "last_change": "2026-11-17T09:57:08.404085+00:00"
   }
  },
- "updated": "2026-11-17T10:23:56.189207+00:00"
+ "updated": "2026-11-17T10:59:19.214843+00:00"
 }
