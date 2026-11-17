@@ -69,10 +69,10 @@
     "donationsReceived": 0,
     "trophies": 37,
     "builderBaseTrophies": 3003,
-    "expLevel": 172
+    "expLevel": 173
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T02:24:05.281224+00:00"
+   "last_change": "2026-11-17T07:06:06.967963+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 707,
-    "donationsReceived": 2669,
-    "trophies": 31,
+    "donationsReceived": 2722,
+    "trophies": 87,
     "builderBaseTrophies": 3353,
     "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T05:30:33.457690+00:00"
+   "last_change": "2026-11-17T07:06:06.967963+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -259,12 +259,12 @@
    "values": {
     "donations": 2183,
     "donationsReceived": 206,
-    "trophies": 25,
+    "trophies": 93,
     "builderBaseTrophies": 2952,
     "expLevel": 198
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T04:32:22.203353+00:00"
+   "last_change": "2026-11-17T07:06:06.967963+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -309,11 +309,11 @@
     "donations": 2131,
     "donationsReceived": 2991,
     "trophies": 0,
-    "builderBaseTrophies": 3462,
+    "builderBaseTrophies": 3509,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T17:56:28.007858+00:00"
+   "last_change": "2026-11-17T07:06:06.967963+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -629,14 +629,14 @@
   "#G2UPLL0L8": {
    "name": "Lord",
    "values": {
-    "donations": 28,
+    "donations": 81,
     "donationsReceived": 83,
-    "trophies": 160,
+    "trophies": 200,
     "builderBaseTrophies": 2814,
     "expLevel": 135
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-17T04:34:24.979910+00:00"
+   "last_change": "2026-11-17T07:06:06.967963+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -782,13 +782,13 @@
    "values": {
     "donations": 52,
     "donationsReceived": 0,
-    "trophies": 518,
+    "trophies": 546,
     "builderBaseTrophies": 2974,
     "expLevel": 238
    },
    "first_seen": "2026-11-17T05:30:33.457690+00:00",
-   "last_change": "2026-11-17T05:30:33.457690+00:00"
+   "last_change": "2026-11-17T07:06:06.967963+00:00"
   }
  },
- "updated": "2026-11-17T05:57:18.485850+00:00"
+ "updated": "2026-11-17T07:06:07.319715+00:00"
 }
