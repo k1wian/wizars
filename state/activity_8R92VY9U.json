@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 2115,
-    "donationsReceived": 5683,
+    "donationsReceived": 5698,
     "trophies": 204,
     "builderBaseTrophies": 3102,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T20:09:11.144223+00:00"
+   "last_change": "2026-11-17T20:19:41.780486+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -781,14 +781,14 @@
   "#8JCGGU920": {
    "name": "Бизон",
    "values": {
-    "donations": 668,
+    "donations": 683,
     "donationsReceived": 58,
     "trophies": 546,
     "builderBaseTrophies": 2974,
     "expLevel": 238
    },
    "first_seen": "2026-11-17T05:30:33.457690+00:00",
-   "last_change": "2026-11-17T18:00:32.869920+00:00"
+   "last_change": "2026-11-17T20:19:41.780486+00:00"
   },
   "#QQ0CV0Q22": {
    "name": "FLyWERK",
@@ -828,5 +828,5 @@
    "last_change": "2026-11-17T19:58:40.786963+00:00"
   }
  },
- "updated": "2026-11-17T20:17:36.105373+00:00"
+ "updated": "2026-11-17T20:19:42.179007+00:00"
 }
