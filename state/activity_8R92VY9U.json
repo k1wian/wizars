@@ -28,14 +28,14 @@
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 1423,
-    "donationsReceived": 756,
+    "donations": 1476,
+    "donationsReceived": 771,
     "trophies": 39,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T03:33:30.239057+00:00"
+   "last_change": "2026-11-17T05:30:33.457690+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -149,14 +149,14 @@
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 1181,
+    "donations": 1196,
     "donationsReceived": 1185,
     "trophies": 0,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T04:28:15.913203+00:00"
+   "last_change": "2026-11-17T05:30:33.457690+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 707,
-    "donationsReceived": 2564,
-    "trophies": 18,
+    "donationsReceived": 2669,
+    "trophies": 31,
     "builderBaseTrophies": 3353,
     "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T04:28:15.913203+00:00"
+   "last_change": "2026-11-17T05:30:33.457690+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -776,7 +776,19 @@
    "first_seen": "2026-11-15T17:31:04.030457+00:00",
    "last_change": "2026-11-15T17:31:04.030457+00:00",
    "left_at": "2026-11-16T16:52:24.997669+00:00"
+  },
+  "#8JCGGU920": {
+   "name": "Бизон",
+   "values": {
+    "donations": 52,
+    "donationsReceived": 0,
+    "trophies": 518,
+    "builderBaseTrophies": 2974,
+    "expLevel": 238
+   },
+   "first_seen": "2026-11-17T05:30:33.457690+00:00",
+   "last_change": "2026-11-17T05:30:33.457690+00:00"
   }
  },
- "updated": "2026-11-17T04:55:03.574201+00:00"
+ "updated": "2026-11-17T05:30:33.621311+00:00"
 }
