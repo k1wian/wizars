@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 4543,
+    "donations": 4654,
     "donationsReceived": 53,
     "trophies": 48,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T09:03:09.514223+00:00"
+   "last_change": "2026-11-17T09:57:08.404085+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 1998,
-    "donationsReceived": 5079,
-    "trophies": 117,
+    "donations": 2038,
+    "donationsReceived": 5167,
+    "trophies": 135,
     "builderBaseTrophies": 3102,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T08:46:33.237127+00:00"
+   "last_change": "2026-11-17T09:57:08.404085+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 567,
-    "donationsReceived": 1339,
+    "donationsReceived": 1389,
     "trophies": 0,
     "builderBaseTrophies": 2783,
     "expLevel": 165
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T21:43:09.473647+00:00"
+   "last_change": "2026-11-17T09:57:08.404085+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -306,14 +306,14 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 2131,
+    "donations": 2175,
     "donationsReceived": 2991,
     "trophies": 0,
     "builderBaseTrophies": 3509,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T07:06:06.967963+00:00"
+   "last_change": "2026-11-17T09:57:08.404085+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -781,14 +781,14 @@
    "name": "Бизон",
    "values": {
     "donations": 105,
-    "donationsReceived": 1,
+    "donationsReceived": 58,
     "trophies": 546,
     "builderBaseTrophies": 2974,
     "expLevel": 238
    },
    "first_seen": "2026-11-17T05:30:33.457690+00:00",
-   "last_change": "2026-11-17T08:36:12.876286+00:00"
+   "last_change": "2026-11-17T09:57:08.404085+00:00"
   }
  },
- "updated": "2026-11-17T09:03:09.795418+00:00"
+ "updated": "2026-11-17T09:57:08.740869+00:00"
 }
