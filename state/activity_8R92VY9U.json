@@ -417,13 +417,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 4685,
-    "donationsReceived": 10608,
+    "donationsReceived": 10618,
     "trophies": 42,
     "builderBaseTrophies": 3485,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T14:21:24.044687+00:00"
+   "last_change": "2026-11-17T14:37:57.703301+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -692,14 +692,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 1123,
+    "donations": 1133,
     "donationsReceived": 422,
     "trophies": 0,
     "builderBaseTrophies": 2794,
     "expLevel": 149
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-17T11:03:27.651737+00:00"
+   "last_change": "2026-11-17T14:37:57.703301+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -791,5 +791,5 @@
    "last_change": "2026-11-17T12:56:20.600087+00:00"
   }
  },
- "updated": "2026-11-17T14:35:53.080687+00:00"
+ "updated": "2026-11-17T14:37:57.894671+00:00"
 }
