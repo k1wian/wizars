@@ -78,13 +78,13 @@
    "name": "Ukrop",
    "values": {
     "donations": 1973,
-    "donationsReceived": 2323,
-    "trophies": 169,
+    "donationsReceived": 2378,
+    "trophies": 209,
     "builderBaseTrophies": 3111,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T12:56:20.600087+00:00"
+   "last_change": "2026-11-17T13:09:11.327786+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -257,14 +257,14 @@
   "#YC9CG9C9G": {
    "name": "k1wian",
    "values": {
-    "donations": 2183,
+    "donations": 2238,
     "donationsReceived": 206,
     "trophies": 246,
     "builderBaseTrophies": 2952,
     "expLevel": 198
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T08:36:12.876286+00:00"
+   "last_change": "2026-11-17T13:09:11.327786+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -791,5 +791,5 @@
    "last_change": "2026-11-17T12:56:20.600087+00:00"
   }
  },
- "updated": "2026-11-17T13:06:43.553185+00:00"
+ "updated": "2026-11-17T13:09:11.521307+00:00"
 }
