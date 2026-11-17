@@ -175,12 +175,12 @@
    "values": {
     "donations": 2057,
     "donationsReceived": 1963,
-    "trophies": 10,
+    "trophies": 19,
     "builderBaseTrophies": 3788,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T18:17:14.867648+00:00"
+   "last_change": "2026-11-17T16:29:27.276878+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -696,10 +696,10 @@
     "donationsReceived": 422,
     "trophies": 0,
     "builderBaseTrophies": 2794,
-    "expLevel": 149
+    "expLevel": 150
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-17T14:37:57.703301+00:00"
+   "last_change": "2026-11-17T16:29:27.276878+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -804,5 +804,5 @@
    "left_at": "2026-11-17T14:42:05.106970+00:00"
   }
  },
- "updated": "2026-11-17T15:47:53.331151+00:00"
+ "updated": "2026-11-17T16:29:27.636468+00:00"
 }
