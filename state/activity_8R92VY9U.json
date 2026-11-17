@@ -78,13 +78,13 @@
    "name": "Ukrop",
    "values": {
     "donations": 1892,
-    "donationsReceived": 2268,
+    "donationsReceived": 2323,
     "trophies": 169,
     "builderBaseTrophies": 3111,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T11:01:24.043074+00:00"
+   "last_change": "2026-11-17T11:03:27.651737+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -692,14 +692,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 1068,
+    "donations": 1123,
     "donationsReceived": 422,
     "trophies": 0,
     "builderBaseTrophies": 2794,
     "expLevel": 149
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-17T08:36:12.876286+00:00"
+   "last_change": "2026-11-17T11:03:27.651737+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -791,5 +791,5 @@
    "last_change": "2026-11-17T09:57:08.404085+00:00"
   }
  },
- "updated": "2026-11-17T11:01:24.225901+00:00"
+ "updated": "2026-11-17T11:03:28.115177+00:00"
 }
