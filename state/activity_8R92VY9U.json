@@ -139,24 +139,24 @@
    "values": {
     "donations": 2536,
     "donationsReceived": 638,
-    "trophies": 26,
+    "trophies": 146,
     "builderBaseTrophies": 3237,
     "expLevel": 188
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T14:21:24.044687+00:00"
+   "last_change": "2026-11-17T15:22:56.813102+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 1249,
+    "donations": 1299,
     "donationsReceived": 1185,
     "trophies": 15,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T14:15:09.542451+00:00"
+   "last_change": "2026-11-17T15:22:56.813102+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -185,26 +185,26 @@
   "#9R88GUV9Q": {
    "name": "KILLER F",
    "values": {
-    "donations": 341,
+    "donations": 346,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3453,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T15:04:18.800417+00:00"
+   "last_change": "2026-11-17T15:22:56.813102+00:00"
   },
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
     "donations": 2115,
-    "donationsReceived": 5541,
+    "donationsReceived": 5556,
     "trophies": 192,
     "builderBaseTrophies": 3102,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T14:21:24.044687+00:00"
+   "last_change": "2026-11-17T15:22:56.813102+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -259,12 +259,12 @@
    "values": {
     "donations": 2238,
     "donationsReceived": 206,
-    "trophies": 286,
+    "trophies": 315,
     "builderBaseTrophies": 2952,
     "expLevel": 198
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T13:11:16.028474+00:00"
+   "last_change": "2026-11-17T15:22:56.813102+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -281,14 +281,14 @@
   "#QUPVR0CU2": {
    "name": "чвв",
    "values": {
-    "donations": 740,
-    "donationsReceived": 922,
-    "trophies": 0,
+    "donations": 793,
+    "donationsReceived": 1005,
+    "trophies": 279,
     "builderBaseTrophies": 2953,
     "expLevel": 140
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T17:56:28.007858+00:00"
+   "last_change": "2026-11-17T15:22:56.813102+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -307,13 +307,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 2175,
-    "donationsReceived": 2991,
+    "donationsReceived": 3041,
     "trophies": 0,
     "builderBaseTrophies": 3509,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T09:57:08.404085+00:00"
+   "last_change": "2026-11-17T15:22:56.813102+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -744,13 +744,13 @@
    "name": "ерлан",
    "values": {
     "donations": 0,
-    "donationsReceived": 229,
+    "donationsReceived": 287,
     "trophies": 0,
-    "builderBaseTrophies": 3371,
+    "builderBaseTrophies": 3324,
     "expLevel": 180
    },
    "first_seen": "2026-11-15T15:34:25.971697+00:00",
-   "last_change": "2026-11-17T11:01:24.043074+00:00"
+   "last_change": "2026-11-17T15:22:56.813102+00:00"
   },
   "#GR8YRP9PR": {
    "name": "[$]•Баходир•[$]",
@@ -781,14 +781,14 @@
   "#8JCGGU920": {
    "name": "Бизон",
    "values": {
-    "donations": 498,
+    "donations": 596,
     "donationsReceived": 58,
     "trophies": 546,
     "builderBaseTrophies": 2974,
     "expLevel": 238
    },
    "first_seen": "2026-11-17T05:30:33.457690+00:00",
-   "last_change": "2026-11-17T12:56:20.600087+00:00"
+   "last_change": "2026-11-17T15:22:56.813102+00:00"
   },
   "#QQ0CV0Q22": {
    "name": "FLyWERK",
@@ -804,5 +804,5 @@
    "left_at": "2026-11-17T14:42:05.106970+00:00"
   }
  },
- "updated": "2026-11-17T14:42:05.300854+00:00"
+ "updated": "2026-11-17T15:22:57.106697+00:00"
 }
