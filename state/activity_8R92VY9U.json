@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 1715,
+    "donations": 1877,
     "donationsReceived": 249,
-    "trophies": 0,
+    "trophies": 205,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T17:35:49.973721+00:00"
+   "last_change": "2026-11-17T18:53:52.955890+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 2115,
-    "donationsReceived": 5556,
-    "trophies": 192,
+    "donationsReceived": 5643,
+    "trophies": 204,
     "builderBaseTrophies": 3102,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T15:22:56.813102+00:00"
+   "last_change": "2026-11-17T18:53:52.955890+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 707,
-    "donationsReceived": 2875,
-    "trophies": 128,
+    "donationsReceived": 2928,
+    "trophies": 168,
     "builderBaseTrophies": 3353,
     "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T17:44:05.820201+00:00"
+   "last_change": "2026-11-17T18:53:52.955890+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -269,14 +269,14 @@
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
-    "donations": 1116,
+    "donations": 1118,
     "donationsReceived": 2748,
-    "trophies": 32,
+    "trophies": 40,
     "builderBaseTrophies": 3257,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T12:56:20.600087+00:00"
+   "last_change": "2026-11-17T18:53:52.955890+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -694,12 +694,12 @@
    "values": {
     "donations": 1133,
     "donationsReceived": 510,
-    "trophies": 0,
+    "trophies": 29,
     "builderBaseTrophies": 2794,
     "expLevel": 150
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-17T18:00:32.869920+00:00"
+   "last_change": "2026-11-17T18:53:52.955890+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -802,7 +802,19 @@
    "first_seen": "2026-11-17T14:40:01.380866+00:00",
    "last_change": "2026-11-17T14:40:01.380866+00:00",
    "left_at": "2026-11-17T14:42:05.106970+00:00"
+  },
+  "#YUV8CQVUL": {
+   "name": "WhiteMoonEnd 2",
+   "values": {
+    "donations": 53,
+    "donationsReceived": 77,
+    "trophies": 0,
+    "builderBaseTrophies": 1598,
+    "expLevel": 110
+   },
+   "first_seen": "2026-11-17T18:53:52.955890+00:00",
+   "last_change": "2026-11-17T18:53:52.955890+00:00"
   }
  },
- "updated": "2026-11-17T18:02:36.897666+00:00"
+ "updated": "2026-11-17T18:53:53.182740+00:00"
 }
