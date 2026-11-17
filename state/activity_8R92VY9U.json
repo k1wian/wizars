@@ -693,13 +693,13 @@
    "name": "rewero",
    "values": {
     "donations": 1133,
-    "donationsReceived": 478,
+    "donationsReceived": 510,
     "trophies": 0,
     "builderBaseTrophies": 2794,
     "expLevel": 150
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-17T17:35:49.973721+00:00"
+   "last_change": "2026-11-17T18:00:32.869920+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -781,14 +781,14 @@
   "#8JCGGU920": {
    "name": "Бизон",
    "values": {
-    "donations": 636,
+    "donations": 668,
     "donationsReceived": 58,
     "trophies": 546,
     "builderBaseTrophies": 2974,
     "expLevel": 238
    },
    "first_seen": "2026-11-17T05:30:33.457690+00:00",
-   "last_change": "2026-11-17T15:25:01.324570+00:00"
+   "last_change": "2026-11-17T18:00:32.869920+00:00"
   },
   "#QQ0CV0Q22": {
    "name": "FLyWERK",
@@ -804,5 +804,5 @@
    "left_at": "2026-11-17T14:42:05.106970+00:00"
   }
  },
- "updated": "2026-11-17T17:58:29.881766+00:00"
+ "updated": "2026-11-17T18:00:33.057072+00:00"
 }
