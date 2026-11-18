@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 4920,
+    "donations": 4975,
     "donationsReceived": 53,
     "trophies": 107,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T21:48:08.604689+00:00"
+   "last_change": "2026-11-18T10:05:40.478996+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -782,13 +782,13 @@
    "name": "Бизон",
    "values": {
     "donations": 693,
-    "donationsReceived": 62,
+    "donationsReceived": 117,
     "trophies": 546,
     "builderBaseTrophies": 2974,
     "expLevel": 238
    },
    "first_seen": "2026-11-17T05:30:33.457690+00:00",
-   "last_change": "2026-11-18T09:55:24.026094+00:00"
+   "last_change": "2026-11-18T10:05:40.478996+00:00"
   },
   "#QQ0CV0Q22": {
    "name": "FLyWERK",
@@ -828,5 +828,5 @@
    "last_change": "2026-11-17T19:58:40.786963+00:00"
   }
  },
- "updated": "2026-11-18T10:03:37.272149+00:00"
+ "updated": "2026-11-18T10:05:40.652031+00:00"
 }
