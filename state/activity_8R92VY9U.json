@@ -149,14 +149,14 @@
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 1356,
+    "donations": 1357,
     "donationsReceived": 1185,
     "trophies": 15,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T21:08:42.091287+00:00"
+   "last_change": "2026-11-18T07:14:33.065881+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -782,13 +782,13 @@
    "name": "Бизон",
    "values": {
     "donations": 683,
-    "donationsReceived": 58,
+    "donationsReceived": 59,
     "trophies": 546,
     "builderBaseTrophies": 2974,
     "expLevel": 238
    },
    "first_seen": "2026-11-17T05:30:33.457690+00:00",
-   "last_change": "2026-11-17T20:19:41.780486+00:00"
+   "last_change": "2026-11-18T07:14:33.065881+00:00"
   },
   "#QQ0CV0Q22": {
    "name": "FLyWERK",
@@ -828,5 +828,5 @@
    "last_change": "2026-11-17T19:58:40.786963+00:00"
   }
  },
- "updated": "2026-11-18T06:25:17.132170+00:00"
+ "updated": "2026-11-18T07:14:33.230298+00:00"
 }
