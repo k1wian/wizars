@@ -464,8 +464,8 @@
 "players_at": 1794986072777,
 "status": {
 "ok": false,
-"error": "⚠️ Ошибка API 500: unknownException",
-"at": 1795008172581
+"error": "⚠️ Ошибка API 503: Сервера игры на техобслуживании.",
+"at": 1795008294944
 }
 },
 "players": {
