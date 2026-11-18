@@ -16,26 +16,26 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 4975,
+    "donations": 4985,
     "donationsReceived": 53,
     "trophies": 107,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T10:05:40.478996+00:00"
+   "last_change": "2026-11-18T19:54:47.160942+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 1476,
+    "donations": 1559,
     "donationsReceived": 771,
     "trophies": 294,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T17:53:19.801729+00:00"
+   "last_change": "2026-11-18T19:54:47.160942+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 2323,
-    "donationsReceived": 305,
+    "donations": 2406,
+    "donationsReceived": 363,
     "trophies": 596,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T17:53:19.801729+00:00"
+   "last_change": "2026-11-18T19:54:47.160942+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -125,14 +125,14 @@
   "#Y929RQ0L2": {
    "name": "Димаш",
    "values": {
-    "donations": 1826,
-    "donationsReceived": 1367,
-    "trophies": 18,
+    "donations": 1952,
+    "donationsReceived": 1450,
+    "trophies": 209,
     "builderBaseTrophies": 3325,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T18:49:51.157076+00:00"
+   "last_change": "2026-11-18T19:54:47.160942+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -149,14 +149,14 @@
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 1416,
-    "donationsReceived": 1351,
-    "trophies": 175,
+    "donations": 1418,
+    "donationsReceived": 1434,
+    "trophies": 245,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T17:53:19.801729+00:00"
+   "last_change": "2026-11-18T19:54:47.160942+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 2115,
-    "donationsReceived": 5841,
-    "trophies": 281,
+    "donationsReceived": 5913,
+    "trophies": 353,
     "builderBaseTrophies": 3155,
-    "expLevel": 180
+    "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T16:54:29.709838+00:00"
+   "last_change": "2026-11-18T19:54:47.160942+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -269,14 +269,14 @@
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
-    "donations": 1118,
-    "donationsReceived": 2923,
-    "trophies": 115,
+    "donations": 1150,
+    "donationsReceived": 3003,
+    "trophies": 207,
     "builderBaseTrophies": 3257,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T14:28:44.626878+00:00"
+   "last_change": "2026-11-18T19:54:47.160942+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -692,14 +692,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 1226,
+    "donations": 1266,
     "donationsReceived": 591,
     "trophies": 72,
     "builderBaseTrophies": 2794,
     "expLevel": 150
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-18T18:03:58.120872+00:00"
+   "last_change": "2026-11-18T19:54:47.160942+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -829,5 +829,5 @@
    "last_change": "2026-11-18T12:20:40.787459+00:00"
   }
  },
- "updated": "2026-11-18T19:14:58.305402+00:00"
+ "updated": "2026-11-18T19:54:47.391278+00:00"
 }
