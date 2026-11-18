@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 2580,
-    "donationsReceived": 4797,
+    "donationsReceived": 4799,
     "trophies": 140,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T15:31:04.781376+00:00"
+   "last_change": "2026-11-18T15:45:33.139416+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -137,14 +137,14 @@
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 2536,
+    "donations": 2538,
     "donationsReceived": 638,
     "trophies": 146,
     "builderBaseTrophies": 3237,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T08:46:28.587162+00:00"
+   "last_change": "2026-11-18T15:45:33.139416+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -829,5 +829,5 @@
    "last_change": "2026-11-18T12:20:40.787459+00:00"
   }
  },
- "updated": "2026-11-18T15:43:30.327218+00:00"
+ "updated": "2026-11-18T15:45:33.270090+00:00"
 }
