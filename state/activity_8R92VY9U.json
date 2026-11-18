@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 2505,
-    "donationsReceived": 4712,
+    "donationsReceived": 4762,
     "trophies": 140,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T14:41:07.698147+00:00"
+   "last_change": "2026-11-18T14:43:11.425527+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -282,13 +282,13 @@
    "name": "чвв",
    "values": {
     "donations": 794,
-    "donationsReceived": 1088,
+    "donationsReceived": 1169,
     "trophies": 362,
     "builderBaseTrophies": 2953,
     "expLevel": 140
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T14:41:07.698147+00:00"
+   "last_change": "2026-11-18T14:43:11.425527+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -416,14 +416,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 4783,
+    "donations": 4914,
     "donationsReceived": 11164,
     "trophies": 42,
     "builderBaseTrophies": 3429,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T14:28:44.626878+00:00"
+   "last_change": "2026-11-18T14:43:11.425527+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -828,5 +828,5 @@
    "last_change": "2026-11-18T12:20:40.787459+00:00"
   }
  },
- "updated": "2026-11-18T14:41:07.886305+00:00"
+ "updated": "2026-11-18T14:43:11.633006+00:00"
 }
