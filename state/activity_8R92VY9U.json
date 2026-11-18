@@ -199,12 +199,12 @@
    "values": {
     "donations": 2115,
     "donationsReceived": 5841,
-    "trophies": 249,
+    "trophies": 281,
     "builderBaseTrophies": 3155,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T16:52:26.032247+00:00"
+   "last_change": "2026-11-18T16:54:29.709838+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -309,11 +309,11 @@
     "donations": 2506,
     "donationsReceived": 3207,
     "trophies": 0,
-    "builderBaseTrophies": 3473,
+    "builderBaseTrophies": 3481,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T16:52:26.032247+00:00"
+   "last_change": "2026-11-18T16:54:29.709838+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -829,5 +829,5 @@
    "last_change": "2026-11-18T12:20:40.787459+00:00"
   }
  },
- "updated": "2026-11-18T16:52:26.279935+00:00"
+ "updated": "2026-11-18T16:54:29.874864+00:00"
 }
