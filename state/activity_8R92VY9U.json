@@ -419,11 +419,11 @@
     "donations": 4944,
     "donationsReceived": 11368,
     "trophies": 42,
-    "builderBaseTrophies": 3443,
+    "builderBaseTrophies": 3400,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T20:01:04.252836+00:00"
+   "last_change": "2026-11-18T20:03:07.489656+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -829,5 +829,5 @@
    "last_change": "2026-11-18T12:20:40.787459+00:00"
   }
  },
- "updated": "2026-11-18T20:01:04.508752+00:00"
+ "updated": "2026-11-18T20:03:07.709061+00:00"
 }
