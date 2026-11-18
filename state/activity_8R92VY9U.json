@@ -163,12 +163,12 @@
    "values": {
     "donations": 731,
     "donationsReceived": 0,
-    "trophies": 44,
+    "trophies": 55,
     "builderBaseTrophies": 3478,
     "expLevel": 209
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T17:35:49.973721+00:00"
+   "last_change": "2026-11-18T11:58:03.766765+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -237,22 +237,22 @@
     "donationsReceived": 1545,
     "trophies": 64,
     "builderBaseTrophies": 2783,
-    "expLevel": 165
+    "expLevel": 166
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T09:55:24.026094+00:00"
+   "last_change": "2026-11-18T11:58:03.766765+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
    "values": {
     "donations": 238,
     "donationsReceived": 113,
-    "trophies": 29,
+    "trophies": 55,
     "builderBaseTrophies": 2949,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T23:45:01.638962+00:00"
+   "last_change": "2026-11-18T11:58:03.766765+00:00"
   },
   "#YC9CG9C9G": {
    "name": "k1wian",
@@ -828,5 +828,5 @@
    "last_change": "2026-11-17T19:58:40.786963+00:00"
   }
  },
- "updated": "2026-11-18T11:24:21.575231+00:00"
+ "updated": "2026-11-18T11:58:03.953816+00:00"
 }
