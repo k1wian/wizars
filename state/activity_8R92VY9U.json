@@ -18,12 +18,12 @@
    "values": {
     "donations": 5161,
     "donationsReceived": 53,
-    "trophies": 107,
+    "trophies": 134,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T22:11:34.357886+00:00"
+   "last_change": "2026-11-18T22:13:37.638642+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -127,12 +127,12 @@
    "values": {
     "donations": 1952,
     "donationsReceived": 1586,
-    "trophies": 289,
+    "trophies": 299,
     "builderBaseTrophies": 3325,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T20:11:28.578928+00:00"
+   "last_change": "2026-11-18T22:13:37.638642+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -829,5 +829,5 @@
    "last_change": "2026-11-18T12:20:40.787459+00:00"
   }
  },
- "updated": "2026-11-18T22:11:34.535604+00:00"
+ "updated": "2026-11-18T22:13:37.820263+00:00"
 }
