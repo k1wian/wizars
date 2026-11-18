@@ -55,12 +55,12 @@
    "values": {
     "donations": 2323,
     "donationsReceived": 305,
-    "trophies": 543,
+    "trophies": 556,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T16:52:26.032247+00:00"
+   "last_change": "2026-11-18T16:58:37.552567+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -139,12 +139,12 @@
    "values": {
     "donations": 2538,
     "donationsReceived": 638,
-    "trophies": 177,
+    "trophies": 217,
     "builderBaseTrophies": 3237,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T16:56:34.174670+00:00"
+   "last_change": "2026-11-18T16:58:37.552567+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -284,11 +284,11 @@
     "donations": 852,
     "donationsReceived": 1254,
     "trophies": 393,
-    "builderBaseTrophies": 2953,
+    "builderBaseTrophies": 2988,
     "expLevel": 140
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T16:41:53.719598+00:00"
+   "last_change": "2026-11-18T16:58:37.552567+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -309,11 +309,11 @@
     "donations": 2506,
     "donationsReceived": 3207,
     "trophies": 0,
-    "builderBaseTrophies": 3462,
+    "builderBaseTrophies": 3425,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T16:56:34.174670+00:00"
+   "last_change": "2026-11-18T16:58:37.552567+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -829,5 +829,5 @@
    "last_change": "2026-11-18T12:20:40.787459+00:00"
   }
  },
- "updated": "2026-11-18T16:56:34.406187+00:00"
+ "updated": "2026-11-18T16:58:37.743721+00:00"
 }
