@@ -1642,7 +1642,7 @@
  "20261117T101832.000Z_#2RUQ0CVVY": {
   "kind": "war",
   "opponent": "CWL BUZZZ",
-  "end": "20261119T091832.000Z",
+  "end": "20261119T094713.000Z",
   "state": "inWar",
   "attacks_per_member": 2,
   "members": {
@@ -1673,8 +1673,8 @@
    },
    "#8YJL0V2U8": {
     "name": "***Люцифер***",
-    "used": 0,
-    "stars": 0
+    "used": 2,
+    "stars": 6
    },
    "#G2UPLL0L8": {
     "name": "Lord",
