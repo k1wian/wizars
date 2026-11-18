@@ -54,13 +54,13 @@
    "name": "***Люцифер***",
    "values": {
     "donations": 2208,
-    "donationsReceived": 249,
+    "donationsReceived": 305,
     "trophies": 408,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T16:39:46.870217+00:00"
+   "last_change": "2026-11-18T16:41:53.719598+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -281,14 +281,14 @@
   "#QUPVR0CU2": {
    "name": "чвв",
    "values": {
-    "donations": 796,
+    "donations": 852,
     "donationsReceived": 1254,
     "trophies": 393,
     "builderBaseTrophies": 2953,
     "expLevel": 140
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T16:39:46.870217+00:00"
+   "last_change": "2026-11-18T16:41:53.719598+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -829,5 +829,5 @@
    "last_change": "2026-11-18T12:20:40.787459+00:00"
   }
  },
- "updated": "2026-11-18T16:39:47.477440+00:00"
+ "updated": "2026-11-18T16:41:54.463240+00:00"
 }
