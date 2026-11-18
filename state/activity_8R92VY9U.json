@@ -200,11 +200,11 @@
     "donations": 2115,
     "donationsReceived": 5699,
     "trophies": 223,
-    "builderBaseTrophies": 3102,
+    "builderBaseTrophies": 3133,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T05:12:13.776782+00:00"
+   "last_change": "2026-11-18T08:38:13.817646+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -257,14 +257,14 @@
   "#YC9CG9C9G": {
    "name": "k1wian",
    "values": {
-    "donations": 2238,
+    "donations": 2283,
     "donationsReceived": 206,
     "trophies": 359,
     "builderBaseTrophies": 2952,
     "expLevel": 198
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T03:50:52.580542+00:00"
+   "last_change": "2026-11-18T08:38:13.817646+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -417,13 +417,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 4686,
-    "donationsReceived": 11030,
+    "donationsReceived": 11085,
     "trophies": 42,
     "builderBaseTrophies": 3429,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-17T21:48:08.604689+00:00"
+   "last_change": "2026-11-18T08:38:13.817646+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -630,12 +630,12 @@
    "values": {
     "donations": 81,
     "donationsReceived": 83,
-    "trophies": 252,
+    "trophies": 264,
     "builderBaseTrophies": 2814,
     "expLevel": 135
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-17T10:59:19.048517+00:00"
+   "last_change": "2026-11-18T08:38:13.817646+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -781,14 +781,14 @@
   "#8JCGGU920": {
    "name": "Бизон",
    "values": {
-    "donations": 683,
+    "donations": 693,
     "donationsReceived": 59,
     "trophies": 546,
     "builderBaseTrophies": 2974,
     "expLevel": 238
    },
    "first_seen": "2026-11-17T05:30:33.457690+00:00",
-   "last_change": "2026-11-18T07:14:33.065881+00:00"
+   "last_change": "2026-11-18T08:38:13.817646+00:00"
   },
   "#QQ0CV0Q22": {
    "name": "FLyWERK",
@@ -828,5 +828,5 @@
    "last_change": "2026-11-17T19:58:40.786963+00:00"
   }
  },
- "updated": "2026-11-18T07:41:24.145800+00:00"
+ "updated": "2026-11-18T08:38:13.996466+00:00"
 }
