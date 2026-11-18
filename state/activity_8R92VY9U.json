@@ -174,13 +174,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2057,
-    "donationsReceived": 1963,
+    "donationsReceived": 2011,
     "trophies": 19,
     "builderBaseTrophies": 3788,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T04:55:35.808259+00:00"
+   "last_change": "2026-11-18T12:20:40.787459+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -818,15 +818,15 @@
   "#L8CUYRQVY": {
    "name": "キツネanime",
    "values": {
-    "donations": 0,
+    "donations": 48,
     "donationsReceived": 0,
     "trophies": 250,
     "builderBaseTrophies": 2400,
     "expLevel": 149
    },
    "first_seen": "2026-11-17T19:58:40.786963+00:00",
-   "last_change": "2026-11-17T19:58:40.786963+00:00"
+   "last_change": "2026-11-18T12:20:40.787459+00:00"
   }
  },
- "updated": "2026-11-18T12:18:37.754391+00:00"
+ "updated": "2026-11-18T12:20:40.993085+00:00"
 }
