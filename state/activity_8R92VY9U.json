@@ -55,12 +55,12 @@
    "values": {
     "donations": 2268,
     "donationsReceived": 305,
-    "trophies": 463,
+    "trophies": 503,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T16:48:13.978764+00:00"
+   "last_change": "2026-11-18T16:50:19.999878+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -307,13 +307,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 2474,
-    "donationsReceived": 3124,
+    "donationsReceived": 3207,
     "trophies": 0,
     "builderBaseTrophies": 3474,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T16:48:13.978764+00:00"
+   "last_change": "2026-11-18T16:50:19.999878+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -692,14 +692,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 1133,
+    "donations": 1216,
     "donationsReceived": 591,
     "trophies": 29,
     "builderBaseTrophies": 2794,
     "expLevel": 150
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-18T09:55:24.026094+00:00"
+   "last_change": "2026-11-18T16:50:19.999878+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -829,5 +829,5 @@
    "last_change": "2026-11-18T12:20:40.787459+00:00"
   }
  },
- "updated": "2026-11-18T16:48:14.159560+00:00"
+ "updated": "2026-11-18T16:50:20.175854+00:00"
 }
