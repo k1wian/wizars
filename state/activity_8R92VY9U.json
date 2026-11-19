@@ -115,12 +115,12 @@
    "values": {
     "donations": 2608,
     "donationsReceived": 4942,
-    "trophies": 212,
+    "trophies": 292,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T12:17:14.045678+00:00"
+   "last_change": "2026-11-19T15:53:35.885219+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -198,25 +198,25 @@
    "name": "GAS",
    "values": {
     "donations": 2531,
-    "donationsReceived": 6229,
+    "donationsReceived": 6261,
     "trophies": 353,
     "builderBaseTrophies": 3251,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T11:58:47.999469+00:00"
+   "last_change": "2026-11-19T15:53:35.885219+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
    "values": {
-    "donations": 822,
+    "donations": 854,
     "donationsReceived": 685,
-    "trophies": 0,
+    "trophies": 17,
     "builderBaseTrophies": 3602,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T16:35:33.409270+00:00"
+   "last_change": "2026-11-19T15:53:35.885219+00:00"
   },
   "#GJLUCQ2CC": {
    "name": "mikki",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-19T15:23:31.265006+00:00"
+ "updated": "2026-11-19T15:53:36.074943+00:00"
 }
