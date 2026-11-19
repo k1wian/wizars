@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 5847,
+    "donations": 5852,
     "donationsReceived": 318,
     "trophies": 420,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T16:16:13.046463+00:00"
+   "last_change": "2026-11-19T17:59:42.928406+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 2608,
-    "donationsReceived": 5113,
+    "donationsReceived": 5118,
     "trophies": 332,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T17:55:36.520840+00:00"
+   "last_change": "2026-11-19T17:59:42.928406+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-19T17:57:40.235198+00:00"
+ "updated": "2026-11-19T17:59:43.035798+00:00"
 }
