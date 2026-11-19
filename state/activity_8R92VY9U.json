@@ -30,12 +30,12 @@
    "values": {
     "donations": 1559,
     "donationsReceived": 771,
-    "trophies": 294,
+    "trophies": 319,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T19:54:47.160942+00:00"
+   "last_change": "2026-11-19T10:59:35.001485+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -137,26 +137,26 @@
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 2717,
+    "donations": 2720,
     "donationsReceived": 638,
     "trophies": 266,
     "builderBaseTrophies": 3237,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T22:09:31.208500+00:00"
+   "last_change": "2026-11-19T10:59:35.001485+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
     "donations": 1469,
-    "donationsReceived": 1595,
-    "trophies": 287,
+    "donationsReceived": 1681,
+    "trophies": 313,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T10:22:38.211764+00:00"
+   "last_change": "2026-11-19T10:59:35.001485+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 2529,
-    "donationsReceived": 6174,
+    "donations": 2531,
+    "donationsReceived": 6214,
     "trophies": 353,
-    "builderBaseTrophies": 3197,
+    "builderBaseTrophies": 3251,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T09:01:06.369207+00:00"
+   "last_change": "2026-11-19T10:59:35.001485+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -694,14 +694,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 1600,
+    "donations": 1721,
     "donationsReceived": 1196,
     "trophies": 469,
     "builderBaseTrophies": 2794,
     "expLevel": 150
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-19T08:40:23.787619+00:00"
+   "last_change": "2026-11-19T10:59:35.001485+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T09:58:01.060684+00:00"
   }
  },
- "updated": "2026-11-19T10:24:41.358243+00:00"
+ "updated": "2026-11-19T10:59:35.185768+00:00"
 }
