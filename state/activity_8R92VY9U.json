@@ -320,12 +320,12 @@
    "values": {
     "donations": 0,
     "donationsReceived": 50,
-    "trophies": 0,
+    "trophies": 10,
     "builderBaseTrophies": 2867,
     "expLevel": 171
    },
    "first_seen": "2026-11-17T10:59:19.048517+00:00",
-   "last_change": "2026-11-19T03:39:58.416125+00:00"
+   "last_change": "2026-11-19T03:50:11.720707+00:00"
   },
   "#2CY9LV9CQ": {
    "name": "Antony",
@@ -829,5 +829,5 @@
    "last_change": "2026-11-18T12:20:40.787459+00:00"
   }
  },
- "updated": "2026-11-19T03:48:09.320253+00:00"
+ "updated": "2026-11-19T03:50:11.859455+00:00"
 }
