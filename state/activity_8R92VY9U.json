@@ -17,13 +17,13 @@
    "name": "DiMoN",
    "values": {
     "donations": 5907,
-    "donationsReceived": 318,
-    "trophies": 460,
+    "donationsReceived": 371,
+    "trophies": 492,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T18:03:48.265549+00:00"
+   "last_change": "2026-11-19T18:55:38.364681+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -356,14 +356,14 @@
   "#YYVYCLLG9": {
    "name": "ЧaPoДeЙ",
    "values": {
-    "donations": 1830,
+    "donations": 1883,
     "donationsReceived": 119,
     "trophies": 76,
     "builderBaseTrophies": 1695,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T14:48:00.379935+00:00"
+   "last_change": "2026-11-19T18:55:38.364681+00:00"
   },
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-19T18:22:14.657689+00:00"
+ "updated": "2026-11-19T18:55:38.621620+00:00"
 }
