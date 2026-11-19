@@ -696,12 +696,12 @@
    "values": {
     "donations": 1989,
     "donationsReceived": 1251,
-    "trophies": 469,
+    "trophies": 481,
     "builderBaseTrophies": 2794,
     "expLevel": 150
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-19T19:58:59.658882+00:00"
+   "last_change": "2026-11-19T22:44:33.816285+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-19T22:12:25.090852+00:00"
+ "updated": "2026-11-19T22:44:34.117432+00:00"
 }
