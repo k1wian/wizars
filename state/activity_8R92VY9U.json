@@ -18,12 +18,12 @@
    "values": {
     "donations": 5711,
     "donationsReceived": 212,
-    "trophies": 340,
+    "trophies": 380,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T14:39:34.254289+00:00"
+   "last_change": "2026-11-19T14:41:37.366996+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -748,11 +748,11 @@
     "donations": 0,
     "donationsReceived": 367,
     "trophies": 0,
-    "builderBaseTrophies": 3324,
+    "builderBaseTrophies": 3339,
     "expLevel": 181
    },
    "first_seen": "2026-11-15T15:34:25.971697+00:00",
-   "last_change": "2026-11-19T08:40:23.787619+00:00"
+   "last_change": "2026-11-19T14:41:37.366996+00:00"
   },
   "#GR8YRP9PR": {
    "name": "[$]•Баходир•[$]",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-19T14:39:34.462120+00:00"
+ "updated": "2026-11-19T14:41:37.778326+00:00"
 }
