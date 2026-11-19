@@ -17,13 +17,13 @@
    "name": "DiMoN",
    "values": {
     "donations": 5711,
-    "donationsReceived": 53,
+    "donationsReceived": 106,
     "trophies": 252,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T14:29:18.325187+00:00"
+   "last_change": "2026-11-19T14:31:21.412874+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -77,14 +77,14 @@
   "#LLUUPVJQ9": {
    "name": "Ukrop",
    "values": {
-    "donations": 2304,
+    "donations": 2352,
     "donationsReceived": 2783,
     "trophies": 444,
     "builderBaseTrophies": 3111,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T14:29:18.325187+00:00"
+   "last_change": "2026-11-19T14:31:21.412874+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -356,14 +356,14 @@
   "#YYVYCLLG9": {
    "name": "ЧaPoДeЙ",
    "values": {
-    "donations": 1573,
+    "donations": 1578,
     "donationsReceived": 119,
     "trophies": 76,
     "builderBaseTrophies": 1695,
     "expLevel": 179
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T13:14:27.978724+00:00"
+   "last_change": "2026-11-19T14:31:21.412874+00:00"
   },
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-19T14:29:18.538644+00:00"
+ "updated": "2026-11-19T14:31:21.650613+00:00"
 }
