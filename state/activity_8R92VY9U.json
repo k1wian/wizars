@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 766,
-    "donationsReceived": 3236,
+    "donationsReceived": 3286,
     "trophies": 269,
     "builderBaseTrophies": 3340,
     "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T08:40:23.787619+00:00"
+   "last_change": "2026-11-19T11:24:12.810869+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -429,14 +429,14 @@
   "#QG0PCCPJ": {
    "name": "данил",
    "values": {
-    "donations": 968,
+    "donations": 1018,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3209,
     "expLevel": 177
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T03:39:58.416125+00:00"
+   "last_change": "2026-11-19T11:24:12.810869+00:00"
   },
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T09:58:01.060684+00:00"
   }
  },
- "updated": "2026-11-19T11:22:09.757475+00:00"
+ "updated": "2026-11-19T11:24:12.971612+00:00"
 }
