@@ -151,12 +151,12 @@
    "values": {
     "donations": 1469,
     "donationsReceived": 1517,
-    "trophies": 256,
+    "trophies": 287,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T07:12:27.268493+00:00"
+   "last_change": "2026-11-19T09:58:01.060684+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -252,7 +252,8 @@
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T14:36:58.913522+00:00"
+   "last_change": "2026-11-18T14:36:58.913522+00:00",
+   "left_at": "2026-11-19T09:58:01.060684+00:00"
   },
   "#YC9CG9C9G": {
    "name": "k1wian",
@@ -510,7 +511,8 @@
     "expLevel": 193
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-15T03:47:46.357759+00:00"
+   "last_change": "2026-11-15T03:47:46.357759+00:00",
+   "left_at": "2026-11-19T09:58:01.060684+00:00"
   },
   "#YLLGJYQ9V": {
    "name": "drakoslik",
@@ -823,23 +825,23 @@
     "donationsReceived": 0,
     "trophies": 264,
     "builderBaseTrophies": 2400,
-    "expLevel": 149
+    "expLevel": 150
    },
    "first_seen": "2026-11-17T19:58:40.786963+00:00",
-   "last_change": "2026-11-19T06:23:45.872635+00:00"
+   "last_change": "2026-11-19T09:58:01.060684+00:00"
   },
   "#QGUJJGJGG": {
    "name": "Doshi",
    "values": {
     "donations": 0,
     "donationsReceived": 0,
-    "trophies": 126,
-    "builderBaseTrophies": 4484,
+    "trophies": 206,
+    "builderBaseTrophies": 4448,
     "expLevel": 188
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-19T09:01:06.369207+00:00"
+   "last_change": "2026-11-19T09:58:01.060684+00:00"
   }
  },
- "updated": "2026-11-19T09:07:16.767704+00:00"
+ "updated": "2026-11-19T09:58:01.227408+00:00"
 }
