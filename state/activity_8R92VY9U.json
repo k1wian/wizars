@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 2513,
+    "donations": 2560,
     "donationsReceived": 393,
     "trophies": 596,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T05:57:11.826747+00:00"
+   "last_change": "2026-11-19T07:24:42.128817+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 766,
-    "donationsReceived": 3234,
+    "donationsReceived": 3236,
     "trophies": 244,
     "builderBaseTrophies": 3340,
     "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T07:16:32.374764+00:00"
+   "last_change": "2026-11-19T07:24:42.128817+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -417,13 +417,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 5198,
-    "donationsReceived": 12143,
+    "donationsReceived": 12188,
     "trophies": 537,
     "builderBaseTrophies": 3347,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T07:16:32.374764+00:00"
+   "last_change": "2026-11-19T07:24:42.128817+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -829,5 +829,5 @@
    "last_change": "2026-11-19T06:23:45.872635+00:00"
   }
  },
- "updated": "2026-11-19T07:22:39.712615+00:00"
+ "updated": "2026-11-19T07:24:42.232222+00:00"
 }
