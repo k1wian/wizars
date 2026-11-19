@@ -308,13 +308,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 2506,
-    "donationsReceived": 3370,
+    "donationsReceived": 3412,
     "trophies": 0,
     "builderBaseTrophies": 3471,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T07:12:27.268493+00:00"
+   "last_change": "2026-11-19T17:21:45.195565+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -694,14 +694,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 1889,
+    "donations": 1931,
     "donationsReceived": 1251,
     "trophies": 469,
     "builderBaseTrophies": 2794,
     "expLevel": 150
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-19T16:16:13.046463+00:00"
+   "last_change": "2026-11-19T17:21:45.195565+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-19T17:19:41.246769+00:00"
+ "updated": "2026-11-19T17:21:45.392394+00:00"
 }
