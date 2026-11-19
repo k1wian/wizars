@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 2608,
-    "donationsReceived": 5111,
+    "donationsReceived": 5113,
     "trophies": 332,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T17:03:10.161477+00:00"
+   "last_change": "2026-11-19T17:55:36.520840+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -149,14 +149,14 @@
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 1567,
+    "donations": 1569,
     "donationsReceived": 1849,
     "trophies": 443,
     "builderBaseTrophies": 4456,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T13:14:27.978724+00:00"
+   "last_change": "2026-11-19T17:55:36.520840+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-19T17:25:53.902282+00:00"
+ "updated": "2026-11-19T17:55:37.248314+00:00"
 }
