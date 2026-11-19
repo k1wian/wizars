@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 2608,
-    "donationsReceived": 4942,
+    "donationsReceived": 4945,
     "trophies": 292,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T15:53:35.885219+00:00"
+   "last_change": "2026-11-19T15:59:45.930488+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -270,14 +270,14 @@
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
-    "donations": 1150,
+    "donations": 1153,
     "donationsReceived": 3003,
     "trophies": 207,
     "builderBaseTrophies": 3257,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T19:54:47.160942+00:00"
+   "last_change": "2026-11-19T15:59:45.930488+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-19T15:57:42.462530+00:00"
+ "updated": "2026-11-19T15:59:46.074861+00:00"
 }
