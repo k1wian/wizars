@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 5711,
+    "donations": 5847,
     "donationsReceived": 318,
     "trophies": 420,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T14:48:00.379935+00:00"
+   "last_change": "2026-11-19T16:16:13.046463+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 2608,
-    "donationsReceived": 4995,
+    "donationsReceived": 5030,
     "trophies": 292,
     "builderBaseTrophies": 3479,
     "expLevel": 215
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T16:07:59.225637+00:00"
+   "last_change": "2026-11-19T16:16:13.046463+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 2531,
-    "donationsReceived": 6301,
+    "donationsReceived": 6317,
     "trophies": 353,
     "builderBaseTrophies": 3251,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T16:07:59.225637+00:00"
+   "last_change": "2026-11-19T16:16:13.046463+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -418,13 +418,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 5371,
-    "donationsReceived": 12391,
+    "donationsReceived": 12421,
     "trophies": 537,
     "builderBaseTrophies": 3347,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T16:12:06.201347+00:00"
+   "last_change": "2026-11-19T16:16:13.046463+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -695,13 +695,13 @@
    "name": "rewero",
    "values": {
     "donations": 1889,
-    "donationsReceived": 1196,
+    "donationsReceived": 1251,
     "trophies": 469,
     "builderBaseTrophies": 2794,
     "expLevel": 150
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-19T16:12:06.201347+00:00"
+   "last_change": "2026-11-19T16:16:13.046463+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-19T16:14:09.846258+00:00"
+ "updated": "2026-11-19T16:16:13.222741+00:00"
 }
