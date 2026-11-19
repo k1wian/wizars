@@ -17,13 +17,13 @@
    "name": "DiMoN",
    "values": {
     "donations": 5711,
-    "donationsReceived": 265,
+    "donationsReceived": 318,
     "trophies": 420,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T14:45:56.401821+00:00"
+   "last_change": "2026-11-19T14:48:00.379935+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -139,12 +139,12 @@
    "values": {
     "donations": 2720,
     "donationsReceived": 756,
-    "trophies": 298,
+    "trophies": 320,
     "builderBaseTrophies": 3237,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T14:45:56.401821+00:00"
+   "last_change": "2026-11-19T14:48:00.379935+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -356,14 +356,14 @@
   "#YYVYCLLG9": {
    "name": "ЧaPoДeЙ",
    "values": {
-    "donations": 1777,
+    "donations": 1830,
     "donationsReceived": 119,
     "trophies": 76,
     "builderBaseTrophies": 1695,
     "expLevel": 180
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T14:43:52.877170+00:00"
+   "last_change": "2026-11-19T14:48:00.379935+00:00"
   },
   "#2G8R2UJGQ": {
    "name": "DiMoN 2",
@@ -748,11 +748,11 @@
     "donations": 0,
     "donationsReceived": 367,
     "trophies": 0,
-    "builderBaseTrophies": 3310,
+    "builderBaseTrophies": 3260,
     "expLevel": 181
    },
    "first_seen": "2026-11-15T15:34:25.971697+00:00",
-   "last_change": "2026-11-19T14:45:56.401821+00:00"
+   "last_change": "2026-11-19T14:48:00.379935+00:00"
   },
   "#GR8YRP9PR": {
    "name": "[$]•Баходир•[$]",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-19T14:45:56.777981+00:00"
+ "updated": "2026-11-19T14:48:00.623518+00:00"
 }
