@@ -77,14 +77,14 @@
   "#LLUUPVJQ9": {
    "name": "Ukrop",
    "values": {
-    "donations": 2274,
+    "donations": 2304,
     "donationsReceived": 2695,
     "trophies": 416,
     "builderBaseTrophies": 3111,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T11:58:47.999469+00:00"
+   "last_change": "2026-11-19T13:18:33.438509+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -418,13 +418,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 5281,
-    "donationsReceived": 12302,
+    "donationsReceived": 12332,
     "trophies": 537,
     "builderBaseTrophies": 3347,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T13:14:27.978724+00:00"
+   "last_change": "2026-11-19T13:18:33.438509+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-19T13:16:30.893041+00:00"
+ "updated": "2026-11-19T13:18:33.543209+00:00"
 }
