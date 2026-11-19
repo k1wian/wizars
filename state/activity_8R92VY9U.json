@@ -18,12 +18,12 @@
    "values": {
     "donations": 5711,
     "donationsReceived": 159,
-    "trophies": 292,
+    "trophies": 321,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T14:35:27.942406+00:00"
+   "last_change": "2026-11-19T14:37:31.146854+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-19T14:35:28.122236+00:00"
+ "updated": "2026-11-19T14:37:31.295933+00:00"
 }
