@@ -101,14 +101,14 @@
   "#9PR09PCV": {
    "name": "шах",
    "values": {
-    "donations": 740,
+    "donations": 824,
     "donationsReceived": 57,
     "trophies": 22,
     "builderBaseTrophies": 3376,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T10:56:10.284895+00:00"
+   "last_change": "2026-11-20T15:25:15.096934+00:00"
   },
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
@@ -163,12 +163,12 @@
    "values": {
     "donations": 862,
     "donationsReceived": 0,
-    "trophies": 280,
+    "trophies": 551,
     "builderBaseTrophies": 3478,
     "expLevel": 209
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T14:46:34.578648+00:00"
+   "last_change": "2026-11-20T15:25:15.096934+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 2561,
-    "donationsReceived": 6500,
+    "donations": 2614,
+    "donationsReceived": 6572,
     "trophies": 353,
-    "builderBaseTrophies": 3350,
+    "builderBaseTrophies": 3406,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T14:19:50.882158+00:00"
+   "last_change": "2026-11-20T15:25:15.096934+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -221,14 +221,14 @@
   "#GJLUCQ2CC": {
    "name": "mikki",
    "values": {
-    "donations": 816,
-    "donationsReceived": 3387,
-    "trophies": 309,
+    "donations": 857,
+    "donationsReceived": 3493,
+    "trophies": 397,
     "builderBaseTrophies": 3340,
     "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T14:44:31.364562+00:00"
+   "last_change": "2026-11-20T15:25:15.096934+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -869,5 +869,5 @@
    "left_at": "2026-11-20T05:36:30.671639+00:00"
   }
  },
- "updated": "2026-11-20T14:46:34.722836+00:00"
+ "updated": "2026-11-20T15:25:15.280177+00:00"
 }
