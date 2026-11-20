@@ -78,13 +78,13 @@
    "name": "Ukrop",
    "values": {
     "donations": 2562,
-    "donationsReceived": 2959,
-    "trophies": 543,
+    "donationsReceived": 3016,
+    "trophies": 571,
     "builderBaseTrophies": 3111,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T12:59:32.343505+00:00"
+   "last_change": "2026-11-20T13:01:35.800796+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -137,14 +137,14 @@
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 2787,
+    "donations": 2844,
     "donationsReceived": 756,
     "trophies": 470,
     "builderBaseTrophies": 3217,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T12:59:32.343505+00:00"
+   "last_change": "2026-11-20T13:01:35.800796+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -869,5 +869,5 @@
    "left_at": "2026-11-20T05:36:30.671639+00:00"
   }
  },
- "updated": "2026-11-20T12:59:32.700940+00:00"
+ "updated": "2026-11-20T13:01:36.016468+00:00"
 }
