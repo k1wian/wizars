@@ -127,12 +127,12 @@
    "values": {
     "donations": 1997,
     "donationsReceived": 1586,
-    "trophies": 299,
+    "trophies": 311,
     "builderBaseTrophies": 3325,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T19:58:59.658882+00:00"
+   "last_change": "2026-11-20T02:04:09.686320+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -211,12 +211,12 @@
    "values": {
     "donations": 904,
     "donationsReceived": 735,
-    "trophies": 17,
+    "trophies": 27,
     "builderBaseTrophies": 3602,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T00:54:29.109468+00:00"
+   "last_change": "2026-11-20T02:04:09.686320+00:00"
   },
   "#GJLUCQ2CC": {
    "name": "mikki",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-20T01:21:21.545376+00:00"
+ "updated": "2026-11-20T02:04:09.796631+00:00"
 }
