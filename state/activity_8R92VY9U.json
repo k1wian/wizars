@@ -835,12 +835,12 @@
    "values": {
     "donations": 83,
     "donationsReceived": 0,
-    "trophies": 221,
+    "trophies": 236,
     "builderBaseTrophies": 4448,
     "expLevel": 188
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-20T04:29:57.629966+00:00"
+   "last_change": "2026-11-20T04:48:28.418695+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -867,5 +867,5 @@
    "last_change": "2026-11-20T04:36:07.894070+00:00"
   }
  },
- "updated": "2026-11-20T04:46:25.332337+00:00"
+ "updated": "2026-11-20T04:48:28.617623+00:00"
 }
