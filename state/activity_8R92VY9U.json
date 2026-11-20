@@ -16,26 +16,26 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 6264,
+    "donations": 6304,
     "donationsReceived": 477,
     "trophies": 575,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T17:28:16.704444+00:00"
+   "last_change": "2026-11-20T20:45:36.382859+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 1648,
+    "donations": 1658,
     "donationsReceived": 771,
-    "trophies": 479,
+    "trophies": 759,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T20:03:21.110911+00:00"
+   "last_change": "2026-11-20T20:45:36.382859+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 2664,
+    "donations": 2714,
     "donationsReceived": 393,
-    "trophies": 615,
+    "trophies": 628,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T17:28:16.704444+00:00"
+   "last_change": "2026-11-20T20:45:36.382859+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 597,
-    "donationsReceived": 1701,
-    "trophies": 201,
+    "donationsReceived": 1811,
+    "trophies": 279,
     "builderBaseTrophies": 2783,
     "expLevel": 166
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T18:29:11.010162+00:00"
+   "last_change": "2026-11-20T20:45:36.382859+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -453,14 +453,14 @@
   "#2LYVVJGJR": {
    "name": "$DiMoN$",
    "values": {
-    "donations": 319,
+    "donations": 329,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 1209,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T22:48:08.172317+00:00"
+   "last_change": "2026-11-20T20:45:36.382859+00:00"
   },
   "#8JJ8Q2GJJ": {
    "name": "Pt.urchick",
@@ -881,5 +881,5 @@
    "last_change": "2026-11-20T17:28:16.704444+00:00"
   }
  },
- "updated": "2026-11-20T20:03:21.293629+00:00"
+ "updated": "2026-11-20T20:45:36.596370+00:00"
 }
