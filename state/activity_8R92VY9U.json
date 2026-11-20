@@ -200,11 +200,11 @@
     "donations": 2561,
     "donationsReceived": 6372,
     "trophies": 353,
-    "builderBaseTrophies": 3251,
+    "builderBaseTrophies": 3317,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T08:38:19.119591+00:00"
+   "last_change": "2026-11-20T09:55:17.575377+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -270,14 +270,14 @@
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
-    "donations": 1153,
-    "donationsReceived": 3086,
+    "donations": 1203,
+    "donationsReceived": 3166,
     "trophies": 207,
     "builderBaseTrophies": 3257,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T04:29:57.629966+00:00"
+   "last_change": "2026-11-20T09:55:17.575377+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -307,14 +307,14 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 2589,
-    "donationsReceived": 3533,
+    "donations": 2669,
+    "donationsReceived": 3583,
     "trophies": 0,
     "builderBaseTrophies": 3353,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T07:06:20.446996+00:00"
+   "last_change": "2026-11-20T09:55:17.575377+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -632,12 +632,12 @@
    "values": {
     "donations": 81,
     "donationsReceived": 83,
-    "trophies": 289,
+    "trophies": 298,
     "builderBaseTrophies": 2840,
     "expLevel": 136
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-19T04:50:30.133822+00:00"
+   "last_change": "2026-11-20T09:55:17.575377+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -869,5 +869,5 @@
    "left_at": "2026-11-20T05:36:30.671639+00:00"
   }
  },
- "updated": "2026-11-20T09:05:12.885778+00:00"
+ "updated": "2026-11-20T09:55:17.779223+00:00"
 }
