@@ -55,12 +55,12 @@
    "values": {
     "donations": 2641,
     "donationsReceived": 393,
-    "trophies": 596,
+    "trophies": 606,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T17:03:10.161477+00:00"
+   "last_change": "2026-11-20T07:06:20.446996+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -310,11 +310,11 @@
     "donations": 2589,
     "donationsReceived": 3533,
     "trophies": 0,
-    "builderBaseTrophies": 3467,
+    "builderBaseTrophies": 3353,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T06:03:09.145438+00:00"
+   "last_change": "2026-11-20T07:06:20.446996+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -519,12 +519,12 @@
    "values": {
     "donations": 83,
     "donationsReceived": 0,
-    "trophies": 0,
+    "trophies": 26,
     "builderBaseTrophies": 1052,
     "expLevel": 100
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T20:57:55.765560+00:00"
+   "last_change": "2026-11-20T07:06:20.446996+00:00"
   },
   "#GC0UJR2GP": {
    "name": "DeMoN",
@@ -869,5 +869,5 @@
    "left_at": "2026-11-20T05:36:30.671639+00:00"
   }
  },
- "updated": "2026-11-20T06:03:09.250633+00:00"
+ "updated": "2026-11-20T07:06:20.568483+00:00"
 }
