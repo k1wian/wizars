@@ -174,13 +174,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2107,
-    "donationsReceived": 2046,
-    "trophies": 19,
+    "donationsReceived": 2094,
+    "trophies": 156,
     "builderBaseTrophies": 3788,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T04:40:12.476115+00:00"
+   "last_change": "2026-11-20T04:29:57.629966+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -271,25 +271,25 @@
    "name": "Sənan",
    "values": {
     "donations": 1153,
-    "donationsReceived": 3003,
+    "donationsReceived": 3086,
     "trophies": 207,
     "builderBaseTrophies": 3257,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T15:59:45.930488+00:00"
+   "last_change": "2026-11-20T04:29:57.629966+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
    "values": {
-    "donations": 905,
+    "donations": 953,
     "donationsReceived": 1307,
     "trophies": 393,
     "builderBaseTrophies": 2972,
     "expLevel": 140
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T19:58:59.658882+00:00"
+   "last_change": "2026-11-20T04:29:57.629966+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -833,15 +833,15 @@
   "#QGUJJGJGG": {
    "name": "Doshi",
    "values": {
-    "donations": 0,
+    "donations": 83,
     "donationsReceived": 0,
     "trophies": 221,
     "builderBaseTrophies": 4448,
     "expLevel": 188
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-19T13:14:27.978724+00:00"
+   "last_change": "2026-11-20T04:29:57.629966+00:00"
   }
  },
- "updated": "2026-11-20T03:42:40.009738+00:00"
+ "updated": "2026-11-20T04:29:57.778488+00:00"
 }
