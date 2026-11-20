@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 6100,
+    "donations": 6264,
     "donationsReceived": 477,
     "trophies": 575,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T13:11:54.888570+00:00"
+   "last_change": "2026-11-20T17:28:16.704444+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 2641,
+    "donations": 2664,
     "donationsReceived": 393,
     "trophies": 615,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T07:10:33.225174+00:00"
+   "last_change": "2026-11-20T17:28:16.704444+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -151,12 +151,12 @@
    "values": {
     "donations": 1641,
     "donationsReceived": 1849,
-    "trophies": 443,
+    "trophies": 470,
     "builderBaseTrophies": 4409,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T08:38:19.119591+00:00"
+   "last_change": "2026-11-20T17:28:16.704444+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -372,10 +372,10 @@
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 1129,
-    "expLevel": 168
+    "expLevel": 169
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T22:48:08.172317+00:00"
+   "last_change": "2026-11-20T17:28:16.704444+00:00"
   },
   "#LG2LULGQJ": {
    "name": "Enot1k",
@@ -695,13 +695,13 @@
    "name": "rewero",
    "values": {
     "donations": 2101,
-    "donationsReceived": 1338,
+    "donationsReceived": 1570,
     "trophies": 481,
     "builderBaseTrophies": 2776,
     "expLevel": 150
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-20T16:51:44.034836+00:00"
+   "last_change": "2026-11-20T17:28:16.704444+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -867,7 +867,19 @@
    "first_seen": "2026-11-20T04:36:07.894070+00:00",
    "last_change": "2026-11-20T04:36:07.894070+00:00",
    "left_at": "2026-11-20T05:36:30.671639+00:00"
+  },
+  "#P92YRQUYL": {
+   "name": "ARLAN B6",
+   "values": {
+    "donations": 45,
+    "donationsReceived": 0,
+    "trophies": 557,
+    "builderBaseTrophies": 3613,
+    "expLevel": 206
+   },
+   "first_seen": "2026-11-20T17:28:16.704444+00:00",
+   "last_change": "2026-11-20T17:28:16.704444+00:00"
   }
  },
- "updated": "2026-11-20T16:51:44.250942+00:00"
+ "updated": "2026-11-20T17:28:16.891066+00:00"
 }
