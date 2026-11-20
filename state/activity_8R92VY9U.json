@@ -174,13 +174,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2107,
-    "donationsReceived": 2094,
+    "donationsReceived": 2097,
     "trophies": 156,
     "builderBaseTrophies": 3788,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T04:29:57.629966+00:00"
+   "last_change": "2026-11-20T04:34:03.951299+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -695,13 +695,13 @@
    "name": "rewero",
    "values": {
     "donations": 1989,
-    "donationsReceived": 1251,
+    "donationsReceived": 1283,
     "trophies": 481,
     "builderBaseTrophies": 2794,
     "expLevel": 150
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-19T22:44:33.816285+00:00"
+   "last_change": "2026-11-20T04:34:03.951299+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -841,7 +841,19 @@
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
    "last_change": "2026-11-20T04:29:57.629966+00:00"
+  },
+  "#8PJ8JLG0G": {
+   "name": "hhhhh",
+   "values": {
+    "donations": 35,
+    "donationsReceived": 0,
+    "trophies": 546,
+    "builderBaseTrophies": 2579,
+    "expLevel": 172
+   },
+   "first_seen": "2026-11-20T04:34:03.951299+00:00",
+   "last_change": "2026-11-20T04:34:03.951299+00:00"
   }
  },
- "updated": "2026-11-20T04:32:00.900322+00:00"
+ "updated": "2026-11-20T04:34:04.204224+00:00"
 }
