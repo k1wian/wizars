@@ -174,13 +174,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2107,
-    "donationsReceived": 2129,
+    "donationsReceived": 2212,
     "trophies": 156,
     "builderBaseTrophies": 3788,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T04:36:07.894070+00:00"
+   "last_change": "2026-11-20T14:30:07.486331+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -417,14 +417,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 5433,
+    "donations": 5516,
     "donationsReceived": 12907,
     "trophies": 537,
     "builderBaseTrophies": 3251,
     "expLevel": 200
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T13:11:54.888570+00:00"
+   "last_change": "2026-11-20T14:30:07.486331+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -869,5 +869,5 @@
    "left_at": "2026-11-20T05:36:30.671639+00:00"
   }
  },
- "updated": "2026-11-20T14:28:04.028654+00:00"
+ "updated": "2026-11-20T14:30:07.645038+00:00"
 }
