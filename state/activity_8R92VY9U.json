@@ -209,26 +209,26 @@
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
    "values": {
-    "donations": 854,
-    "donationsReceived": 685,
+    "donations": 904,
+    "donationsReceived": 735,
     "trophies": 17,
     "builderBaseTrophies": 3602,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T15:53:35.885219+00:00"
+   "last_change": "2026-11-20T00:54:29.109468+00:00"
   },
   "#GJLUCQ2CC": {
    "name": "mikki",
    "values": {
-    "donations": 766,
-    "donationsReceived": 3286,
-    "trophies": 269,
+    "donations": 816,
+    "donationsReceived": 3336,
+    "trophies": 309,
     "builderBaseTrophies": 3340,
-    "expLevel": 175
+    "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T11:24:12.810869+00:00"
+   "last_change": "2026-11-20T00:54:29.109468+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-20T00:04:34.581171+00:00"
+ "updated": "2026-11-20T00:54:29.351610+00:00"
 }
