@@ -307,26 +307,26 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 2506,
-    "donationsReceived": 3420,
+    "donations": 2589,
+    "donationsReceived": 3533,
     "trophies": 0,
-    "builderBaseTrophies": 3471,
+    "builderBaseTrophies": 3531,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T17:23:49.698787+00:00"
+   "last_change": "2026-11-20T03:15:58.799864+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
    "values": {
-    "donations": 0,
-    "donationsReceived": 50,
-    "trophies": 10,
+    "donations": 113,
+    "donationsReceived": 133,
+    "trophies": 144,
     "builderBaseTrophies": 2867,
     "expLevel": 171
    },
    "first_seen": "2026-11-17T10:59:19.048517+00:00",
-   "last_change": "2026-11-19T03:50:11.720707+00:00"
+   "last_change": "2026-11-20T03:15:58.799864+00:00"
   },
   "#2CY9LV9CQ": {
    "name": "Antony",
@@ -843,5 +843,5 @@
    "last_change": "2026-11-19T13:14:27.978724+00:00"
   }
  },
- "updated": "2026-11-20T02:30:43.594593+00:00"
+ "updated": "2026-11-20T03:15:58.915522+00:00"
 }
