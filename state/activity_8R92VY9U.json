@@ -200,11 +200,11 @@
     "donations": 2687,
     "donationsReceived": 6572,
     "trophies": 353,
-    "builderBaseTrophies": 3406,
+    "builderBaseTrophies": 3438,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T15:52:11.035553+00:00"
+   "last_change": "2026-11-20T21:43:03.849811+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -533,10 +533,10 @@
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 455,
-    "expLevel": 81
+    "expLevel": 82
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-16T21:04:20.136187+00:00"
+   "last_change": "2026-11-20T21:43:03.849811+00:00"
   },
   "#YQVJCUULP": {
    "name": "ПЕчеНЬка",
@@ -881,5 +881,5 @@
    "last_change": "2026-11-20T17:28:16.704444+00:00"
   }
  },
- "updated": "2026-11-20T21:10:40.408481+00:00"
+ "updated": "2026-11-20T21:43:03.969873+00:00"
 }
