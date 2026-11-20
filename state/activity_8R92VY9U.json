@@ -211,12 +211,12 @@
    "values": {
     "donations": 975,
     "donationsReceived": 735,
-    "trophies": 27,
+    "trophies": 123,
     "builderBaseTrophies": 3602,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T12:02:37.976717+00:00"
+   "last_change": "2026-11-20T18:29:11.010162+00:00"
   },
   "#GJLUCQ2CC": {
    "name": "mikki",
@@ -235,12 +235,12 @@
    "values": {
     "donations": 597,
     "donationsReceived": 1701,
-    "trophies": 187,
+    "trophies": 201,
     "builderBaseTrophies": 2783,
     "expLevel": 166
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T20:23:56.517320+00:00"
+   "last_change": "2026-11-20T18:29:11.010162+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -881,5 +881,5 @@
    "last_change": "2026-11-20T17:28:16.704444+00:00"
   }
  },
- "updated": "2026-11-20T17:53:11.409198+00:00"
+ "updated": "2026-11-20T18:29:11.186938+00:00"
 }
