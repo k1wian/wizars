@@ -174,13 +174,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2107,
-    "donationsReceived": 2097,
+    "donationsReceived": 2129,
     "trophies": 156,
     "builderBaseTrophies": 3788,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T04:34:03.951299+00:00"
+   "last_change": "2026-11-20T04:36:07.894070+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -853,7 +853,19 @@
    },
    "first_seen": "2026-11-20T04:34:03.951299+00:00",
    "last_change": "2026-11-20T04:34:03.951299+00:00"
+  },
+  "#GGVYR2YYR": {
+   "name": "gvakula",
+   "values": {
+    "donations": 32,
+    "donationsReceived": 0,
+    "trophies": 692,
+    "builderBaseTrophies": 3209,
+    "expLevel": 201
+   },
+   "first_seen": "2026-11-20T04:36:07.894070+00:00",
+   "last_change": "2026-11-20T04:36:07.894070+00:00"
   }
  },
- "updated": "2026-11-20T04:34:04.204224+00:00"
+ "updated": "2026-11-20T04:36:08.044662+00:00"
 }
