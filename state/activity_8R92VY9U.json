@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 6304,
+    "donations": 6307,
     "donationsReceived": 477,
     "trophies": 575,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T20:45:36.382859+00:00"
+   "last_change": "2026-11-20T20:47:40.588335+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 597,
-    "donationsReceived": 1811,
+    "donationsReceived": 1814,
     "trophies": 279,
     "builderBaseTrophies": 2783,
     "expLevel": 166
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T20:45:36.382859+00:00"
+   "last_change": "2026-11-20T20:47:40.588335+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -881,5 +881,5 @@
    "last_change": "2026-11-20T17:28:16.704444+00:00"
   }
  },
- "updated": "2026-11-20T20:45:36.596370+00:00"
+ "updated": "2026-11-20T20:47:40.925207+00:00"
 }
