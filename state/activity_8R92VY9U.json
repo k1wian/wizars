@@ -29,13 +29,13 @@
    "name": "B.O.T",
    "values": {
     "donations": 1870,
-    "donationsReceived": 890,
+    "donationsReceived": 978,
     "trophies": 804,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T17:37:58.388785+00:00"
+   "last_change": "2026-11-21T21:35:31.800344+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 3329,
+    "donations": 3417,
     "donationsReceived": 643,
     "trophies": 628,
     "builderBaseTrophies": 3393,
     "expLevel": 237
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T19:42:52.325770+00:00"
+   "last_change": "2026-11-21T21:35:31.800344+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -260,12 +260,12 @@
    "values": {
     "donations": 2416,
     "donationsReceived": 206,
-    "trophies": 398,
+    "trophies": 587,
     "builderBaseTrophies": 2952,
-    "expLevel": 198
+    "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T11:18:46.322643+00:00"
+   "last_change": "2026-11-21T21:35:31.800344+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -380,14 +380,14 @@
   "#LG2LULGQJ": {
    "name": "Enot1k",
    "values": {
-    "donations": 606,
+    "donations": 664,
     "donationsReceived": 383,
-    "trophies": 39,
+    "trophies": 369,
     "builderBaseTrophies": 3003,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T17:53:10.792980+00:00"
+   "last_change": "2026-11-21T21:35:31.800344+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -935,13 +935,13 @@
    "name": "❤️xXVLADXx❤️",
    "values": {
     "donations": 0,
-    "donationsReceived": 0,
+    "donationsReceived": 58,
     "trophies": 0,
     "builderBaseTrophies": 2942,
     "expLevel": 188
    },
    "first_seen": "2026-11-21T20:36:38.744493+00:00",
-   "last_change": "2026-11-21T20:36:38.744493+00:00"
+   "last_change": "2026-11-21T21:35:31.800344+00:00"
   },
   "#QLLV2YQ8Y": {
    "name": "Юля",
@@ -957,5 +957,5 @@
    "left_at": "2026-11-21T20:53:15.214523+00:00"
   }
  },
- "updated": "2026-11-21T21:01:43.004524+00:00"
+ "updated": "2026-11-21T21:35:31.957173+00:00"
 }
