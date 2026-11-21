@@ -103,12 +103,12 @@
    "values": {
     "donations": 1032,
     "donationsReceived": 57,
-    "trophies": 177,
+    "trophies": 220,
     "builderBaseTrophies": 3376,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T18:47:54.960015+00:00"
+   "last_change": "2026-11-21T18:54:06.288668+00:00"
   },
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
@@ -931,5 +931,5 @@
    "last_change": "2026-11-21T17:04:25.701094+00:00"
   }
  },
- "updated": "2026-11-21T18:52:02.742665+00:00"
+ "updated": "2026-11-21T18:54:06.539409+00:00"
 }
