@@ -79,12 +79,12 @@
    "values": {
     "donations": 2562,
     "donationsReceived": 3047,
-    "trophies": 571,
+    "trophies": 585,
     "builderBaseTrophies": 3111,
     "expLevel": 196
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T13:11:54.888570+00:00"
+   "last_change": "2026-11-21T09:52:16.453061+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -873,12 +873,12 @@
    "values": {
     "donations": 45,
     "donationsReceived": 0,
-    "trophies": 557,
+    "trophies": 586,
     "builderBaseTrophies": 3613,
     "expLevel": 206
    },
    "first_seen": "2026-11-20T17:28:16.704444+00:00",
-   "last_change": "2026-11-20T17:28:16.704444+00:00"
+   "last_change": "2026-11-21T09:52:16.453061+00:00"
   },
   "#CRRGJGUG": {
    "name": "AHMAD",
@@ -906,5 +906,5 @@
    "last_change": "2026-11-21T06:49:43.177364+00:00"
   }
  },
- "updated": "2026-11-21T09:50:11.252386+00:00"
+ "updated": "2026-11-21T09:52:16.726828+00:00"
 }
