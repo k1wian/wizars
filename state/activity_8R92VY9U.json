@@ -103,12 +103,12 @@
    "values": {
     "donations": 959,
     "donationsReceived": 57,
-    "trophies": 152,
+    "trophies": 164,
     "builderBaseTrophies": 3376,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T10:43:54.070508+00:00"
+   "last_change": "2026-11-21T18:39:39.603090+00:00"
   },
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
@@ -127,12 +127,12 @@
    "values": {
     "donations": 1997,
     "donationsReceived": 1639,
-    "trophies": 311,
+    "trophies": 451,
     "builderBaseTrophies": 3325,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T11:02:20.521674+00:00"
+   "last_change": "2026-11-21T18:39:39.603090+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -272,12 +272,12 @@
    "values": {
     "donations": 1203,
     "donationsReceived": 3636,
-    "trophies": 339,
+    "trophies": 359,
     "builderBaseTrophies": 3257,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T13:11:26.060749+00:00"
+   "last_change": "2026-11-21T18:39:39.603090+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -931,5 +931,5 @@
    "last_change": "2026-11-21T17:04:25.701094+00:00"
   }
  },
- "updated": "2026-11-21T18:04:55.031452+00:00"
+ "updated": "2026-11-21T18:39:39.775760+00:00"
 }
