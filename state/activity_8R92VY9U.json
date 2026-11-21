@@ -128,11 +128,11 @@
     "donations": 2037,
     "donationsReceived": 1692,
     "trophies": 478,
-    "builderBaseTrophies": 3325,
+    "builderBaseTrophies": 3294,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T18:47:54.960015+00:00"
+   "last_change": "2026-11-21T18:49:59.022542+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -836,12 +836,12 @@
    "values": {
     "donations": 228,
     "donationsReceived": 0,
-    "trophies": 248,
+    "trophies": 256,
     "builderBaseTrophies": 4448,
     "expLevel": 189
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-21T16:41:29.531014+00:00"
+   "last_change": "2026-11-21T18:49:59.022542+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -931,5 +931,5 @@
    "last_change": "2026-11-21T17:04:25.701094+00:00"
   }
  },
- "updated": "2026-11-21T18:47:55.257650+00:00"
+ "updated": "2026-11-21T18:49:59.225696+00:00"
 }
