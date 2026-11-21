@@ -284,12 +284,12 @@
    "values": {
     "donations": 1036,
     "donationsReceived": 1390,
-    "trophies": 393,
+    "trophies": 433,
     "builderBaseTrophies": 2972,
     "expLevel": 140
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T12:59:32.343505+00:00"
+   "last_change": "2026-11-21T04:27:15.607052+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -823,12 +823,12 @@
    "values": {
     "donations": 48,
     "donationsReceived": 0,
-    "trophies": 264,
+    "trophies": 279,
     "builderBaseTrophies": 2400,
     "expLevel": 150
    },
    "first_seen": "2026-11-17T19:58:40.786963+00:00",
-   "last_change": "2026-11-19T09:58:01.060684+00:00"
+   "last_change": "2026-11-21T04:27:15.607052+00:00"
   },
   "#QGUJJGJGG": {
    "name": "Doshi",
@@ -881,5 +881,5 @@
    "last_change": "2026-11-20T17:28:16.704444+00:00"
   }
  },
- "updated": "2026-11-21T03:44:53.815904+00:00"
+ "updated": "2026-11-21T04:27:15.784730+00:00"
 }
