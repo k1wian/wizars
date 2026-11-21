@@ -308,13 +308,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 2692,
-    "donationsReceived": 3733,
+    "donationsReceived": 3816,
     "trophies": 0,
     "builderBaseTrophies": 3392,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T14:58:34.469432+00:00"
+   "last_change": "2026-11-21T15:52:39.390854+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -833,14 +833,14 @@
   "#QGUJJGJGG": {
    "name": "Doshi",
    "values": {
-    "donations": 145,
+    "donations": 228,
     "donationsReceived": 0,
     "trophies": 248,
     "builderBaseTrophies": 4448,
     "expLevel": 188
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-21T08:47:42.904094+00:00"
+   "last_change": "2026-11-21T15:52:39.390854+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -918,5 +918,5 @@
    "last_change": "2026-11-21T15:13:04.153410+00:00"
   }
  },
- "updated": "2026-11-21T15:50:35.461951+00:00"
+ "updated": "2026-11-21T15:52:39.568436+00:00"
 }
