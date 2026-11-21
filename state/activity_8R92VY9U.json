@@ -16,15 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 6426,
-    "donationsReceived": 477,
+    "donations": 0,
+    "donationsReceived": 0,
     "trophies": 590,
-    "builderBaseTrophies": 4307,
+    "builderBaseTrophies": 4315,
     "expLevel": 250
    },
-   "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T09:48:05.292782+00:00",
-   "left_at": "2026-11-21T10:43:54.070508+00:00"
+   "first_seen": "2026-11-21T11:00:32.502944+00:00",
+   "last_change": "2026-11-21T11:00:32.502944+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -907,5 +906,5 @@
    "last_change": "2026-11-21T06:49:43.177364+00:00"
   }
  },
- "updated": "2026-11-21T10:58:29.018018+00:00"
+ "updated": "2026-11-21T11:00:32.677428+00:00"
 }
