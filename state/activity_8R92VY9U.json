@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 3297,
+    "donations": 3329,
     "donationsReceived": 643,
     "trophies": 628,
     "builderBaseTrophies": 3393,
     "expLevel": 237
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T17:04:25.701094+00:00"
+   "last_change": "2026-11-21T19:42:52.325770+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -113,14 +113,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 2608,
+    "donations": 2659,
     "donationsReceived": 5168,
     "trophies": 352,
     "builderBaseTrophies": 3479,
     "expLevel": 216
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T17:37:58.388785+00:00"
+   "last_change": "2026-11-21T19:42:52.325770+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -200,11 +200,11 @@
     "donations": 2687,
     "donationsReceived": 6572,
     "trophies": 367,
-    "builderBaseTrophies": 3503,
+    "builderBaseTrophies": 3493,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T19:06:29.927255+00:00"
+   "last_change": "2026-11-21T19:42:52.325770+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -283,13 +283,13 @@
    "name": "чвв",
    "values": {
     "donations": 1086,
-    "donationsReceived": 1390,
+    "donationsReceived": 1473,
     "trophies": 433,
     "builderBaseTrophies": 2972,
-    "expLevel": 140
+    "expLevel": 141
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T07:46:30.053248+00:00"
+   "last_change": "2026-11-21T19:42:52.325770+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -931,5 +931,5 @@
    "last_change": "2026-11-21T17:04:25.701094+00:00"
   }
  },
- "updated": "2026-11-21T19:06:30.182098+00:00"
+ "updated": "2026-11-21T19:42:52.524485+00:00"
 }
