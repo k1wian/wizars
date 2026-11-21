@@ -892,7 +892,19 @@
    "first_seen": "2026-11-21T05:47:02.144140+00:00",
    "last_change": "2026-11-21T05:47:02.144140+00:00",
    "left_at": "2026-11-21T05:49:22.877997+00:00"
+  },
+  "#G2VQPRUYY": {
+   "name": "Spartak91N.K",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 0,
+    "builderBaseTrophies": 3161,
+    "expLevel": 189
+   },
+   "first_seen": "2026-11-21T06:49:43.177364+00:00",
+   "last_change": "2026-11-21T06:49:43.177364+00:00"
   }
  },
- "updated": "2026-11-21T06:47:39.976259+00:00"
+ "updated": "2026-11-21T06:49:43.355194+00:00"
 }
