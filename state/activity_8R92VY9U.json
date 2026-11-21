@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 6307,
+    "donations": 6426,
     "donationsReceived": 477,
     "trophies": 590,
     "builderBaseTrophies": 4307,
     "expLevel": 250
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T22:52:55.078799+00:00"
+   "last_change": "2026-11-21T09:48:05.292782+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -54,13 +54,13 @@
    "name": "***Люцифер***",
    "values": {
     "donations": 2833,
-    "donationsReceived": 524,
+    "donationsReceived": 643,
     "trophies": 628,
     "builderBaseTrophies": 3393,
     "expLevel": 236
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T09:43:56.915695+00:00"
+   "last_change": "2026-11-21T09:48:05.292782+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -906,5 +906,5 @@
    "last_change": "2026-11-21T06:49:43.177364+00:00"
   }
  },
- "updated": "2026-11-21T09:46:02.217310+00:00"
+ "updated": "2026-11-21T09:48:05.504385+00:00"
 }
