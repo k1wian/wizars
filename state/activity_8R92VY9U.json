@@ -420,11 +420,11 @@
     "donations": 5771,
     "donationsReceived": 12996,
     "trophies": 556,
-    "builderBaseTrophies": 3265,
+    "builderBaseTrophies": 3204,
     "expLevel": 200
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T15:10:59.370977+00:00"
+   "last_change": "2026-11-21T15:13:04.153410+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -904,7 +904,19 @@
    },
    "first_seen": "2026-11-21T06:49:43.177364+00:00",
    "last_change": "2026-11-21T06:49:43.177364+00:00"
+  },
+  "#GL09GCYR2": {
+   "name": "Евгеша",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 254,
+    "builderBaseTrophies": 2607,
+    "expLevel": 140
+   },
+   "first_seen": "2026-11-21T15:13:04.153410+00:00",
+   "last_change": "2026-11-21T15:13:04.153410+00:00"
   }
  },
- "updated": "2026-11-21T15:10:59.651040+00:00"
+ "updated": "2026-11-21T15:13:04.430692+00:00"
 }
