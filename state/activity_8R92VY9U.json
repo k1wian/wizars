@@ -942,7 +942,19 @@
    },
    "first_seen": "2026-11-21T20:36:38.744493+00:00",
    "last_change": "2026-11-21T20:36:38.744493+00:00"
+  },
+  "#QLLV2YQ8Y": {
+   "name": "Юля",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 287,
+    "builderBaseTrophies": 2373,
+    "expLevel": 147
+   },
+   "first_seen": "2026-11-21T20:51:10.710163+00:00",
+   "last_change": "2026-11-21T20:51:10.710163+00:00"
   }
  },
- "updated": "2026-11-21T20:49:07.838709+00:00"
+ "updated": "2026-11-21T20:51:11.119492+00:00"
 }
