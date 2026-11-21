@@ -115,12 +115,12 @@
    "values": {
     "donations": 2608,
     "donationsReceived": 5118,
-    "trophies": 332,
+    "trophies": 352,
     "builderBaseTrophies": 3479,
-    "expLevel": 215
+    "expLevel": 216
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-19T17:59:42.928406+00:00"
+   "last_change": "2026-11-21T07:52:42.191676+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -906,5 +906,5 @@
    "last_change": "2026-11-21T06:49:43.177364+00:00"
   }
  },
- "updated": "2026-11-21T07:50:36.564961+00:00"
+ "updated": "2026-11-21T07:52:42.357093+00:00"
 }
