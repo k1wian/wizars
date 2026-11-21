@@ -126,13 +126,13 @@
    "name": "Димаш",
    "values": {
     "donations": 1997,
-    "donationsReceived": 1639,
-    "trophies": 451,
+    "donationsReceived": 1662,
+    "trophies": 478,
     "builderBaseTrophies": 3325,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T18:39:39.603090+00:00"
+   "last_change": "2026-11-21T18:41:43.093233+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -149,14 +149,14 @@
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 1769,
+    "donations": 1791,
     "donationsReceived": 1849,
     "trophies": 470,
     "builderBaseTrophies": 4409,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T16:45:37.312784+00:00"
+   "last_change": "2026-11-21T18:41:43.093233+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -270,14 +270,14 @@
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
-    "donations": 1203,
+    "donations": 1204,
     "donationsReceived": 3636,
-    "trophies": 359,
+    "trophies": 399,
     "builderBaseTrophies": 3257,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T18:39:39.603090+00:00"
+   "last_change": "2026-11-21T18:41:43.093233+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -931,5 +931,5 @@
    "last_change": "2026-11-21T17:04:25.701094+00:00"
   }
  },
- "updated": "2026-11-21T18:39:39.775760+00:00"
+ "updated": "2026-11-21T18:41:43.377689+00:00"
 }
