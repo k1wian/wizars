@@ -18,12 +18,12 @@
    "values": {
     "donations": 1,
     "donationsReceived": 549,
-    "trophies": 766,
+    "trophies": 806,
     "builderBaseTrophies": 4315,
     "expLevel": 250
    },
    "first_seen": "2026-11-21T11:00:32.502944+00:00",
-   "last_change": "2026-11-21T17:02:21.637051+00:00"
+   "last_change": "2026-11-21T17:04:25.701094+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 3209,
+    "donations": 3297,
     "donationsReceived": 643,
     "trophies": 628,
     "builderBaseTrophies": 3393,
     "expLevel": 237
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T17:02:21.637051+00:00"
+   "last_change": "2026-11-21T17:04:25.701094+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -922,14 +922,14 @@
    "name": "GANGSTE",
    "values": {
     "donations": 0,
-    "donationsReceived": 0,
+    "donationsReceived": 88,
     "trophies": 396,
     "builderBaseTrophies": 2438,
     "expLevel": 204
    },
    "first_seen": "2026-11-21T17:02:21.637051+00:00",
-   "last_change": "2026-11-21T17:02:21.637051+00:00"
+   "last_change": "2026-11-21T17:04:25.701094+00:00"
   }
  },
- "updated": "2026-11-21T17:02:21.898394+00:00"
+ "updated": "2026-11-21T17:04:25.886235+00:00"
 }
