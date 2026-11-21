@@ -28,14 +28,14 @@
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 1658,
+    "donations": 1691,
     "donationsReceived": 771,
     "trophies": 788,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T00:57:54.832655+00:00"
+   "last_change": "2026-11-21T06:28:58.418541+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -65,14 +65,14 @@
   "#G8RC08CGG": {
    "name": "Lancelot",
    "values": {
-    "donations": 790,
+    "donations": 838,
     "donationsReceived": 0,
-    "trophies": 474,
+    "trophies": 490,
     "builderBaseTrophies": 3003,
     "expLevel": 173
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-18T21:48:56.973687+00:00"
+   "last_change": "2026-11-21T06:28:58.418541+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -174,13 +174,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2107,
-    "donationsReceived": 2212,
+    "donationsReceived": 2293,
     "trophies": 156,
     "builderBaseTrophies": 3788,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T14:30:07.486331+00:00"
+   "last_change": "2026-11-21T06:28:58.418541+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -632,12 +632,12 @@
    "values": {
     "donations": 81,
     "donationsReceived": 83,
-    "trophies": 298,
+    "trophies": 409,
     "builderBaseTrophies": 2840,
     "expLevel": 136
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-20T09:55:17.575377+00:00"
+   "last_change": "2026-11-21T06:28:58.418541+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -894,5 +894,5 @@
    "left_at": "2026-11-21T05:49:22.877997+00:00"
   }
  },
- "updated": "2026-11-21T05:53:31.820080+00:00"
+ "updated": "2026-11-21T06:28:58.599407+00:00"
 }
