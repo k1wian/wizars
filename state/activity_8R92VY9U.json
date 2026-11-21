@@ -101,14 +101,14 @@
   "#9PR09PCV": {
    "name": "шах",
    "values": {
-    "donations": 959,
+    "donations": 1032,
     "donationsReceived": 57,
     "trophies": 164,
     "builderBaseTrophies": 3376,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T18:39:39.603090+00:00"
+   "last_change": "2026-11-21T18:45:50.955787+00:00"
   },
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
@@ -125,14 +125,14 @@
   "#Y929RQ0L2": {
    "name": "Димаш",
    "values": {
-    "donations": 1997,
-    "donationsReceived": 1662,
+    "donations": 2037,
+    "donationsReceived": 1692,
     "trophies": 478,
-    "builderBaseTrophies": 3325,
+    "builderBaseTrophies": 3311,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T18:41:43.093233+00:00"
+   "last_change": "2026-11-21T18:45:50.955787+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -271,13 +271,13 @@
    "name": "Sənan",
    "values": {
     "donations": 1204,
-    "donationsReceived": 3636,
+    "donationsReceived": 3719,
     "trophies": 399,
     "builderBaseTrophies": 3257,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T18:41:43.093233+00:00"
+   "last_change": "2026-11-21T18:45:50.955787+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -931,5 +931,5 @@
    "last_change": "2026-11-21T17:04:25.701094+00:00"
   }
  },
- "updated": "2026-11-21T18:43:47.055983+00:00"
+ "updated": "2026-11-21T18:45:51.158597+00:00"
 }
