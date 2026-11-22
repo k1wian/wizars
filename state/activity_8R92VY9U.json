@@ -174,13 +174,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2411,
-    "donationsReceived": 2701,
+    "donationsReceived": 2731,
     "trophies": 472,
     "builderBaseTrophies": 3792,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T16:40:21.797347+00:00"
+   "last_change": "2026-11-22T17:38:13.165253+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 2727,
-    "donationsReceived": 6572,
+    "donations": 2757,
+    "donationsReceived": 6604,
     "trophies": 377,
-    "builderBaseTrophies": 3552,
+    "builderBaseTrophies": 3548,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T13:53:38.929650+00:00"
+   "last_change": "2026-11-22T17:38:13.165253+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -695,13 +695,13 @@
    "name": "rewero",
    "values": {
     "donations": 2140,
-    "donationsReceived": 1713,
+    "donationsReceived": 1745,
     "trophies": 481,
     "builderBaseTrophies": 2758,
     "expLevel": 151
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-22T13:53:38.929650+00:00"
+   "last_change": "2026-11-22T17:38:13.165253+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -996,14 +996,14 @@
   "#JCVQ0PG0": {
    "name": "www",
    "values": {
-    "donations": 0,
+    "donations": 64,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 4450,
     "expLevel": 209
    },
    "first_seen": "2026-11-22T11:39:58.850322+00:00",
-   "last_change": "2026-11-22T11:39:58.850322+00:00"
+   "last_change": "2026-11-22T17:38:13.165253+00:00"
   },
   "#8Q92VC0PU": {
    "name": "Phantom. 4.0",
@@ -1018,5 +1018,5 @@
    "last_change": "2026-11-22T11:39:58.850322+00:00"
   }
  },
- "updated": "2026-11-22T17:07:12.660973+00:00"
+ "updated": "2026-11-22T17:38:13.388604+00:00"
 }
