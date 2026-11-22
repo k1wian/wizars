@@ -834,14 +834,14 @@
   "#QGUJJGJGG": {
    "name": "Doshi",
    "values": {
-    "donations": 228,
+    "donations": 281,
     "donationsReceived": 0,
     "trophies": 269,
     "builderBaseTrophies": 4448,
     "expLevel": 189
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-22T11:39:58.850322+00:00"
+   "last_change": "2026-11-22T11:52:29.239924+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -972,13 +972,13 @@
    "name": "BDextar",
    "values": {
     "donations": 103,
-    "donationsReceived": 9,
+    "donationsReceived": 62,
     "trophies": 487,
     "builderBaseTrophies": 5004,
     "expLevel": 243
    },
    "first_seen": "2026-11-22T09:46:00.795371+00:00",
-   "last_change": "2026-11-22T11:39:58.850322+00:00"
+   "last_change": "2026-11-22T11:52:29.239924+00:00"
   },
   "#LR2QQVGYV": {
    "name": "ALi",
@@ -1017,5 +1017,5 @@
    "last_change": "2026-11-22T11:39:58.850322+00:00"
   }
  },
- "updated": "2026-11-22T11:50:20.147799+00:00"
+ "updated": "2026-11-22T11:52:29.426076+00:00"
 }
