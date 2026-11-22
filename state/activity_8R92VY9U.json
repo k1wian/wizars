@@ -174,13 +174,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2411,
-    "donationsReceived": 2431,
+    "donationsReceived": 2512,
     "trophies": 320,
     "builderBaseTrophies": 3788,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T08:47:28.280947+00:00"
+   "last_change": "2026-11-22T12:04:57.825994+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -971,14 +971,14 @@
   "#29U0YYL0U": {
    "name": "BDextar",
    "values": {
-    "donations": 103,
+    "donations": 184,
     "donationsReceived": 62,
     "trophies": 487,
     "builderBaseTrophies": 5004,
     "expLevel": 243
    },
    "first_seen": "2026-11-22T09:46:00.795371+00:00",
-   "last_change": "2026-11-22T11:52:29.239924+00:00"
+   "last_change": "2026-11-22T12:04:57.825994+00:00"
   },
   "#LR2QQVGYV": {
    "name": "ALi",
@@ -1017,5 +1017,5 @@
    "last_change": "2026-11-22T11:39:58.850322+00:00"
   }
  },
- "updated": "2026-11-22T12:02:54.379928+00:00"
+ "updated": "2026-11-22T12:04:57.993913+00:00"
 }
