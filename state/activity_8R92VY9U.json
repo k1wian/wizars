@@ -260,12 +260,12 @@
    "values": {
     "donations": 2476,
     "donationsReceived": 206,
-    "trophies": 619,
+    "trophies": 634,
     "builderBaseTrophies": 2952,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T01:10:08.939908+00:00"
+   "last_change": "2026-11-22T08:05:54.901824+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -969,5 +969,5 @@
    "last_change": "2026-11-22T02:02:13.258444+00:00"
   }
  },
- "updated": "2026-11-22T08:03:51.347355+00:00"
+ "updated": "2026-11-22T08:05:55.084441+00:00"
 }
