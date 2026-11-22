@@ -163,12 +163,12 @@
    "values": {
     "donations": 862,
     "donationsReceived": 0,
-    "trophies": 551,
+    "trophies": 577,
     "builderBaseTrophies": 3478,
     "expLevel": 209
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-20T15:25:15.096934+00:00"
+   "last_change": "2026-11-22T15:46:33.500924+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -1018,5 +1018,5 @@
    "last_change": "2026-11-22T11:39:58.850322+00:00"
   }
  },
- "updated": "2026-11-22T15:44:30.140157+00:00"
+ "updated": "2026-11-22T15:46:33.699052+00:00"
 }
