@@ -137,14 +137,14 @@
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 2949,
+    "donations": 2996,
     "donationsReceived": 756,
     "trophies": 470,
     "builderBaseTrophies": 3217,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T21:41:43.322300+00:00"
+   "last_change": "2026-11-22T13:53:38.929650+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -174,13 +174,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2411,
-    "donationsReceived": 2595,
-    "trophies": 400,
+    "donationsReceived": 2648,
+    "trophies": 472,
     "builderBaseTrophies": 3788,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T12:46:40.099723+00:00"
+   "last_change": "2026-11-22T13:53:38.929650+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 2687,
+    "donations": 2727,
     "donationsReceived": 6572,
-    "trophies": 367,
-    "builderBaseTrophies": 3529,
+    "trophies": 377,
+    "builderBaseTrophies": 3552,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T12:50:54.145511+00:00"
+   "last_change": "2026-11-22T13:53:38.929650+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -271,13 +271,13 @@
    "name": "Sənan",
    "values": {
     "donations": 1290,
-    "donationsReceived": 3722,
+    "donationsReceived": 3772,
     "trophies": 466,
     "builderBaseTrophies": 3260,
     "expLevel": 171
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T13:09:36.921135+00:00"
+   "last_change": "2026-11-22T13:53:38.929650+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -694,14 +694,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 2124,
+    "donations": 2140,
     "donationsReceived": 1713,
     "trophies": 481,
     "builderBaseTrophies": 2758,
     "expLevel": 151
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-22T11:02:27.890763+00:00"
+   "last_change": "2026-11-22T13:53:38.929650+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -1017,5 +1017,5 @@
    "last_change": "2026-11-22T11:39:58.850322+00:00"
   }
  },
- "updated": "2026-11-22T13:11:46.194571+00:00"
+ "updated": "2026-11-22T13:53:39.205923+00:00"
 }
