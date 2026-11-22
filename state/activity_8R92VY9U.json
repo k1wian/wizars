@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 3447,
+    "donations": 3450,
     "donationsReceived": 643,
     "trophies": 636,
     "builderBaseTrophies": 3393,
     "expLevel": 237
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T06:33:32.293167+00:00"
+   "last_change": "2026-11-22T11:39:58.850322+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -308,13 +308,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 2899,
-    "donationsReceived": 4162,
+    "donationsReceived": 4245,
     "trophies": 0,
     "builderBaseTrophies": 3392,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T09:43:56.181710+00:00"
+   "last_change": "2026-11-22T11:39:58.850322+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -836,12 +836,12 @@
    "values": {
     "donations": 228,
     "donationsReceived": 0,
-    "trophies": 256,
+    "trophies": 269,
     "builderBaseTrophies": 4448,
     "expLevel": 189
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-21T18:49:59.022542+00:00"
+   "last_change": "2026-11-22T11:39:58.850322+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -971,14 +971,14 @@
   "#29U0YYL0U": {
    "name": "BDextar",
    "values": {
-    "donations": 20,
-    "donationsReceived": 6,
+    "donations": 103,
+    "donationsReceived": 9,
     "trophies": 487,
     "builderBaseTrophies": 5004,
     "expLevel": 243
    },
    "first_seen": "2026-11-22T09:46:00.795371+00:00",
-   "last_change": "2026-11-22T11:02:27.890763+00:00"
+   "last_change": "2026-11-22T11:39:58.850322+00:00"
   },
   "#LR2QQVGYV": {
    "name": "ALi",
@@ -991,7 +991,31 @@
    },
    "first_seen": "2026-11-22T09:54:16.142070+00:00",
    "last_change": "2026-11-22T09:58:22.205871+00:00"
+  },
+  "#JCVQ0PG0": {
+   "name": "www",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 0,
+    "builderBaseTrophies": 4450,
+    "expLevel": 209
+   },
+   "first_seen": "2026-11-22T11:39:58.850322+00:00",
+   "last_change": "2026-11-22T11:39:58.850322+00:00"
+  },
+  "#8Q92VC0PU": {
+   "name": "Phantom. 4.0",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 0,
+    "builderBaseTrophies": 2142,
+    "expLevel": 184
+   },
+   "first_seen": "2026-11-22T11:39:58.850322+00:00",
+   "last_change": "2026-11-22T11:39:58.850322+00:00"
   }
  },
- "updated": "2026-11-22T11:08:39.722816+00:00"
+ "updated": "2026-11-22T11:39:59.018648+00:00"
 }
