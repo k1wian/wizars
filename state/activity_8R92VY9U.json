@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 2757,
-    "donationsReceived": 6604,
+    "donationsReceived": 6645,
     "trophies": 377,
     "builderBaseTrophies": 3548,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T17:38:13.165253+00:00"
+   "last_change": "2026-11-22T17:46:25.700528+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -834,14 +834,14 @@
   "#QGUJJGJGG": {
    "name": "Doshi",
    "values": {
-    "donations": 346,
+    "donations": 387,
     "donationsReceived": 55,
     "trophies": 607,
     "builderBaseTrophies": 4448,
     "expLevel": 189
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-22T14:45:05.508430+00:00"
+   "last_change": "2026-11-22T17:46:25.700528+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -1018,5 +1018,5 @@
    "last_change": "2026-11-22T11:39:58.850322+00:00"
   }
  },
- "updated": "2026-11-22T17:44:22.944737+00:00"
+ "updated": "2026-11-22T17:46:25.838081+00:00"
 }
