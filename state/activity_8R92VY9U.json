@@ -308,13 +308,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 2692,
-    "donationsReceived": 3816,
+    "donationsReceived": 3866,
     "trophies": 0,
     "builderBaseTrophies": 3392,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T15:52:39.390854+00:00"
+   "last_change": "2026-11-22T03:29:33.388712+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -605,14 +605,14 @@
   "#QQLGR0C9G": {
    "name": "KNYAZ",
    "values": {
-    "donations": 333,
+    "donations": 383,
     "donationsReceived": 474,
     "trophies": 94,
     "builderBaseTrophies": 3827,
     "expLevel": 192
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-20T23:47:25.212566+00:00"
+   "last_change": "2026-11-22T03:29:33.388712+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -969,5 +969,5 @@
    "last_change": "2026-11-22T02:02:13.258444+00:00"
   }
  },
- "updated": "2026-11-22T03:27:30.154743+00:00"
+ "updated": "2026-11-22T03:29:33.591712+00:00"
 }
