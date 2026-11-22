@@ -113,14 +113,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 2659,
+    "donations": 2682,
     "donationsReceived": 5223,
     "trophies": 352,
     "builderBaseTrophies": 3479,
     "expLevel": 216
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T22:35:42.509772+00:00"
+   "last_change": "2026-11-22T08:59:51.116321+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -695,13 +695,13 @@
    "name": "rewero",
    "values": {
     "donations": 2121,
-    "donationsReceived": 1658,
+    "donationsReceived": 1681,
     "trophies": 481,
     "builderBaseTrophies": 2758,
     "expLevel": 151
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-22T08:47:28.280947+00:00"
+   "last_change": "2026-11-22T08:59:51.116321+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -969,5 +969,5 @@
    "last_change": "2026-11-22T02:02:13.258444+00:00"
   }
  },
- "updated": "2026-11-22T08:57:47.763766+00:00"
+ "updated": "2026-11-22T08:59:51.262480+00:00"
 }
