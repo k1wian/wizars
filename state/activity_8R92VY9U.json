@@ -223,12 +223,12 @@
    "values": {
     "donations": 900,
     "donationsReceived": 3641,
-    "trophies": 397,
+    "trophies": 423,
     "builderBaseTrophies": 3340,
     "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T06:35:35.314807+00:00"
+   "last_change": "2026-11-22T07:47:14.942118+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -282,14 +282,14 @@
   "#QUPVR0CU2": {
    "name": "чвв",
    "values": {
-    "donations": 1086,
+    "donations": 1109,
     "donationsReceived": 1473,
     "trophies": 433,
     "builderBaseTrophies": 2972,
     "expLevel": 141
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T19:42:52.325770+00:00"
+   "last_change": "2026-11-22T07:47:14.942118+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -308,13 +308,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 2745,
-    "donationsReceived": 3866,
+    "donationsReceived": 3889,
     "trophies": 0,
     "builderBaseTrophies": 3392,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T05:31:35.943960+00:00"
+   "last_change": "2026-11-22T07:47:14.942118+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -382,12 +382,12 @@
    "values": {
     "donations": 664,
     "donationsReceived": 383,
-    "trophies": 424,
+    "trophies": 435,
     "builderBaseTrophies": 3003,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T21:41:43.322300+00:00"
+   "last_change": "2026-11-22T07:47:14.942118+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -969,5 +969,5 @@
    "last_change": "2026-11-22T02:02:13.258444+00:00"
   }
  },
- "updated": "2026-11-22T06:56:17.526393+00:00"
+ "updated": "2026-11-22T07:47:15.124046+00:00"
 }
