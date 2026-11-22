@@ -955,7 +955,19 @@
    "first_seen": "2026-11-21T20:51:10.710163+00:00",
    "last_change": "2026-11-21T20:51:10.710163+00:00",
    "left_at": "2026-11-21T20:53:15.214523+00:00"
+  },
+  "#QL80LR89P": {
+   "name": "bazyka boy",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 0,
+    "builderBaseTrophies": 4729,
+    "expLevel": 201
+   },
+   "first_seen": "2026-11-22T02:02:13.258444+00:00",
+   "last_change": "2026-11-22T02:02:13.258444+00:00"
   }
  },
- "updated": "2026-11-22T01:20:28.974889+00:00"
+ "updated": "2026-11-22T02:02:13.500860+00:00"
 }
