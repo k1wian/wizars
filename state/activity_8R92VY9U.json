@@ -103,12 +103,12 @@
    "values": {
     "donations": 1077,
     "donationsReceived": 57,
-    "trophies": 360,
+    "trophies": 400,
     "builderBaseTrophies": 3376,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T18:40:14.735052+00:00"
+   "last_change": "2026-11-22T19:45:43.343918+00:00"
   },
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
@@ -200,11 +200,11 @@
     "donations": 2757,
     "donationsReceived": 6660,
     "trophies": 377,
-    "builderBaseTrophies": 3548,
+    "builderBaseTrophies": 3611,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T17:54:38.811637+00:00"
+   "last_change": "2026-11-22T19:45:43.343918+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -418,13 +418,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 5811,
-    "donationsReceived": 13191,
+    "donationsReceived": 13201,
     "trophies": 593,
     "builderBaseTrophies": 3221,
     "expLevel": 200
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T19:06:56.587042+00:00"
+   "last_change": "2026-11-22T19:45:43.343918+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -441,14 +441,14 @@
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
    "values": {
-    "donations": 112,
+    "donations": 122,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3097,
     "expLevel": 212
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-09T06:02:23.404030+00:00"
+   "last_change": "2026-11-22T19:45:43.343918+00:00"
   },
   "#2LYVVJGJR": {
    "name": "$DiMoN$",
@@ -837,11 +837,11 @@
     "donations": 387,
     "donationsReceived": 55,
     "trophies": 607,
-    "builderBaseTrophies": 4448,
+    "builderBaseTrophies": 4486,
     "expLevel": 189
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-22T17:46:25.700528+00:00"
+   "last_change": "2026-11-22T19:45:43.343918+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -1031,5 +1031,5 @@
    "left_at": "2026-11-22T17:58:44.524120+00:00"
   }
  },
- "updated": "2026-11-22T19:06:56.702065+00:00"
+ "updated": "2026-11-22T19:45:46.892697+00:00"
 }
