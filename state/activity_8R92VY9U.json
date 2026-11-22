@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 6,
+    "donations": 54,
     "donationsReceived": 549,
     "trophies": 841,
     "builderBaseTrophies": 4315,
     "expLevel": 250
    },
    "first_seen": "2026-11-21T11:00:32.502944+00:00",
-   "last_change": "2026-11-21T22:35:42.509772+00:00"
+   "last_change": "2026-11-22T14:45:05.508430+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -835,13 +835,13 @@
    "name": "Doshi",
    "values": {
     "donations": 346,
-    "donationsReceived": 7,
+    "donationsReceived": 55,
     "trophies": 607,
     "builderBaseTrophies": 4448,
     "expLevel": 189
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-22T12:46:40.099723+00:00"
+   "last_change": "2026-11-22T14:45:05.508430+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -1018,5 +1018,5 @@
    "last_change": "2026-11-22T11:39:58.850322+00:00"
   }
  },
- "updated": "2026-11-22T14:20:29.495934+00:00"
+ "updated": "2026-11-22T14:45:06.477733+00:00"
 }
