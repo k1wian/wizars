@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 900,
-    "donationsReceived": 3641,
+    "donationsReceived": 3691,
     "trophies": 423,
     "builderBaseTrophies": 3340,
     "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T07:47:14.942118+00:00"
+   "last_change": "2026-11-22T07:55:32.814777+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -307,14 +307,14 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 2745,
+    "donations": 2795,
     "donationsReceived": 3889,
     "trophies": 0,
     "builderBaseTrophies": 3392,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T07:47:14.942118+00:00"
+   "last_change": "2026-11-22T07:55:32.814777+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -969,5 +969,5 @@
    "last_change": "2026-11-22T02:02:13.258444+00:00"
   }
  },
- "updated": "2026-11-22T07:53:29.395296+00:00"
+ "updated": "2026-11-22T07:55:32.986753+00:00"
 }
