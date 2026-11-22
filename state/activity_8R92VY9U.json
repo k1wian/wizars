@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 3417,
+    "donations": 3447,
     "donationsReceived": 643,
     "trophies": 628,
     "builderBaseTrophies": 3393,
     "expLevel": 237
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-21T21:35:31.800344+00:00"
+   "last_change": "2026-11-22T05:54:31.448531+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -174,13 +174,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2218,
-    "donationsReceived": 2348,
+    "donationsReceived": 2378,
     "trophies": 196,
     "builderBaseTrophies": 3788,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T05:31:35.943960+00:00"
+   "last_change": "2026-11-22T05:54:31.448531+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -969,5 +969,5 @@
    "last_change": "2026-11-22T02:02:13.258444+00:00"
   }
  },
- "updated": "2026-11-22T05:52:24.174422+00:00"
+ "updated": "2026-11-22T05:54:32.282211+00:00"
 }
