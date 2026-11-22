@@ -979,7 +979,19 @@
    },
    "first_seen": "2026-11-22T09:46:00.795371+00:00",
    "last_change": "2026-11-22T09:46:00.795371+00:00"
+  },
+  "#LR2QQVGYV": {
+   "name": "ALi",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 0,
+    "builderBaseTrophies": 3547,
+    "expLevel": 213
+   },
+   "first_seen": "2026-11-22T09:54:16.142070+00:00",
+   "last_change": "2026-11-22T09:54:16.142070+00:00"
   }
  },
- "updated": "2026-11-22T09:52:12.406070+00:00"
+ "updated": "2026-11-22T09:54:16.252066+00:00"
 }
