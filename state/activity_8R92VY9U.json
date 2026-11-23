@@ -125,14 +125,14 @@
   "#Y929RQ0L2": {
    "name": "Димаш",
    "values": {
-    "donations": 2089,
+    "donations": 2097,
     "donationsReceived": 1722,
     "trophies": 0,
     "builderBaseTrophies": 3294,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-23T09:18:01.051240+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -200,11 +200,11 @@
     "donations": 2772,
     "donationsReceived": 6715,
     "trophies": 0,
-    "builderBaseTrophies": 3624,
+    "builderBaseTrophies": 3661,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T08:00:40.036138+00:00"
+   "last_change": "2026-11-23T09:18:01.051240+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -695,13 +695,13 @@
    "name": "rewero",
    "values": {
     "donations": 2197,
-    "donationsReceived": 1760,
+    "donationsReceived": 1768,
     "trophies": 0,
     "builderBaseTrophies": 2758,
     "expLevel": 151
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-23T08:00:40.036138+00:00"
+   "last_change": "2026-11-23T09:18:01.051240+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -1045,5 +1045,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T08:00:40.351455+00:00"
+ "updated": "2026-11-23T09:18:01.322275+00:00"
 }
