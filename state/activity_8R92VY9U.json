@@ -138,13 +138,13 @@
    "name": "GANNIK",
    "values": {
     "donations": 2996,
-    "donationsReceived": 756,
+    "donationsReceived": 789,
     "trophies": 12,
     "builderBaseTrophies": 3217,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T21:00:06.510279+00:00"
+   "last_change": "2026-11-23T22:04:29.041562+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -695,14 +695,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 2197,
+    "donations": 2230,
     "donationsReceived": 1855,
     "trophies": 0,
     "builderBaseTrophies": 2758,
     "expLevel": 151
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-23T18:20:58.089657+00:00"
+   "last_change": "2026-11-23T22:04:29.041562+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T22:02:24.753962+00:00"
+ "updated": "2026-11-23T22:04:29.515659+00:00"
 }
