@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 940,
-    "donationsReceived": 3741,
+    "donationsReceived": 3794,
     "trophies": 0,
     "builderBaseTrophies": 3340,
     "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T10:39:47.401068+00:00"
+   "last_change": "2026-11-23T10:50:24.503571+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -911,14 +911,14 @@
   "#GL09GCYR2": {
    "name": "Евгеша",
    "values": {
-    "donations": 3,
+    "donations": 56,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 2607,
     "expLevel": 140
    },
    "first_seen": "2026-11-21T15:13:04.153410+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-23T10:50:24.503571+00:00"
   },
   "#92P802CUP": {
    "name": "GANGSTE",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T10:48:20.619353+00:00"
+ "updated": "2026-11-23T10:50:24.812964+00:00"
 }
