@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 2822,
+    "donations": 2837,
     "donationsReceived": 6833,
     "trophies": 0,
-    "builderBaseTrophies": 3546,
+    "builderBaseTrophies": 3540,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T13:08:08.919659+00:00"
+   "last_change": "2026-11-23T17:02:25.843340+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -634,11 +634,11 @@
     "donations": 81,
     "donationsReceived": 83,
     "trophies": 0,
-    "builderBaseTrophies": 2840,
+    "builderBaseTrophies": 2795,
     "expLevel": 136
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-23T17:02:25.843340+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -696,13 +696,13 @@
    "name": "rewero",
    "values": {
     "donations": 2197,
-    "donationsReceived": 1800,
+    "donationsReceived": 1815,
     "trophies": 0,
     "builderBaseTrophies": 2758,
     "expLevel": 151
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-23T09:26:20.252178+00:00"
+   "last_change": "2026-11-23T17:02:25.843340+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T16:23:40.919766+00:00"
+ "updated": "2026-11-23T17:02:26.075729+00:00"
 }
