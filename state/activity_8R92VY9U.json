@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 69,
+    "donations": 101,
     "donationsReceived": 549,
     "trophies": 0,
     "builderBaseTrophies": 4315,
     "expLevel": 250
    },
    "first_seen": "2026-11-21T11:00:32.502944+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-23T09:26:20.252178+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -310,11 +310,11 @@
     "donations": 2952,
     "donationsReceived": 4348,
     "trophies": 0,
-    "builderBaseTrophies": 3436,
+    "builderBaseTrophies": 3456,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T09:24:16.482155+00:00"
+   "last_change": "2026-11-23T09:26:20.252178+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -695,13 +695,13 @@
    "name": "rewero",
    "values": {
     "donations": 2197,
-    "donationsReceived": 1768,
+    "donationsReceived": 1800,
     "trophies": 0,
     "builderBaseTrophies": 2758,
     "expLevel": 151
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-23T09:18:01.051240+00:00"
+   "last_change": "2026-11-23T09:26:20.252178+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -1045,5 +1045,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T09:24:16.686937+00:00"
+ "updated": "2026-11-23T09:26:20.599650+00:00"
 }
