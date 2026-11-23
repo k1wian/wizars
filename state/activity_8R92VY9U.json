@@ -127,12 +127,12 @@
    "values": {
     "donations": 2097,
     "donationsReceived": 1722,
-    "trophies": 14,
+    "trophies": 54,
     "builderBaseTrophies": 3294,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T18:20:58.089657+00:00"
+   "last_change": "2026-11-23T18:43:48.589858+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T18:41:44.736334+00:00"
+ "updated": "2026-11-23T18:43:51.625221+00:00"
 }
