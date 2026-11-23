@@ -177,6 +177,7 @@ tr.grp td{background:var(--soft)!important;box-shadow:none!important;font-family
 .pl small{display:block;font-family:var(--mono);font-size:11px;color:var(--muted);font-weight:500}
 .pos{color:var(--ok)} .neg{color:var(--bad)} .zero{color:var(--muted)}
 .rank{font-family:var(--display);color:var(--gold);text-align:right}
+.ice.newb{background:color-mix(in srgb,var(--ok) 16%,transparent);color:var(--ok)}
 .ice{font-size:11px;font-weight:600;color:var(--info);background:color-mix(in srgb,var(--info) 14%,transparent);padding:1px 7px;border-radius:99px;margin-left:6px;white-space:nowrap}
 
 /* town hall level badge (own design, colour per level) */
@@ -922,11 +923,13 @@ details.how b{color:var(--ink)}
     const weeks = [...new Set(events.map(e => e.ws).concat(Object.keys(donByWeek).map(Number)))].sort((a, b) => b - a);
     return {events, weeks, donByWeek, cur};
   }
+  // новички: пока «не трогаем» (неделя с вступления) — 0 баллов
+  const newbieUntil = () => { const out = {}; Object.entries((meta.roles && meta.roles.joined) || {}).forEach(([n, c]) => { if (c && c.until) { const [y, m, d] = c.until.split("-").map(Number); out[norm(n)] = new Date(y, m - 1, d, 23, 59).getTime(); } }); return out; };
   function totalsWhere(R, pred) {
-    const out = {};
-    const add = (k, type, pts) => { const o = out[k] = out[k] || {don: null, war: null, cwl: null, raid: null, total: 0}; o[type] = (o[type] || 0) + pts; o.total += pts; };
-    R.events.filter(e => pred(e.ws)).forEach(e => Object.entries(e.per).forEach(([k, x]) => add(k, e.type, x.pts)));
-    Object.entries(R.donByWeek).forEach(([ws, per]) => { if (pred(+ws)) Object.entries(per).forEach(([k, x]) => add(k, "don", x.pts)); });
+    const out = {}, nb = newbieUntil();
+    const add = (k, type, pts, ws) => { if (nb[k] && ws < nb[k]) pts = 0; const o = out[k] = out[k] || {don: null, war: null, cwl: null, raid: null, total: 0}; o[type] = (o[type] || 0) + pts; o.total += pts; };
+    R.events.filter(e => pred(e.ws)).forEach(e => Object.entries(e.per).forEach(([k, x]) => add(k, e.type, x.pts, e.ws)));
+    Object.entries(R.donByWeek).forEach(([ws, per]) => { if (pred(+ws)) Object.entries(per).forEach(([k, x]) => add(k, "don", x.pts, +ws)); });
     return out;
   }
 
@@ -983,8 +986,10 @@ details.how b{color:var(--ink)}
   // заморозка: после смены звания игрока не трогаем 7 дней (meta/roles.changes пишет вечерний разбор)
   function frozenMap() {
     const out = {}, ch = meta.roles && meta.roles.changes; if (!ch) return out;
+    meta.roles.joined = meta.roles.joined || {};
     const t = todayStr();
     Object.entries(ch).forEach(([n, c]) => { if (c && c.until && c.until >= t) out[norm(n)] = {...c, name: n}; });
+    Object.entries(meta.roles.joined || {}).forEach(([n, c]) => { if (c && c.until && c.until >= t && !out[norm(n)]) out[norm(n)] = {...c, name: n, newbie: true}; });
     return out;
   }
   function autoComment(p) {
@@ -1024,7 +1029,7 @@ details.how b{color:var(--ink)}
   }
   const accOf = k => C.acc[k] ? C.acc[k].total : 0;
   const isFrozen = k => !!C.frozen[k];
-  const frozenTag = k => { const f = C.frozen[k]; return f ? h("span", {class: "ice", title: `${f.from} → ${f.to} ${ymdToDm(f.date)}`}, "не трогаем до " + ymdToDm(f.until)) : null; };
+  const frozenTag = k => { const f = C.frozen[k]; return f ? h("span", {class: "ice" + (f.newbie ? " newb" : ""), title: f.newbie ? "в клане с " + ymdToDm(f.date) + ", рейтинг 0" : `${f.from} → ${f.to} ${ymdToDm(f.date)}`}, (f.newbie ? "новичок · " : "") + "не трогаем до " + ymdToDm(f.until)) : null; };
 
   // ---------- HOME ----------
   function attentionItems() {
@@ -1348,7 +1353,7 @@ details.how b{color:var(--ink)}
     if (p) { chips.push(rolePill(p.role), chip("Ратуша " + p.th), p.league ? h("span", {class: "lgchip", title: playerLeague(p.league).ru}, plIcon(p.league, true)) : null, ex.exp ? chip("ур. " + ex.exp) : null); }
     else chips.push(chip("не в клане сейчас", "warn"));
     const f = C.frozen[k];
-    if (f) chips.push(chip(`${f.from} → ${f.to} ${ymdToDm(f.date)}, не трогаем до ${ymdToDm(f.until)}`, "warn"));
+    if (f) chips.push(chip(f.newbie ? `новичок: в клане с ${ymdToDm(f.date)}, не трогаем до ${ymdToDm(f.until)}, рейтинг 0` : `${f.from} → ${f.to} ${ymdToDm(f.date)}, не трогаем до ${ymdToDm(f.until)}`, "warn"));
     const tagBtn = ex.tag ? h("button", {class: "chip", type: "button", title: "Скопировать тег", onclick: e => {
       const b = e.currentTarget; const done = () => { b.textContent = "Скопировано"; setTimeout(() => b.textContent = ex.tag, 1400); };
       try { navigator.clipboard.writeText(ex.tag).then(done, () => {}); } catch {} }}, ex.tag) : null;

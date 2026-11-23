@@ -132,6 +132,10 @@ def main() -> int:
         until = (now + timedelta(days=7)).strftime("%Y-%m-%d")
         for name, role in roles.items():
             old = base.get(name)
+            if not old and base:
+                # новичок: неделю не трогаем, рейтинг 0
+                meta.setdefault("joined", {})[name] = {"date": today, "until": until}
+                meta.get("left", {}).pop(name, None)
             if old and old != role:
                 changes[name] = {"from": old, "to": role, "date": today, "until": until}
             base[name] = role
