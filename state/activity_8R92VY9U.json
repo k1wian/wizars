@@ -235,12 +235,12 @@
    "values": {
     "donations": 597,
     "donationsReceived": 2026,
-    "trophies": 12,
+    "trophies": 24,
     "builderBaseTrophies": 2783,
     "expLevel": 167
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T23:02:22.887226+00:00"
+   "last_change": "2026-11-23T23:04:26.853190+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -901,12 +901,12 @@
    "values": {
     "donations": 0,
     "donationsReceived": 0,
-    "trophies": 0,
+    "trophies": 27,
     "builderBaseTrophies": 3161,
     "expLevel": 189
    },
    "first_seen": "2026-11-21T06:49:43.177364+00:00",
-   "last_change": "2026-11-21T06:49:43.177364+00:00"
+   "last_change": "2026-11-23T23:04:26.853190+00:00"
   },
   "#GL09GCYR2": {
    "name": "Евгеша",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T23:02:23.075354+00:00"
+ "updated": "2026-11-23T23:04:27.085875+00:00"
 }
