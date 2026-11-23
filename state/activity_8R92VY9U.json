@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 2837,
-    "donationsReceived": 6921,
+    "donationsReceived": 6953,
     "trophies": 113,
     "builderBaseTrophies": 3571,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T21:02:12.848131+00:00"
+   "last_change": "2026-11-23T21:08:28.403402+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -258,14 +258,14 @@
   "#YC9CG9C9G": {
    "name": "k1wian",
    "values": {
-    "donations": 2589,
+    "donations": 2621,
     "donationsReceived": 206,
     "trophies": 0,
     "builderBaseTrophies": 2952,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T10:15:03.046901+00:00"
+   "last_change": "2026-11-23T21:08:28.403402+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T21:06:24.486137+00:00"
+ "updated": "2026-11-23T21:08:28.605786+00:00"
 }
