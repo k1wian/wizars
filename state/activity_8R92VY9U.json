@@ -188,11 +188,11 @@
     "donations": 419,
     "donationsReceived": 0,
     "trophies": 0,
-    "builderBaseTrophies": 3453,
+    "builderBaseTrophies": 3519,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-23T14:39:35.209185+00:00"
   },
   "#GLYP9PJJ9": {
    "name": "GAS",
@@ -310,11 +310,11 @@
     "donations": 2952,
     "donationsReceived": 4348,
     "trophies": 0,
-    "builderBaseTrophies": 3468,
+    "builderBaseTrophies": 3493,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T09:42:58.869460+00:00"
+   "last_change": "2026-11-23T14:39:35.209185+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -610,10 +610,10 @@
     "donationsReceived": 474,
     "trophies": 0,
     "builderBaseTrophies": 3831,
-    "expLevel": 192
+    "expLevel": 193
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-23T14:39:35.209185+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T13:34:44.542019+00:00"
+ "updated": "2026-11-23T14:39:35.455186+00:00"
 }
