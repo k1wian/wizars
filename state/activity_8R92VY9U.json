@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 3535,
+    "donations": 3550,
     "donationsReceived": 643,
     "trophies": 0,
     "builderBaseTrophies": 3393,
     "expLevel": 237
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T06:12:37.946211+00:00"
+   "last_change": "2026-11-23T10:56:54.496278+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 2822,
-    "donationsReceived": 6817,
+    "donationsReceived": 6832,
     "trophies": 0,
     "builderBaseTrophies": 3546,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T10:37:42.743772+00:00"
+   "last_change": "2026-11-23T10:56:54.496278+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T10:50:24.812964+00:00"
+ "updated": "2026-11-23T10:56:54.668730+00:00"
 }
