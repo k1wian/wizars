@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 3450,
+    "donations": 3535,
     "donationsReceived": 643,
     "trophies": 0,
     "builderBaseTrophies": 3393,
     "expLevel": 237
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-23T06:12:37.946211+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 2757,
-    "donationsReceived": 6660,
+    "donationsReceived": 6715,
     "trophies": 0,
     "builderBaseTrophies": 3624,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-23T06:12:37.946211+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -555,13 +555,13 @@
    "name": "*Kurama*",
    "values": {
     "donations": 59,
-    "donationsReceived": 589,
+    "donationsReceived": 619,
     "trophies": 0,
     "builderBaseTrophies": 2467,
     "expLevel": 144
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T06:10:32.756917+00:00"
+   "last_change": "2026-11-23T06:12:37.946211+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -1045,5 +1045,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T06:10:32.938673+00:00"
+ "updated": "2026-11-23T06:12:38.362434+00:00"
 }
