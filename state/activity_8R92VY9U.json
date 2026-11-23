@@ -876,12 +876,12 @@
    "values": {
     "donations": 45,
     "donationsReceived": 0,
-    "trophies": 0,
+    "trophies": 12,
     "builderBaseTrophies": 3613,
     "expLevel": 207
    },
    "first_seen": "2026-11-20T17:28:16.704444+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-23T19:57:08.343665+00:00"
   },
   "#CRRGJGUG": {
    "name": "AHMAD",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T19:55:04.564136+00:00"
+ "updated": "2026-11-23T19:57:08.753511+00:00"
 }
