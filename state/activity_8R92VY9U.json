@@ -77,14 +77,14 @@
   "#LLUUPVJQ9": {
    "name": "Ukrop",
    "values": {
-    "donations": 2726,
+    "donations": 2809,
     "donationsReceived": 3047,
     "trophies": 0,
     "builderBaseTrophies": 3111,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-23T23:08:51.766284+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -138,13 +138,13 @@
    "name": "GANNIK",
    "values": {
     "donations": 2996,
-    "donationsReceived": 789,
+    "donationsReceived": 819,
     "trophies": 12,
     "builderBaseTrophies": 3217,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T22:04:29.041562+00:00"
+   "last_change": "2026-11-23T23:08:51.766284+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -234,13 +234,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 597,
-    "donationsReceived": 2026,
+    "donationsReceived": 2079,
     "trophies": 37,
     "builderBaseTrophies": 2783,
     "expLevel": 167
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T23:06:48.164657+00:00"
+   "last_change": "2026-11-23T23:08:51.766284+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T23:06:48.449215+00:00"
+ "updated": "2026-11-23T23:08:51.989250+00:00"
 }
