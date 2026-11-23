@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 2837,
-    "donationsReceived": 6953,
+    "donationsReceived": 6993,
     "trophies": 113,
     "builderBaseTrophies": 3571,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T21:08:28.403402+00:00"
+   "last_change": "2026-11-23T21:47:42.811700+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -430,14 +430,14 @@
   "#QG0PCCPJ": {
    "name": "данил",
    "values": {
-    "donations": 1068,
+    "donations": 1108,
     "donationsReceived": 0,
-    "trophies": 12,
+    "trophies": 172,
     "builderBaseTrophies": 3209,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T19:36:17.197306+00:00"
+   "last_change": "2026-11-23T21:47:42.811700+00:00"
   },
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T21:12:37.229759+00:00"
+ "updated": "2026-11-23T21:47:43.045246+00:00"
 }
