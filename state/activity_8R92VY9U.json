@@ -307,14 +307,14 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 2899,
+    "donations": 2952,
     "donationsReceived": 4298,
     "trophies": 0,
     "builderBaseTrophies": 3392,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T04:45:25.663635+00:00"
+   "last_change": "2026-11-23T06:10:32.756917+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -555,13 +555,13 @@
    "name": "*Kurama*",
    "values": {
     "donations": 59,
-    "donationsReceived": 536,
+    "donationsReceived": 589,
     "trophies": 0,
     "builderBaseTrophies": 2467,
     "expLevel": 144
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-23T06:10:32.756917+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -1045,5 +1045,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-23T06:08:28.468811+00:00"
+ "updated": "2026-11-23T06:10:32.938673+00:00"
 }
