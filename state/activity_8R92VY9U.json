@@ -913,12 +913,12 @@
    "values": {
     "donations": 57,
     "donationsReceived": 83,
-    "trophies": 85,
+    "trophies": 110,
     "builderBaseTrophies": 2677,
     "expLevel": 140
    },
    "first_seen": "2026-11-21T15:13:04.153410+00:00",
-   "last_change": "2026-11-24T17:50:37.376946+00:00"
+   "last_change": "2026-11-24T18:22:42.532182+00:00"
   },
   "#92P802CUP": {
    "name": "GANGSTE",
@@ -1059,5 +1059,5 @@
    "last_change": "2026-11-24T17:25:48.205945+00:00"
   }
  },
- "updated": "2026-11-24T18:20:39.338122+00:00"
+ "updated": "2026-11-24T18:22:42.772373+00:00"
 }
