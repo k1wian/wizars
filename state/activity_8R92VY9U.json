@@ -79,12 +79,12 @@
    "values": {
     "donations": 2809,
     "donationsReceived": 3047,
-    "trophies": 11,
+    "trophies": 91,
     "builderBaseTrophies": 3111,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T00:57:56.675219+00:00"
+   "last_change": "2026-11-24T10:02:33.424067+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -127,12 +127,12 @@
    "values": {
     "donations": 2097,
     "donationsReceived": 1723,
-    "trophies": 264,
+    "trophies": 291,
     "builderBaseTrophies": 3359,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T08:42:46.292210+00:00"
+   "last_change": "2026-11-24T10:02:33.424067+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -260,12 +260,12 @@
    "values": {
     "donations": 2621,
     "donationsReceived": 206,
-    "trophies": 0,
+    "trophies": 13,
     "builderBaseTrophies": 2952,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T21:08:28.403402+00:00"
+   "last_change": "2026-11-24T10:02:33.424067+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -310,11 +310,11 @@
     "donations": 2952,
     "donationsReceived": 4448,
     "trophies": 0,
-    "builderBaseTrophies": 3493,
+    "builderBaseTrophies": 3518,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T04:52:26.010543+00:00"
+   "last_change": "2026-11-24T10:02:33.424067+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -1059,5 +1059,5 @@
    "last_change": "2026-11-24T08:44:52.036076+00:00"
   }
  },
- "updated": "2026-11-24T09:09:37.397939+00:00"
+ "updated": "2026-11-24T10:02:33.595047+00:00"
 }
