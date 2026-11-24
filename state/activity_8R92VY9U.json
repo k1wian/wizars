@@ -28,14 +28,14 @@
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 1942,
+    "donations": 2028,
     "donationsReceived": 978,
     "trophies": 26,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T02:16:46.764074+00:00"
+   "last_change": "2026-11-24T08:44:52.036076+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 2837,
-    "donationsReceived": 7034,
+    "donationsReceived": 7066,
     "trophies": 113,
     "builderBaseTrophies": 3571,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T06:09:12.187317+00:00"
+   "last_change": "2026-11-24T08:44:52.036076+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -1050,14 +1050,14 @@
    "name": "Derb",
    "values": {
     "donations": 40,
-    "donationsReceived": 31,
+    "donationsReceived": 85,
     "trophies": 0,
     "builderBaseTrophies": 3370,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-24T08:42:46.292210+00:00"
+   "last_change": "2026-11-24T08:44:52.036076+00:00"
   }
  },
- "updated": "2026-11-24T08:42:46.390868+00:00"
+ "updated": "2026-11-24T08:44:52.151150+00:00"
 }
