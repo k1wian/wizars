@@ -173,14 +173,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 2464,
+    "donations": 2512,
     "donationsReceived": 2779,
     "trophies": 53,
     "builderBaseTrophies": 3792,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T15:07:08.870063+00:00"
+   "last_change": "2026-11-24T15:09:12.641271+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -283,13 +283,13 @@
    "name": "чвв",
    "values": {
     "donations": 1237,
-    "donationsReceived": 1556,
-    "trophies": 226,
+    "donationsReceived": 1607,
+    "trophies": 248,
     "builderBaseTrophies": 2972,
     "expLevel": 141
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T15:07:08.870063+00:00"
+   "last_change": "2026-11-24T15:09:12.641271+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -631,14 +631,14 @@
   "#G2UPLL0L8": {
    "name": "Lord",
    "values": {
-    "donations": 81,
+    "donations": 84,
     "donationsReceived": 83,
-    "trophies": 111,
+    "trophies": 151,
     "builderBaseTrophies": 2795,
     "expLevel": 136
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-24T15:07:08.870063+00:00"
+   "last_change": "2026-11-24T15:09:12.641271+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -1059,5 +1059,5 @@
    "last_change": "2026-11-24T13:51:04.200686+00:00"
   }
  },
- "updated": "2026-11-24T15:07:09.115749+00:00"
+ "updated": "2026-11-24T15:09:12.904346+00:00"
 }
