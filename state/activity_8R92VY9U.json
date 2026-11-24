@@ -695,14 +695,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 2233,
+    "donations": 2286,
     "donationsReceived": 1855,
     "trophies": 0,
     "builderBaseTrophies": 2758,
     "expLevel": 151
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-24T12:28:19.995088+00:00"
+   "last_change": "2026-11-24T13:59:23.432217+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -825,13 +825,13 @@
    "name": "キツネanime",
    "values": {
     "donations": 241,
-    "donationsReceived": 0,
+    "donationsReceived": 53,
     "trophies": 14,
     "builderBaseTrophies": 2338,
     "expLevel": 151
    },
    "first_seen": "2026-11-17T19:58:40.786963+00:00",
-   "last_change": "2026-11-24T07:10:28.016077+00:00"
+   "last_change": "2026-11-24T13:59:23.432217+00:00"
   },
   "#QGUJJGJGG": {
    "name": "Doshi",
@@ -1059,5 +1059,5 @@
    "last_change": "2026-11-24T13:51:04.200686+00:00"
   }
  },
- "updated": "2026-11-24T13:57:19.236169+00:00"
+ "updated": "2026-11-24T13:59:23.645132+00:00"
 }
