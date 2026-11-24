@@ -161,14 +161,14 @@
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
    "values": {
-    "donations": 982,
+    "donations": 1032,
     "donationsReceived": 0,
-    "trophies": 211,
+    "trophies": 309,
     "builderBaseTrophies": 3483,
     "expLevel": 209
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T11:22:17.400522+00:00"
+   "last_change": "2026-11-24T16:00:51.481003+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 2931,
-    "donationsReceived": 7122,
-    "trophies": 113,
-    "builderBaseTrophies": 3571,
-    "expLevel": 181
+    "donationsReceived": 7154,
+    "trophies": 170,
+    "builderBaseTrophies": 3596,
+    "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T15:19:31.206757+00:00"
+   "last_change": "2026-11-24T16:00:51.481003+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -282,14 +282,14 @@
   "#QUPVR0CU2": {
    "name": "чвв",
    "values": {
-    "donations": 1237,
+    "donations": 1239,
     "donationsReceived": 1722,
-    "trophies": 315,
+    "trophies": 356,
     "builderBaseTrophies": 2972,
     "expLevel": 141
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T15:19:31.206757+00:00"
+   "last_change": "2026-11-24T16:00:51.481003+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -307,14 +307,14 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 2952,
-    "donationsReceived": 4448,
+    "donations": 2982,
+    "donationsReceived": 4498,
     "trophies": 0,
     "builderBaseTrophies": 3518,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T10:02:33.424067+00:00"
+   "last_change": "2026-11-24T16:00:51.481003+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -1059,5 +1059,5 @@
    "last_change": "2026-11-24T13:51:04.200686+00:00"
   }
  },
- "updated": "2026-11-24T15:19:31.386067+00:00"
+ "updated": "2026-11-24T16:00:51.693924+00:00"
 }
