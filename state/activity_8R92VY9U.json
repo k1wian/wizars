@@ -126,13 +126,13 @@
    "name": "Димаш",
    "values": {
     "donations": 2097,
-    "donationsReceived": 1724,
+    "donationsReceived": 1746,
     "trophies": 291,
     "builderBaseTrophies": 3359,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T10:10:52.795827+00:00"
+   "last_change": "2026-11-24T11:22:17.400522+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -161,14 +161,14 @@
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
    "values": {
-    "donations": 960,
+    "donations": 982,
     "donationsReceived": 0,
     "trophies": 211,
     "builderBaseTrophies": 3483,
     "expLevel": 209
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T08:42:46.292210+00:00"
+   "last_change": "2026-11-24T11:22:17.400522+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -1059,5 +1059,5 @@
    "last_change": "2026-11-24T08:44:52.036076+00:00"
   }
  },
- "updated": "2026-11-24T10:27:35.351637+00:00"
+ "updated": "2026-11-24T11:22:18.038566+00:00"
 }
