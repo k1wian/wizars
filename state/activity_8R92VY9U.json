@@ -114,13 +114,13 @@
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 2685,
-    "donationsReceived": 5223,
+    "donationsReceived": 5271,
     "trophies": 0,
     "builderBaseTrophies": 3479,
     "expLevel": 216
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-24T04:35:47.857301+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -161,14 +161,14 @@
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
    "values": {
-    "donations": 862,
+    "donations": 910,
     "donationsReceived": 0,
     "trophies": 0,
     "builderBaseTrophies": 3483,
     "expLevel": 209
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-24T04:35:47.857301+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -633,12 +633,12 @@
    "values": {
     "donations": 81,
     "donationsReceived": 83,
-    "trophies": 0,
+    "trophies": 40,
     "builderBaseTrophies": 2795,
     "expLevel": 136
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-23T17:02:25.843340+00:00"
+   "last_change": "2026-11-24T04:35:47.857301+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-24T03:50:45.623758+00:00"
+ "updated": "2026-11-24T04:35:48.249143+00:00"
 }
