@@ -55,12 +55,12 @@
    "values": {
     "donations": 3739,
     "donationsReceived": 643,
-    "trophies": 401,
+    "trophies": 414,
     "builderBaseTrophies": 3393,
     "expLevel": 237
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T20:49:27.107115+00:00"
+   "last_change": "2026-11-24T21:52:40.038774+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -233,14 +233,14 @@
   "#GPLGJCLJV": {
    "name": "Lazari95",
    "values": {
-    "donations": 597,
+    "donations": 605,
     "donationsReceived": 2089,
     "trophies": 37,
     "builderBaseTrophies": 2783,
     "expLevel": 167
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T05:56:22.527409+00:00"
+   "last_change": "2026-11-24T21:52:40.038774+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -260,12 +260,12 @@
    "values": {
     "donations": 2621,
     "donationsReceived": 206,
-    "trophies": 40,
+    "trophies": 109,
     "builderBaseTrophies": 2952,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T17:25:48.205945+00:00"
+   "last_change": "2026-11-24T21:52:40.038774+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -432,12 +432,12 @@
    "values": {
     "donations": 1148,
     "donationsReceived": 0,
-    "trophies": 455,
+    "trophies": 485,
     "builderBaseTrophies": 3209,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T09:03:27.034840+00:00"
+   "last_change": "2026-11-24T21:52:40.038774+00:00"
   },
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
@@ -837,13 +837,13 @@
    "name": "Doshi",
    "values": {
     "donations": 545,
-    "donationsReceived": 113,
+    "donationsReceived": 121,
     "trophies": 45,
     "builderBaseTrophies": 4443,
     "expLevel": 189
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-24T14:01:27.114786+00:00"
+   "last_change": "2026-11-24T21:52:40.038774+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -1049,15 +1049,15 @@
   "#LGRGJYRVR": {
    "name": "Derb",
    "values": {
-    "donations": 40,
-    "donationsReceived": 176,
-    "trophies": 47,
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 87,
     "builderBaseTrophies": 3370,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-24T17:25:48.205945+00:00"
+   "last_change": "2026-11-24T21:52:40.038774+00:00"
   }
  },
- "updated": "2026-11-24T21:16:23.306729+00:00"
+ "updated": "2026-11-24T21:52:40.239695+00:00"
 }
