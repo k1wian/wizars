@@ -79,12 +79,12 @@
    "values": {
     "donations": 2845,
     "donationsReceived": 3047,
-    "trophies": 91,
+    "trophies": 113,
     "builderBaseTrophies": 3111,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T12:28:19.995088+00:00"
+   "last_change": "2026-11-24T14:54:33.534821+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -418,14 +418,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 5812,
+    "donations": 5895,
     "donationsReceived": 13258,
     "trophies": 20,
     "builderBaseTrophies": 3233,
     "expLevel": 200
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T08:42:46.292210+00:00"
+   "last_change": "2026-11-24T14:54:33.534821+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -556,13 +556,13 @@
    "name": "*Kurama*",
    "values": {
     "donations": 109,
-    "donationsReceived": 619,
-    "trophies": 98,
+    "donationsReceived": 702,
+    "trophies": 178,
     "builderBaseTrophies": 2467,
     "expLevel": 144
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T08:42:46.292210+00:00"
+   "last_change": "2026-11-24T14:54:33.534821+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -1059,5 +1059,5 @@
    "last_change": "2026-11-24T13:51:04.200686+00:00"
   }
  },
- "updated": "2026-11-24T14:16:01.994707+00:00"
+ "updated": "2026-11-24T14:54:34.380999+00:00"
 }
