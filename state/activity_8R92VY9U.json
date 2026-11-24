@@ -18,12 +18,12 @@
    "values": {
     "donations": 313,
     "donationsReceived": 549,
-    "trophies": 69,
+    "trophies": 96,
     "builderBaseTrophies": 4315,
     "expLevel": 250
    },
    "first_seen": "2026-11-21T11:00:32.502944+00:00",
-   "last_change": "2026-11-24T13:51:04.200686+00:00"
+   "last_change": "2026-11-24T17:25:48.205945+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -175,36 +175,36 @@
    "values": {
     "donations": 2512,
     "donationsReceived": 2814,
-    "trophies": 53,
+    "trophies": 62,
     "builderBaseTrophies": 3792,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T15:15:23.662291+00:00"
+   "last_change": "2026-11-24T17:25:48.205945+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
    "values": {
-    "donations": 419,
+    "donations": 469,
     "donationsReceived": 0,
     "trophies": 38,
     "builderBaseTrophies": 3519,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T13:51:04.200686+00:00"
+   "last_change": "2026-11-24T17:25:48.205945+00:00"
   },
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
     "donations": 2931,
-    "donationsReceived": 7154,
-    "trophies": 170,
+    "donationsReceived": 7194,
+    "trophies": 184,
     "builderBaseTrophies": 3596,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T16:00:51.481003+00:00"
+   "last_change": "2026-11-24T17:25:48.205945+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -221,14 +221,14 @@
   "#GJLUCQ2CC": {
    "name": "mikki",
    "values": {
-    "donations": 990,
-    "donationsReceived": 3844,
+    "donations": 1030,
+    "donationsReceived": 3894,
     "trophies": 46,
     "builderBaseTrophies": 3340,
     "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T13:51:04.200686+00:00"
+   "last_change": "2026-11-24T17:25:48.205945+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -260,12 +260,12 @@
    "values": {
     "donations": 2621,
     "donationsReceived": 206,
-    "trophies": 13,
+    "trophies": 40,
     "builderBaseTrophies": 2952,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T10:02:33.424067+00:00"
+   "last_change": "2026-11-24T17:25:48.205945+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -1051,13 +1051,13 @@
    "values": {
     "donations": 40,
     "donationsReceived": 176,
-    "trophies": 33,
+    "trophies": 47,
     "builderBaseTrophies": 3370,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-24T13:51:04.200686+00:00"
+   "last_change": "2026-11-24T17:25:48.205945+00:00"
   }
  },
- "updated": "2026-11-24T16:27:44.283610+00:00"
+ "updated": "2026-11-24T17:25:48.416989+00:00"
 }
