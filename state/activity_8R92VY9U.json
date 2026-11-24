@@ -321,12 +321,12 @@
    "values": {
     "donations": 113,
     "donationsReceived": 459,
-    "trophies": 0,
+    "trophies": 40,
     "builderBaseTrophies": 2867,
     "expLevel": 172
    },
    "first_seen": "2026-11-17T10:59:19.048517+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-24T05:58:43.284713+00:00"
   },
   "#2CY9LV9CQ": {
    "name": "Antony",
@@ -1045,7 +1045,19 @@
    "first_seen": "2026-11-23T02:33:37.930454+00:00",
    "last_change": "2026-11-23T02:33:37.930454+00:00",
    "left_at": "2026-11-23T02:35:41.762900+00:00"
+  },
+  "#LGRGJYRVR": {
+   "name": "Derb",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 0,
+    "builderBaseTrophies": 3370,
+    "expLevel": 206
+   },
+   "first_seen": "2026-11-24T05:58:43.284713+00:00",
+   "last_change": "2026-11-24T05:58:43.284713+00:00"
   }
  },
- "updated": "2026-11-24T05:56:22.955135+00:00"
+ "updated": "2026-11-24T05:58:43.428227+00:00"
 }
