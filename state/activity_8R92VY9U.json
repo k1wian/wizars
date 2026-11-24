@@ -68,11 +68,11 @@
     "donations": 838,
     "donationsReceived": 0,
     "trophies": 0,
-    "builderBaseTrophies": 3003,
-    "expLevel": 173
+    "builderBaseTrophies": 3056,
+    "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T06:00:06.290952+00:00"
+   "last_change": "2026-11-24T07:10:28.016077+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -127,12 +127,12 @@
    "values": {
     "donations": 2097,
     "donationsReceived": 1722,
-    "trophies": 80,
+    "trophies": 103,
     "builderBaseTrophies": 3359,
     "expLevel": 204
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T19:32:08.484360+00:00"
+   "last_change": "2026-11-24T07:10:28.016077+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -827,11 +827,11 @@
     "donations": 241,
     "donationsReceived": 0,
     "trophies": 14,
-    "builderBaseTrophies": 2409,
+    "builderBaseTrophies": 2338,
     "expLevel": 151
    },
    "first_seen": "2026-11-17T19:58:40.786963+00:00",
-   "last_change": "2026-11-24T06:13:19.114360+00:00"
+   "last_change": "2026-11-24T07:10:28.016077+00:00"
   },
   "#QGUJJGJGG": {
    "name": "Doshi",
@@ -1059,5 +1059,5 @@
    "last_change": "2026-11-24T06:13:19.114360+00:00"
   }
  },
- "updated": "2026-11-24T06:21:36.634426+00:00"
+ "updated": "2026-11-24T07:10:28.160731+00:00"
 }
