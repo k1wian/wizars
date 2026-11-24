@@ -174,13 +174,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2512,
-    "donationsReceived": 2779,
+    "donationsReceived": 2811,
     "trophies": 53,
     "builderBaseTrophies": 3792,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T15:09:12.641271+00:00"
+   "last_change": "2026-11-24T15:11:16.388135+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -197,14 +197,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 2837,
+    "donations": 2901,
     "donationsReceived": 7122,
     "trophies": 113,
     "builderBaseTrophies": 3571,
     "expLevel": 181
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T13:51:04.200686+00:00"
+   "last_change": "2026-11-24T15:11:16.388135+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -283,13 +283,13 @@
    "name": "чвв",
    "values": {
     "donations": 1237,
-    "donationsReceived": 1607,
+    "donationsReceived": 1639,
     "trophies": 248,
     "builderBaseTrophies": 2972,
     "expLevel": 141
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T15:09:12.641271+00:00"
+   "last_change": "2026-11-24T15:11:16.388135+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -382,12 +382,12 @@
    "values": {
     "donations": 750,
     "donationsReceived": 383,
-    "trophies": 0,
+    "trophies": 14,
     "builderBaseTrophies": 3003,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T19:32:08.484360+00:00"
+   "last_change": "2026-11-24T15:11:16.388135+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -633,12 +633,12 @@
    "values": {
     "donations": 84,
     "donationsReceived": 83,
-    "trophies": 151,
+    "trophies": 191,
     "builderBaseTrophies": 2795,
     "expLevel": 136
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-24T15:09:12.641271+00:00"
+   "last_change": "2026-11-24T15:11:16.388135+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -1059,5 +1059,5 @@
    "last_change": "2026-11-24T13:51:04.200686+00:00"
   }
  },
- "updated": "2026-11-24T15:09:12.904346+00:00"
+ "updated": "2026-11-24T15:11:16.600095+00:00"
 }
