@@ -161,14 +161,14 @@
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
    "values": {
-    "donations": 910,
+    "donations": 960,
     "donationsReceived": 0,
-    "trophies": 13,
+    "trophies": 38,
     "builderBaseTrophies": 3483,
     "expLevel": 209
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T04:54:31.687671+00:00"
+   "last_change": "2026-11-24T04:56:35.112531+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 990,
-    "donationsReceived": 3794,
+    "donationsReceived": 3844,
     "trophies": 0,
     "builderBaseTrophies": 3340,
     "expLevel": 176
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T04:52:26.010543+00:00"
+   "last_change": "2026-11-24T04:56:35.112531+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-24T04:54:31.849304+00:00"
+ "updated": "2026-11-24T04:56:35.748828+00:00"
 }
