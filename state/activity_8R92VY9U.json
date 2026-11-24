@@ -824,14 +824,14 @@
   "#L8CUYRQVY": {
    "name": "キツネanime",
    "values": {
-    "donations": 211,
+    "donations": 241,
     "donationsReceived": 0,
     "trophies": 14,
     "builderBaseTrophies": 2409,
     "expLevel": 151
    },
    "first_seen": "2026-11-17T19:58:40.786963+00:00",
-   "last_change": "2026-11-24T06:09:12.187317+00:00"
+   "last_change": "2026-11-24T06:13:19.114360+00:00"
   },
   "#QGUJJGJGG": {
    "name": "Doshi",
@@ -1050,14 +1050,14 @@
    "name": "Derb",
    "values": {
     "donations": 40,
-    "donationsReceived": 0,
+    "donationsReceived": 30,
     "trophies": 0,
     "builderBaseTrophies": 3370,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-24T06:09:12.187317+00:00"
+   "last_change": "2026-11-24T06:13:19.114360+00:00"
   }
  },
- "updated": "2026-11-24T06:11:16.183251+00:00"
+ "updated": "2026-11-24T06:13:19.751067+00:00"
 }
