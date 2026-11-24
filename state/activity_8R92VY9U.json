@@ -79,12 +79,12 @@
    "values": {
     "donations": 2809,
     "donationsReceived": 3047,
-    "trophies": 0,
+    "trophies": 11,
     "builderBaseTrophies": 3111,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T23:08:51.766284+00:00"
+   "last_change": "2026-11-24T00:57:56.675219+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -138,13 +138,13 @@
    "name": "GANNIK",
    "values": {
     "donations": 2996,
-    "donationsReceived": 819,
+    "donationsReceived": 874,
     "trophies": 12,
     "builderBaseTrophies": 3217,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T23:08:51.766284+00:00"
+   "last_change": "2026-11-24T00:57:56.675219+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -901,12 +901,12 @@
    "values": {
     "donations": 0,
     "donationsReceived": 0,
-    "trophies": 27,
+    "trophies": 44,
     "builderBaseTrophies": 3161,
     "expLevel": 189
    },
    "first_seen": "2026-11-21T06:49:43.177364+00:00",
-   "last_change": "2026-11-23T23:04:26.853190+00:00"
+   "last_change": "2026-11-24T00:57:56.675219+00:00"
   },
   "#GL09GCYR2": {
    "name": "Евгеша",
@@ -1047,5 +1047,5 @@
    "left_at": "2026-11-23T02:35:41.762900+00:00"
   }
  },
- "updated": "2026-11-24T00:11:14.847281+00:00"
+ "updated": "2026-11-24T00:57:56.854949+00:00"
 }
