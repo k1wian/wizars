@@ -1057,7 +1057,19 @@
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
    "last_change": "2026-11-24T21:52:40.038774+00:00"
+  },
+  "#G0V8LC8RC": {
+   "name": "QazaqKhan",
+   "values": {
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 9,
+    "builderBaseTrophies": 3939,
+    "expLevel": 185
+   },
+   "first_seen": "2026-11-25T02:44:32.769091+00:00",
+   "last_change": "2026-11-25T02:44:32.769091+00:00"
   }
  },
- "updated": "2026-11-25T02:42:30.260599+00:00"
+ "updated": "2026-11-25T02:44:32.877910+00:00"
 }
