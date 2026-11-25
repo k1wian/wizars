@@ -127,12 +127,12 @@
    "values": {
     "donations": 2167,
     "donationsReceived": 2076,
-    "trophies": 488,
+    "trophies": 504,
     "builderBaseTrophies": 3418,
     "expLevel": 205
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T14:41:32.735875+00:00"
+   "last_change": "2026-11-25T18:12:40.868459+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -697,12 +697,12 @@
    "values": {
     "donations": 2431,
     "donationsReceived": 1855,
-    "trophies": 22,
+    "trophies": 112,
     "builderBaseTrophies": 2758,
     "expLevel": 151
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-25T13:22:54.584447+00:00"
+   "last_change": "2026-11-25T18:12:40.868459+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -1071,5 +1071,5 @@
    "last_change": "2026-11-25T13:37:20.511561+00:00"
   }
  },
- "updated": "2026-11-25T17:30:50.135984+00:00"
+ "updated": "2026-11-25T18:12:41.030484+00:00"
 }
