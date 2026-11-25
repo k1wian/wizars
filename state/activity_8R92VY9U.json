@@ -126,13 +126,13 @@
    "name": "Димаш",
    "values": {
     "donations": 2167,
-    "donationsReceived": 1993,
+    "donationsReceived": 2076,
     "trophies": 488,
     "builderBaseTrophies": 3418,
     "expLevel": 205
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T11:56:38.557711+00:00"
+   "last_change": "2026-11-25T14:41:32.735875+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -161,14 +161,14 @@
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
    "values": {
-    "donations": 1032,
+    "donations": 1055,
     "donationsReceived": 0,
     "trophies": 425,
     "builderBaseTrophies": 3483,
     "expLevel": 209
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T10:58:35.168691+00:00"
+   "last_change": "2026-11-25T14:41:32.735875+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -260,12 +260,12 @@
    "values": {
     "donations": 2621,
     "donationsReceived": 206,
-    "trophies": 194,
+    "trophies": 206,
     "builderBaseTrophies": 2952,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T10:56:32.477131+00:00"
+   "last_change": "2026-11-25T14:41:32.735875+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -418,14 +418,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 6196,
+    "donations": 6256,
     "donationsReceived": 13258,
     "trophies": 34,
-    "builderBaseTrophies": 3239,
+    "builderBaseTrophies": 3275,
     "expLevel": 201
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T13:16:43.750964+00:00"
+   "last_change": "2026-11-25T14:41:32.735875+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -1071,5 +1071,5 @@
    "last_change": "2026-11-25T13:37:20.511561+00:00"
   }
  },
- "updated": "2026-11-25T13:43:31.514382+00:00"
+ "updated": "2026-11-25T14:41:32.881793+00:00"
 }
