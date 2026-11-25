@@ -18,12 +18,12 @@
    "values": {
     "donations": 314,
     "donationsReceived": 549,
-    "trophies": 96,
+    "trophies": 104,
     "builderBaseTrophies": 4315,
     "expLevel": 250
    },
    "first_seen": "2026-11-21T11:00:32.502944+00:00",
-   "last_change": "2026-11-24T20:49:27.107115+00:00"
+   "last_change": "2026-11-25T05:05:59.504066+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -101,14 +101,14 @@
   "#9PR09PCV": {
    "name": "шах",
    "values": {
-    "donations": 1125,
+    "donations": 1229,
     "donationsReceived": 57,
     "trophies": 0,
     "builderBaseTrophies": 3376,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-23T19:32:08.484360+00:00"
+   "last_change": "2026-11-25T05:05:59.504066+00:00"
   },
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
@@ -308,13 +308,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 2982,
-    "donationsReceived": 4498,
+    "donationsReceived": 4548,
     "trophies": 0,
     "builderBaseTrophies": 3518,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T16:00:51.481003+00:00"
+   "last_change": "2026-11-25T05:05:59.504066+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -1049,27 +1049,27 @@
   "#LGRGJYRVR": {
    "name": "Derb",
    "values": {
-    "donations": 0,
-    "donationsReceived": 0,
+    "donations": 3,
+    "donationsReceived": 54,
     "trophies": 87,
     "builderBaseTrophies": 3370,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-24T21:52:40.038774+00:00"
+   "last_change": "2026-11-25T05:05:59.504066+00:00"
   },
   "#G0V8LC8RC": {
    "name": "QazaqKhan",
    "values": {
     "donations": 50,
-    "donationsReceived": 41,
+    "donationsReceived": 44,
     "trophies": 9,
     "builderBaseTrophies": 3939,
     "expLevel": 185
    },
    "first_seen": "2026-11-25T02:44:32.769091+00:00",
-   "last_change": "2026-11-25T02:46:35.373054+00:00"
+   "last_change": "2026-11-25T05:05:59.504066+00:00"
   }
  },
- "updated": "2026-11-25T04:23:27.289185+00:00"
+ "updated": "2026-11-25T05:05:59.612048+00:00"
 }
