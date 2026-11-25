@@ -174,13 +174,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2544,
-    "donationsReceived": 2975,
+    "donationsReceived": 2978,
     "trophies": 157,
     "builderBaseTrophies": 3792,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T10:31:59.311821+00:00"
+   "last_change": "2026-11-25T10:54:29.862042+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -283,13 +283,13 @@
    "name": "чвв",
    "values": {
     "donations": 1361,
-    "donationsReceived": 1773,
+    "donationsReceived": 1775,
     "trophies": 356,
     "builderBaseTrophies": 2972,
     "expLevel": 141
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T10:31:59.311821+00:00"
+   "last_change": "2026-11-25T10:54:29.862042+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -307,14 +307,14 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 3055,
+    "donations": 3060,
     "donationsReceived": 4641,
     "trophies": 0,
     "builderBaseTrophies": 3518,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T10:34:02.124877+00:00"
+   "last_change": "2026-11-25T10:54:29.862042+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -1071,5 +1071,5 @@
    "last_change": "2026-11-25T06:24:55.905850+00:00"
   }
  },
- "updated": "2026-11-25T10:52:27.411809+00:00"
+ "updated": "2026-11-25T10:54:29.984734+00:00"
 }
