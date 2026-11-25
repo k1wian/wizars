@@ -310,11 +310,11 @@
     "donations": 3060,
     "donationsReceived": 4722,
     "trophies": 0,
-    "builderBaseTrophies": 3532,
+    "builderBaseTrophies": 3517,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T15:02:11.099272+00:00"
+   "last_change": "2026-11-25T15:04:14.658759+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -433,11 +433,11 @@
     "donations": 1238,
     "donationsReceived": 0,
     "trophies": 485,
-    "builderBaseTrophies": 3243,
+    "builderBaseTrophies": 3293,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T15:02:11.099272+00:00"
+   "last_change": "2026-11-25T15:04:14.658759+00:00"
   },
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
@@ -1071,5 +1071,5 @@
    "last_change": "2026-11-25T13:37:20.511561+00:00"
   }
  },
- "updated": "2026-11-25T15:02:11.249469+00:00"
+ "updated": "2026-11-25T15:04:14.803107+00:00"
 }
