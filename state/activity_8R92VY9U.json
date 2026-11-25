@@ -125,14 +125,14 @@
   "#Y929RQ0L2": {
    "name": "Димаш",
    "values": {
-    "donations": 2097,
+    "donations": 2104,
     "donationsReceived": 1806,
     "trophies": 373,
     "builderBaseTrophies": 3359,
     "expLevel": 205
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T22:53:11.313001+00:00"
+   "last_change": "2026-11-25T08:06:28.568671+00:00"
   },
   "#9VC8PYRLJ": {
    "name": "GANNIK",
@@ -837,13 +837,13 @@
    "name": "Doshi",
    "values": {
     "donations": 545,
-    "donationsReceived": 169,
+    "donationsReceived": 176,
     "trophies": 45,
     "builderBaseTrophies": 4444,
     "expLevel": 189
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-25T07:56:05.297926+00:00"
+   "last_change": "2026-11-25T08:06:28.568671+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -1071,5 +1071,5 @@
    "last_change": "2026-11-25T06:24:55.905850+00:00"
   }
  },
- "updated": "2026-11-25T08:04:25.488799+00:00"
+ "updated": "2026-11-25T08:06:28.725243+00:00"
 }
