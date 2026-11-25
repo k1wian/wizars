@@ -18,24 +18,24 @@
    "values": {
     "donations": 410,
     "donationsReceived": 549,
-    "trophies": 104,
+    "trophies": 116,
     "builderBaseTrophies": 4315,
     "expLevel": 250
    },
    "first_seen": "2026-11-21T11:00:32.502944+00:00",
-   "last_change": "2026-11-25T06:24:55.905850+00:00"
+   "last_change": "2026-11-25T19:27:43.119500+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 2028,
-    "donationsReceived": 1067,
+    "donations": 2085,
+    "donationsReceived": 1156,
     "trophies": 232,
     "builderBaseTrophies": 5077,
     "expLevel": 227
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T15:58:38.175985+00:00"
+   "last_change": "2026-11-25T19:27:43.119500+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 3854,
+    "donations": 3983,
     "donationsReceived": 687,
     "trophies": 427,
     "builderBaseTrophies": 3393,
     "expLevel": 237
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T18:18:49.448759+00:00"
+   "last_change": "2026-11-25T19:27:43.119500+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -223,12 +223,12 @@
    "values": {
     "donations": 1137,
     "donationsReceived": 4153,
-    "trophies": 128,
+    "trophies": 156,
     "builderBaseTrophies": 3340,
     "expLevel": 177
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T16:04:49.097170+00:00"
+   "last_change": "2026-11-25T19:27:43.119500+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -270,14 +270,14 @@
   "#GQP0CLC82": {
    "name": "Sənan",
    "values": {
-    "donations": 1373,
-    "donationsReceived": 4154,
+    "donations": 1423,
+    "donationsReceived": 4237,
     "trophies": 89,
     "builderBaseTrophies": 3340,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T15:58:38.175985+00:00"
+   "last_change": "2026-11-25T19:27:43.119500+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -308,13 +308,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 3060,
-    "donationsReceived": 4722,
+    "donationsReceived": 4772,
     "trophies": 0,
     "builderBaseTrophies": 3542,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T15:58:38.175985+00:00"
+   "last_change": "2026-11-25T19:27:43.119500+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -382,12 +382,12 @@
    "values": {
     "donations": 750,
     "donationsReceived": 383,
-    "trophies": 14,
+    "trophies": 41,
     "builderBaseTrophies": 3003,
-    "expLevel": 174
+    "expLevel": 175
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T15:11:16.388135+00:00"
+   "last_change": "2026-11-25T19:27:43.119500+00:00"
   },
   "#GQGUQJYJ2": {
    "name": "Pt.Sof…ck",
@@ -1062,14 +1062,14 @@
    "name": "QazaqKhan",
    "values": {
     "donations": 50,
-    "donationsReceived": 99,
+    "donationsReceived": 113,
     "trophies": 374,
     "builderBaseTrophies": 3939,
     "expLevel": 185
    },
    "first_seen": "2026-11-25T02:44:32.769091+00:00",
-   "last_change": "2026-11-25T13:37:20.511561+00:00"
+   "last_change": "2026-11-25T19:27:43.119500+00:00"
   }
  },
- "updated": "2026-11-25T18:39:15.995041+00:00"
+ "updated": "2026-11-25T19:27:43.315303+00:00"
 }
