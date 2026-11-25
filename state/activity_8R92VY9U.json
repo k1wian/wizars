@@ -101,14 +101,14 @@
   "#9PR09PCV": {
    "name": "шах",
    "values": {
-    "donations": 1229,
+    "donations": 1259,
     "donationsReceived": 57,
     "trophies": 0,
     "builderBaseTrophies": 3376,
     "expLevel": 221
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T05:05:59.504066+00:00"
+   "last_change": "2026-11-25T17:04:06.437261+00:00"
   },
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
@@ -139,12 +139,12 @@
    "values": {
     "donations": 3062,
     "donationsReceived": 874,
-    "trophies": 66,
+    "trophies": 433,
     "builderBaseTrophies": 3217,
     "expLevel": 190
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T10:31:59.311821+00:00"
+   "last_change": "2026-11-25T17:04:06.437261+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -198,13 +198,13 @@
    "name": "GAS",
    "values": {
     "donations": 3051,
-    "donationsReceived": 7425,
+    "donationsReceived": 7426,
     "trophies": 215,
     "builderBaseTrophies": 3630,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T15:58:38.175985+00:00"
+   "last_change": "2026-11-25T17:04:06.437261+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -836,14 +836,14 @@
   "#QGUJJGJGG": {
    "name": "Doshi",
    "values": {
-    "donations": 546,
+    "donations": 550,
     "donationsReceived": 183,
     "trophies": 67,
     "builderBaseTrophies": 4444,
     "expLevel": 189
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-25T13:16:43.750964+00:00"
+   "last_change": "2026-11-25T17:04:06.437261+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -1050,13 +1050,13 @@
    "name": "Derb",
    "values": {
     "donations": 3,
-    "donationsReceived": 173,
+    "donationsReceived": 206,
     "trophies": 140,
     "builderBaseTrophies": 3363,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-25T13:22:54.584447+00:00"
+   "last_change": "2026-11-25T17:04:06.437261+00:00"
   },
   "#G0V8LC8RC": {
    "name": "QazaqKhan",
@@ -1071,5 +1071,5 @@
    "last_change": "2026-11-25T13:37:20.511561+00:00"
   }
  },
- "updated": "2026-11-25T16:23:57.798231+00:00"
+ "updated": "2026-11-25T17:04:06.641469+00:00"
 }
