@@ -222,13 +222,13 @@
    "name": "mikki",
    "values": {
     "donations": 1137,
-    "donationsReceived": 4100,
+    "donationsReceived": 4153,
     "trophies": 128,
     "builderBaseTrophies": 3340,
     "expLevel": 177
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T15:58:38.175985+00:00"
+   "last_change": "2026-11-25T16:04:49.097170+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -555,14 +555,14 @@
   "#LYCPGUU2V": {
    "name": "*Kurama*",
    "values": {
-    "donations": 162,
+    "donations": 215,
     "donationsReceived": 702,
     "trophies": 231,
     "builderBaseTrophies": 2467,
     "expLevel": 144
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T15:58:38.175985+00:00"
+   "last_change": "2026-11-25T16:04:49.097170+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -1071,5 +1071,5 @@
    "last_change": "2026-11-25T13:37:20.511561+00:00"
   }
  },
- "updated": "2026-11-25T16:02:45.217035+00:00"
+ "updated": "2026-11-25T16:04:49.276023+00:00"
 }
