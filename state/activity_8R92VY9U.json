@@ -273,12 +273,12 @@
    "values": {
     "donations": 1423,
     "donationsReceived": 4317,
-    "trophies": 89,
+    "trophies": 97,
     "builderBaseTrophies": 3340,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T08:19:39.950125+00:00"
+   "last_change": "2026-11-26T21:01:08.037977+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-26T20:59:05.738281+00:00"
+ "updated": "2026-11-26T21:01:08.151949+00:00"
 }
