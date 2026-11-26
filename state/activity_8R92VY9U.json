@@ -558,12 +558,12 @@
    "values": {
     "donations": 215,
     "donationsReceived": 702,
-    "trophies": 287,
+    "trophies": 313,
     "builderBaseTrophies": 2467,
     "expLevel": 144
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T18:33:08.164955+00:00"
+   "last_change": "2026-11-26T21:11:20.591425+00:00"
   },
   "#R28URLR": {
    "name": "Legenda 97",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-26T21:09:18.275505+00:00"
+ "updated": "2026-11-26T21:11:20.698794+00:00"
 }
