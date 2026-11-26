@@ -77,14 +77,14 @@
   "#LLUUPVJQ9": {
    "name": "Ukrop",
    "values": {
-    "donations": 2993,
+    "donations": 3033,
     "donationsReceived": 3047,
-    "trophies": 250,
+    "trophies": 279,
     "builderBaseTrophies": 3111,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T07:55:03.523397+00:00"
+   "last_change": "2026-11-26T08:58:02.753613+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -96,7 +96,8 @@
     "expLevel": 184
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-22T08:53:39.856962+00:00"
+   "last_change": "2026-11-22T08:53:39.856962+00:00",
+   "left_at": "2026-11-26T08:58:02.753613+00:00"
   },
   "#9PR09PCV": {
    "name": "шах",
@@ -198,13 +199,13 @@
    "name": "GAS",
    "values": {
     "donations": 3121,
-    "donationsReceived": 7599,
-    "trophies": 238,
-    "builderBaseTrophies": 3630,
+    "donationsReceived": 7671,
+    "trophies": 252,
+    "builderBaseTrophies": 3706,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T08:19:39.950125+00:00"
+   "last_change": "2026-11-26T08:58:02.753613+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -1071,5 +1072,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-26T08:21:44.528102+00:00"
+ "updated": "2026-11-26T08:58:02.863164+00:00"
 }
