@@ -18,12 +18,12 @@
    "values": {
     "donations": 576,
     "donationsReceived": 549,
-    "trophies": 116,
+    "trophies": 135,
     "builderBaseTrophies": 4315,
     "expLevel": 250
    },
    "first_seen": "2026-11-21T11:00:32.502944+00:00",
-   "last_change": "2026-11-26T06:24:43.030697+00:00"
+   "last_change": "2026-11-26T15:31:20.657193+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -150,14 +150,14 @@
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 1795,
+    "donations": 1797,
     "donationsReceived": 1849,
     "trophies": 25,
     "builderBaseTrophies": 4409,
     "expLevel": 222
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T11:26:01.732177+00:00"
+   "last_change": "2026-11-26T15:31:20.657193+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -175,13 +175,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2544,
-    "donationsReceived": 3061,
-    "trophies": 157,
+    "donationsReceived": 3114,
+    "trophies": 197,
     "builderBaseTrophies": 3792,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T13:16:43.750964+00:00"
+   "last_change": "2026-11-26T15:31:20.657193+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -198,14 +198,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 3166,
-    "donationsReceived": 7727,
-    "trophies": 252,
+    "donations": 3216,
+    "donationsReceived": 7729,
+    "trophies": 280,
     "builderBaseTrophies": 3706,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T14:20:44.001635+00:00"
+   "last_change": "2026-11-26T15:31:20.657193+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -308,14 +308,14 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 3110,
-    "donationsReceived": 4822,
+    "donations": 3163,
+    "donationsReceived": 4872,
     "trophies": 0,
     "builderBaseTrophies": 3524,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T05:19:01.498293+00:00"
+   "last_change": "2026-11-26T15:31:20.657193+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -1072,5 +1072,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-26T14:45:24.892898+00:00"
+ "updated": "2026-11-26T15:31:20.802904+00:00"
 }
