@@ -53,14 +53,14 @@
   "#8YJL0V2U8": {
    "name": "***Люцифер***",
    "values": {
-    "donations": 4013,
+    "donations": 4028,
     "donationsReceived": 702,
     "trophies": 501,
     "builderBaseTrophies": 3393,
     "expLevel": 237
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T06:24:43.030697+00:00"
+   "last_change": "2026-11-26T11:26:01.732177+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -152,12 +152,12 @@
    "values": {
     "donations": 1795,
     "donationsReceived": 1849,
-    "trophies": 0,
+    "trophies": 25,
     "builderBaseTrophies": 4409,
     "expLevel": 222
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-24T20:53:33.359624+00:00"
+   "last_change": "2026-11-26T11:26:01.732177+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -199,13 +199,13 @@
    "name": "GAS",
    "values": {
     "donations": 3121,
-    "donationsReceived": 7671,
+    "donationsReceived": 7686,
     "trophies": 252,
     "builderBaseTrophies": 3706,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T08:58:02.753613+00:00"
+   "last_change": "2026-11-26T11:26:01.732177+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -1072,5 +1072,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-26T10:36:56.375704+00:00"
+ "updated": "2026-11-26T11:26:01.863238+00:00"
 }
