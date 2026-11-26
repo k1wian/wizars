@@ -199,12 +199,12 @@
    "values": {
     "donations": 3051,
     "donationsReceived": 7441,
-    "trophies": 215,
+    "trophies": 226,
     "builderBaseTrophies": 3630,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T18:18:49.448759+00:00"
+   "last_change": "2026-11-26T05:00:30.545465+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -310,11 +310,11 @@
     "donations": 3060,
     "donationsReceived": 4822,
     "trophies": 0,
-    "builderBaseTrophies": 3542,
+    "builderBaseTrophies": 3541,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T04:18:43.433993+00:00"
+   "last_change": "2026-11-26T05:00:30.545465+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -838,12 +838,12 @@
    "values": {
     "donations": 550,
     "donationsReceived": 231,
-    "trophies": 67,
+    "trophies": 82,
     "builderBaseTrophies": 4444,
     "expLevel": 189
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-25T19:29:46.212661+00:00"
+   "last_change": "2026-11-26T05:00:30.545465+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -876,12 +876,12 @@
    "values": {
     "donations": 45,
     "donationsReceived": 0,
-    "trophies": 81,
+    "trophies": 98,
     "builderBaseTrophies": 3613,
     "expLevel": 207
    },
    "first_seen": "2026-11-20T17:28:16.704444+00:00",
-   "last_change": "2026-11-25T08:20:49.315661+00:00"
+   "last_change": "2026-11-26T05:00:30.545465+00:00"
   },
   "#CRRGJGUG": {
    "name": "AHMAD",
@@ -1071,5 +1071,5 @@
    "last_change": "2026-11-26T03:54:02.086201+00:00"
   }
  },
- "updated": "2026-11-26T04:20:47.303200+00:00"
+ "updated": "2026-11-26T05:00:30.778094+00:00"
 }
