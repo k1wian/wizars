@@ -1049,27 +1049,27 @@
   "#LGRGJYRVR": {
    "name": "Derb",
    "values": {
-    "donations": 176,
+    "donations": 179,
     "donationsReceived": 348,
     "trophies": 166,
     "builderBaseTrophies": 3350,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-26T06:24:43.030697+00:00"
+   "last_change": "2026-11-26T08:03:15.704217+00:00"
   },
   "#G0V8LC8RC": {
    "name": "QazaqKhan",
    "values": {
     "donations": 50,
-    "donationsReceived": 184,
+    "donationsReceived": 187,
     "trophies": 427,
     "builderBaseTrophies": 3990,
     "expLevel": 185
    },
    "first_seen": "2026-11-25T02:44:32.769091+00:00",
-   "last_change": "2026-11-26T06:24:43.030697+00:00"
+   "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-26T08:01:12.916992+00:00"
+ "updated": "2026-11-26T08:03:15.844246+00:00"
 }
