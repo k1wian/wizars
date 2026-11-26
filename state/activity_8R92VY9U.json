@@ -827,12 +827,12 @@
    "values": {
     "donations": 282,
     "donationsReceived": 53,
-    "trophies": 125,
+    "trophies": 135,
     "builderBaseTrophies": 2415,
     "expLevel": 151
    },
    "first_seen": "2026-11-17T19:58:40.786963+00:00",
-   "last_change": "2026-11-26T06:24:43.030697+00:00"
+   "last_change": "2026-11-26T09:06:21.181093+00:00"
   },
   "#QGUJJGJGG": {
    "name": "Doshi",
@@ -1072,5 +1072,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-26T09:04:18.688854+00:00"
+ "updated": "2026-11-26T09:06:21.314381+00:00"
 }
