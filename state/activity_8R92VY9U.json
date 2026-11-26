@@ -67,24 +67,24 @@
    "values": {
     "donations": 878,
     "donationsReceived": 0,
-    "trophies": 28,
+    "trophies": 108,
     "builderBaseTrophies": 3056,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T15:56:09.813189+00:00"
+   "last_change": "2026-11-26T23:51:19.847793+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
    "values": {
     "donations": 3033,
     "donationsReceived": 3047,
-    "trophies": 279,
+    "trophies": 319,
     "builderBaseTrophies": 3111,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T08:58:02.753613+00:00"
+   "last_change": "2026-11-26T23:51:19.847793+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-26T23:19:02.692483+00:00"
+ "updated": "2026-11-26T23:51:19.956105+00:00"
 }
