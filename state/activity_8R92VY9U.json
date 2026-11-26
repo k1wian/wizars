@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 781,
+    "donations": 866,
     "donationsReceived": 549,
     "trophies": 147,
     "builderBaseTrophies": 4315,
     "expLevel": 250
    },
    "first_seen": "2026-11-21T11:00:32.502944+00:00",
-   "last_change": "2026-11-26T19:34:24.386798+00:00"
+   "last_change": "2026-11-26T19:46:45.093875+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -697,13 +697,13 @@
    "name": "rewero",
    "values": {
     "donations": 2594,
-    "donationsReceived": 1855,
-    "trophies": 122,
+    "donationsReceived": 1940,
+    "trophies": 162,
     "builderBaseTrophies": 2758,
     "expLevel": 152
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-26T17:01:25.030597+00:00"
+   "last_change": "2026-11-26T19:46:45.093875+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -1072,5 +1072,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-26T19:44:41.753697+00:00"
+ "updated": "2026-11-26T19:46:45.265017+00:00"
 }
