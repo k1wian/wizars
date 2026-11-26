@@ -162,14 +162,14 @@
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
    "values": {
-    "donations": 1055,
+    "donations": 1134,
     "donationsReceived": 0,
     "trophies": 452,
     "builderBaseTrophies": 3483,
     "expLevel": 209
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T15:58:38.175985+00:00"
+   "last_change": "2026-11-26T14:18:40.547122+00:00"
   },
   "#QP8LPLL80": {
    "name": "Лорд",
@@ -198,14 +198,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 3121,
-    "donationsReceived": 7686,
+    "donations": 3166,
+    "donationsReceived": 7726,
     "trophies": 252,
     "builderBaseTrophies": 3706,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T11:26:01.732177+00:00"
+   "last_change": "2026-11-26T14:18:40.547122+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -261,12 +261,12 @@
    "values": {
     "donations": 2631,
     "donationsReceived": 206,
-    "trophies": 317,
+    "trophies": 329,
     "builderBaseTrophies": 2952,
     "expLevel": 199
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T08:19:39.950125+00:00"
+   "last_change": "2026-11-26T14:18:40.547122+00:00"
   },
   "#GQP0CLC82": {
    "name": "Sənan",
@@ -419,26 +419,26 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 6328,
-    "donationsReceived": 13377,
+    "donations": 6369,
+    "donationsReceived": 13501,
     "trophies": 34,
     "builderBaseTrophies": 3275,
     "expLevel": 201
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T22:30:35.836205+00:00"
+   "last_change": "2026-11-26T14:18:40.547122+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
    "values": {
     "donations": 1292,
     "donationsReceived": 0,
-    "trophies": 493,
+    "trophies": 520,
     "builderBaseTrophies": 3293,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T06:24:43.030697+00:00"
+   "last_change": "2026-11-26T14:18:40.547122+00:00"
   },
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
@@ -840,11 +840,11 @@
     "donations": 550,
     "donationsReceived": 231,
     "trophies": 82,
-    "builderBaseTrophies": 4444,
+    "builderBaseTrophies": 4441,
     "expLevel": 189
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-26T05:00:30.545465+00:00"
+   "last_change": "2026-11-26T14:18:40.547122+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -915,11 +915,11 @@
     "donations": 57,
     "donationsReceived": 83,
     "trophies": 392,
-    "builderBaseTrophies": 2677,
+    "builderBaseTrophies": 2961,
     "expLevel": 141
    },
    "first_seen": "2026-11-21T15:13:04.153410+00:00",
-   "last_change": "2026-11-25T12:15:05.864966+00:00"
+   "last_change": "2026-11-26T14:18:40.547122+00:00"
   },
   "#92P802CUP": {
    "name": "GANGSTE",
@@ -1051,13 +1051,13 @@
    "name": "Derb",
    "values": {
     "donations": 179,
-    "donationsReceived": 402,
+    "donationsReceived": 403,
     "trophies": 206,
     "builderBaseTrophies": 3350,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-26T12:49:28.482759+00:00"
+   "last_change": "2026-11-26T14:18:40.547122+00:00"
   },
   "#G0V8LC8RC": {
    "name": "QazaqKhan",
@@ -1072,5 +1072,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-26T12:59:42.046605+00:00"
+ "updated": "2026-11-26T14:18:40.694576+00:00"
 }
