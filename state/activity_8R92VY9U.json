@@ -696,14 +696,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 2491,
+    "donations": 2545,
     "donationsReceived": 1855,
     "trophies": 122,
     "builderBaseTrophies": 2758,
     "expLevel": 151
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-25T22:28:32.283797+00:00"
+   "last_change": "2026-11-26T12:49:28.482759+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -1051,13 +1051,13 @@
    "name": "Derb",
    "values": {
     "donations": 179,
-    "donationsReceived": 348,
+    "donationsReceived": 402,
     "trophies": 206,
     "builderBaseTrophies": 3350,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-26T12:47:25.700480+00:00"
+   "last_change": "2026-11-26T12:49:28.482759+00:00"
   },
   "#G0V8LC8RC": {
    "name": "QazaqKhan",
@@ -1072,5 +1072,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-26T12:47:25.828998+00:00"
+ "updated": "2026-11-26T12:49:28.635561+00:00"
 }
