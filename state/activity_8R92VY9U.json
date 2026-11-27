@@ -28,14 +28,14 @@
   "#828Y2YJYJ": {
    "name": "B.O.T",
    "values": {
-    "donations": 2205,
+    "donations": 2249,
     "donationsReceived": 1156,
     "trophies": 258,
     "builderBaseTrophies": 5077,
     "expLevel": 228
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T21:50:24.385308+00:00"
+   "last_change": "2026-11-27T20:36:39.861465+00:00"
   },
   "#GU9LPJCP": {
    "name": "Pt.PeaceDallies",
@@ -54,13 +54,13 @@
    "name": "***Люцифер***",
    "values": {
     "donations": 4123,
-    "donationsReceived": 702,
+    "donationsReceived": 746,
     "trophies": 584,
     "builderBaseTrophies": 3393,
     "expLevel": 237
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T20:34:37.280324+00:00"
+   "last_change": "2026-11-27T20:36:39.861465+00:00"
   },
   "#G8RC08CGG": {
    "name": "Lancelot",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-27T20:34:37.424719+00:00"
+ "updated": "2026-11-27T20:36:39.978587+00:00"
 }
