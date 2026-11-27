@@ -16,14 +16,14 @@
   "#29JGGU8J2": {
    "name": "DiMoN",
    "values": {
-    "donations": 1372,
+    "donations": 1455,
     "donationsReceived": 549,
     "trophies": 160,
     "builderBaseTrophies": 4315,
     "expLevel": 250
    },
    "first_seen": "2026-11-21T11:00:32.502944+00:00",
-   "last_change": "2026-11-27T18:16:38.548434+00:00"
+   "last_change": "2026-11-27T18:28:58.122260+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -151,13 +151,13 @@
    "name": "пидос-барабос",
    "values": {
     "donations": 2115,
-    "donationsReceived": 1849,
+    "donationsReceived": 1932,
     "trophies": 268,
     "builderBaseTrophies": 4409,
     "expLevel": 222
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T18:20:44.949886+00:00"
+   "last_change": "2026-11-27T18:28:58.122260+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T17:26:18.596388+00:00"
   }
  },
- "updated": "2026-11-27T18:26:54.756502+00:00"
+ "updated": "2026-11-27T18:28:58.284606+00:00"
 }
