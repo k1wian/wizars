@@ -235,13 +235,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 605,
-    "donationsReceived": 2342,
-    "trophies": 78,
+    "donationsReceived": 2392,
+    "trophies": 97,
     "builderBaseTrophies": 2783,
     "expLevel": 167
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T01:07:07.312736+00:00"
+   "last_change": "2026-11-27T01:09:10.104151+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -696,14 +696,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 2806,
+    "donations": 2856,
     "donationsReceived": 2417,
     "trophies": 394,
     "builderBaseTrophies": 2758,
     "expLevel": 152
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-27T01:07:07.312736+00:00"
+   "last_change": "2026-11-27T01:09:10.104151+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-27T01:07:07.474411+00:00"
+ "updated": "2026-11-27T01:09:10.256613+00:00"
 }
