@@ -214,22 +214,22 @@
     "donationsReceived": 735,
     "trophies": 0,
     "builderBaseTrophies": 3602,
-    "expLevel": 182
+    "expLevel": 183
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-25T01:28:16.926339+00:00"
+   "last_change": "2026-11-27T20:46:52.483930+00:00"
   },
   "#GJLUCQ2CC": {
    "name": "mikki",
    "values": {
     "donations": 1261,
     "donationsReceived": 4614,
-    "trophies": 414,
+    "trophies": 444,
     "builderBaseTrophies": 3340,
     "expLevel": 177
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T20:44:50.043514+00:00"
+   "last_change": "2026-11-27T20:46:52.483930+00:00"
   },
   "#GPLGJCLJV": {
    "name": "Lazari95",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-27T20:44:50.158242+00:00"
+ "updated": "2026-11-27T20:46:52.597165+00:00"
 }
