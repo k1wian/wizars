@@ -311,11 +311,11 @@
     "donations": 3213,
     "donationsReceived": 5134,
     "trophies": 0,
-    "builderBaseTrophies": 3566,
+    "builderBaseTrophies": 3608,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T17:09:54.261939+00:00"
+   "last_change": "2026-11-27T17:11:57.130576+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -636,10 +636,10 @@
     "donationsReceived": 83,
     "trophies": 347,
     "builderBaseTrophies": 2795,
-    "expLevel": 136
+    "expLevel": 137
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-26T10:22:38.675451+00:00"
+   "last_change": "2026-11-27T17:11:57.130576+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T09:00:00.045278+00:00"
   }
  },
- "updated": "2026-11-27T17:09:54.416624+00:00"
+ "updated": "2026-11-27T17:11:57.278727+00:00"
 }
