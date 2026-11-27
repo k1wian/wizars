@@ -828,11 +828,11 @@
     "donations": 367,
     "donationsReceived": 53,
     "trophies": 221,
-    "builderBaseTrophies": 2403,
+    "builderBaseTrophies": 2421,
     "expLevel": 151
    },
    "first_seen": "2026-11-17T19:58:40.786963+00:00",
-   "last_change": "2026-11-27T12:39:44.325768+00:00"
+   "last_change": "2026-11-27T12:41:46.842617+00:00"
   },
   "#QGUJJGJGG": {
    "name": "Doshi",
@@ -1056,12 +1056,12 @@
    "values": {
     "donations": 224,
     "donationsReceived": 608,
-    "trophies": 370,
+    "trophies": 392,
     "builderBaseTrophies": 3351,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-27T12:39:44.325768+00:00"
+   "last_change": "2026-11-27T12:41:46.842617+00:00"
   },
   "#G0V8LC8RC": {
    "name": "QazaqKhan",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T09:00:00.045278+00:00"
   }
  },
- "updated": "2026-11-27T12:39:44.432942+00:00"
+ "updated": "2026-11-27T12:41:46.955281+00:00"
 }
