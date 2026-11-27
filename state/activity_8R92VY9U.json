@@ -150,14 +150,14 @@
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 2034,
+    "donations": 2115,
     "donationsReceived": 1849,
     "trophies": 268,
     "builderBaseTrophies": 4409,
     "expLevel": 222
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T18:16:38.548434+00:00"
+   "last_change": "2026-11-27T18:20:44.949886+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -272,13 +272,13 @@
    "name": "Sənan",
    "values": {
     "donations": 1457,
-    "donationsReceived": 4400,
+    "donationsReceived": 4481,
     "trophies": 151,
     "builderBaseTrophies": 3340,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T12:27:28.708400+00:00"
+   "last_change": "2026-11-27T18:20:44.949886+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T17:26:18.596388+00:00"
   }
  },
- "updated": "2026-11-27T18:18:41.924844+00:00"
+ "updated": "2026-11-27T18:20:45.121067+00:00"
 }
