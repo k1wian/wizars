@@ -825,26 +825,26 @@
   "#L8CUYRQVY": {
    "name": "キツネanime",
    "values": {
-    "donations": 282,
+    "donations": 365,
     "donationsReceived": 53,
-    "trophies": 135,
+    "trophies": 205,
     "builderBaseTrophies": 2415,
     "expLevel": 151
    },
    "first_seen": "2026-11-17T19:58:40.786963+00:00",
-   "last_change": "2026-11-26T09:06:21.181093+00:00"
+   "last_change": "2026-11-27T10:09:03.095085+00:00"
   },
   "#QGUJJGJGG": {
    "name": "Doshi",
    "values": {
     "donations": 568,
     "donationsReceived": 231,
-    "trophies": 94,
+    "trophies": 117,
     "builderBaseTrophies": 4411,
     "expLevel": 190
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-27T09:12:21.374909+00:00"
+   "last_change": "2026-11-27T10:09:03.095085+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -915,13 +915,13 @@
    "name": "Евгеша",
    "values": {
     "donations": 137,
-    "donationsReceived": 83,
+    "donationsReceived": 166,
     "trophies": 392,
     "builderBaseTrophies": 2960,
     "expLevel": 141
    },
    "first_seen": "2026-11-21T15:13:04.153410+00:00",
-   "last_change": "2026-11-26T17:01:25.030597+00:00"
+   "last_change": "2026-11-27T10:09:03.095085+00:00"
   },
   "#92P802CUP": {
    "name": "GANGSTE",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T09:00:00.045278+00:00"
   }
  },
- "updated": "2026-11-27T09:26:46.252932+00:00"
+ "updated": "2026-11-27T10:09:03.211580+00:00"
 }
