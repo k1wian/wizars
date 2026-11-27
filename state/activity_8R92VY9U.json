@@ -431,14 +431,14 @@
   "#QG0PCCPJ": {
    "name": "данил",
    "values": {
-    "donations": 1292,
+    "donations": 1346,
     "donationsReceived": 0,
     "trophies": 520,
     "builderBaseTrophies": 3293,
     "expLevel": 178
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T14:18:40.547122+00:00"
+   "last_change": "2026-11-27T00:11:52.584049+00:00"
   },
   "#P8RGV2JVY": {
    "name": "Rocks D.Xebec",
@@ -1055,13 +1055,13 @@
    "name": "Derb",
    "values": {
     "donations": 224,
-    "donationsReceived": 436,
+    "donationsReceived": 490,
     "trophies": 237,
     "builderBaseTrophies": 3350,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-27T00:09:50.235698+00:00"
+   "last_change": "2026-11-27T00:11:52.584049+00:00"
   },
   "#G0V8LC8RC": {
    "name": "QazaqKhan",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-27T00:09:50.338721+00:00"
+ "updated": "2026-11-27T00:11:52.697316+00:00"
 }
