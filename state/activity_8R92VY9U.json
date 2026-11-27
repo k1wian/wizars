@@ -175,13 +175,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2604,
-    "donationsReceived": 3278,
+    "donationsReceived": 3280,
     "trophies": 292,
     "builderBaseTrophies": 3792,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T17:01:42.271746+00:00"
+   "last_change": "2026-11-27T17:09:54.261939+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -308,14 +308,14 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 3211,
+    "donations": 3213,
     "donationsReceived": 5134,
     "trophies": 0,
     "builderBaseTrophies": 3566,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T12:27:28.708400+00:00"
+   "last_change": "2026-11-27T17:09:54.261939+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T09:00:00.045278+00:00"
   }
  },
- "updated": "2026-11-27T17:07:51.619918+00:00"
+ "updated": "2026-11-27T17:09:54.416624+00:00"
 }
