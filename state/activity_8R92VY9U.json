@@ -151,13 +151,13 @@
    "name": "пидос-барабос",
    "values": {
     "donations": 2115,
-    "donationsReceived": 1932,
+    "donationsReceived": 2013,
     "trophies": 308,
     "builderBaseTrophies": 4409,
     "expLevel": 222
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T18:33:04.383962+00:00"
+   "last_change": "2026-11-27T19:29:36.120775+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -273,12 +273,12 @@
    "values": {
     "donations": 1457,
     "donationsReceived": 4481,
-    "trophies": 151,
+    "trophies": 159,
     "builderBaseTrophies": 3340,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T18:20:44.949886+00:00"
+   "last_change": "2026-11-27T19:29:36.120775+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -696,14 +696,14 @@
   "#LCGURCCL": {
    "name": "rewero",
    "values": {
-    "donations": 3162,
+    "donations": 3243,
     "donationsReceived": 2472,
     "trophies": 414,
     "builderBaseTrophies": 2812,
     "expLevel": 152
    },
    "first_seen": "2026-11-11T17:27:53.634582+00:00",
-   "last_change": "2026-11-27T18:16:38.548434+00:00"
+   "last_change": "2026-11-27T19:29:36.120775+00:00"
   },
   "#GQYLYGRLP": {
    "name": "KAZAKH",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T17:26:18.596388+00:00"
   }
  },
- "updated": "2026-11-27T18:43:20.839072+00:00"
+ "updated": "2026-11-27T19:29:36.286724+00:00"
 }
