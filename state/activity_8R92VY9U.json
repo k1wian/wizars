@@ -65,14 +65,14 @@
   "#G8RC08CGG": {
    "name": "Lancelot",
    "values": {
-    "donations": 878,
+    "donations": 938,
     "donationsReceived": 0,
-    "trophies": 108,
+    "trophies": 311,
     "builderBaseTrophies": 3056,
     "expLevel": 174
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T23:51:19.847793+00:00"
+   "last_change": "2026-11-27T13:51:34.110353+00:00"
   },
   "#LLUUPVJQ9": {
    "name": "Ukrop",
@@ -199,13 +199,13 @@
    "name": "GAS",
    "values": {
     "donations": 3421,
-    "donationsReceived": 8154,
+    "donationsReceived": 8155,
     "trophies": 342,
     "builderBaseTrophies": 3693,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T12:51:59.676346+00:00"
+   "last_change": "2026-11-27T13:51:34.110353+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -420,13 +420,13 @@
    "name": "KingsZ",
    "values": {
     "donations": 6424,
-    "donationsReceived": 13625,
+    "donationsReceived": 13684,
     "trophies": 80,
     "builderBaseTrophies": 3310,
     "expLevel": 201
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T01:29:39.957806+00:00"
+   "last_change": "2026-11-27T13:51:34.110353+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -837,14 +837,14 @@
   "#QGUJJGJGG": {
    "name": "Doshi",
    "values": {
-    "donations": 568,
-    "donationsReceived": 231,
+    "donations": 587,
+    "donationsReceived": 246,
     "trophies": 117,
     "builderBaseTrophies": 4411,
     "expLevel": 190
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-27T10:09:03.095085+00:00"
+   "last_change": "2026-11-27T13:51:34.110353+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -1055,13 +1055,13 @@
    "name": "Derb",
    "values": {
     "donations": 224,
-    "donationsReceived": 692,
+    "donationsReceived": 696,
     "trophies": 392,
     "builderBaseTrophies": 3351,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-27T12:51:59.676346+00:00"
+   "last_change": "2026-11-27T13:51:34.110353+00:00"
   },
   "#G0V8LC8RC": {
    "name": "QazaqKhan",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T09:00:00.045278+00:00"
   }
  },
- "updated": "2026-11-27T12:54:02.632205+00:00"
+ "updated": "2026-11-27T13:51:34.295630+00:00"
 }
