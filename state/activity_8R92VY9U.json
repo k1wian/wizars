@@ -105,11 +105,11 @@
     "donations": 1259,
     "donationsReceived": 57,
     "trophies": 0,
-    "builderBaseTrophies": 3423,
+    "builderBaseTrophies": 3394,
     "expLevel": 222
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T17:21:53.519081+00:00"
+   "last_change": "2026-11-27T09:16:28.421048+00:00"
   },
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
@@ -609,12 +609,12 @@
    "values": {
     "donations": 436,
     "donationsReceived": 474,
-    "trophies": 20,
+    "trophies": 49,
     "builderBaseTrophies": 3831,
     "expLevel": 193
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-24T05:56:22.527409+00:00"
+   "last_change": "2026-11-27T09:16:28.421048+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T09:00:00.045278+00:00"
   }
  },
- "updated": "2026-11-27T09:14:25.183165+00:00"
+ "updated": "2026-11-27T09:16:28.602737+00:00"
 }
