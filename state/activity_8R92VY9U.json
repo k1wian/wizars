@@ -174,26 +174,26 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 2544,
+    "donations": 2594,
     "donationsReceived": 3144,
     "trophies": 197,
     "builderBaseTrophies": 3792,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T17:01:25.030597+00:00"
+   "last_change": "2026-11-27T03:55:36.166337+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
    "values": {
     "donations": 469,
     "donationsReceived": 0,
-    "trophies": 199,
+    "trophies": 311,
     "builderBaseTrophies": 3519,
     "expLevel": 203
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T02:37:25.086432+00:00"
+   "last_change": "2026-11-27T03:55:36.166337+00:00"
   },
   "#GLYP9PJJ9": {
    "name": "GAS",
@@ -235,13 +235,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 605,
-    "donationsReceived": 2392,
+    "donationsReceived": 2445,
     "trophies": 126,
     "builderBaseTrophies": 2783,
     "expLevel": 167
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T01:13:16.087313+00:00"
+   "last_change": "2026-11-27T03:55:36.166337+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -837,14 +837,14 @@
   "#QGUJJGJGG": {
    "name": "Doshi",
    "values": {
-    "donations": 564,
+    "donations": 567,
     "donationsReceived": 231,
     "trophies": 82,
     "builderBaseTrophies": 4380,
     "expLevel": 189
    },
    "first_seen": "2026-11-19T09:01:06.369207+00:00",
-   "last_change": "2026-11-26T18:16:27.505036+00:00"
+   "last_change": "2026-11-27T03:55:36.166337+00:00"
   },
   "#8PJ8JLG0G": {
    "name": "hhhhh",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-27T03:02:00.941059+00:00"
+ "updated": "2026-11-27T03:55:36.324665+00:00"
 }
