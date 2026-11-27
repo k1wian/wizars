@@ -79,12 +79,12 @@
    "values": {
     "donations": 3033,
     "donationsReceived": 3135,
-    "trophies": 334,
+    "trophies": 353,
     "builderBaseTrophies": 3111,
     "expLevel": 197
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T01:07:07.312736+00:00"
+   "last_change": "2026-11-27T05:18:03.931298+00:00"
   },
   "#LGYRCUVCY": {
    "name": "Sᴇᴋʀᴇᴛ❤️",
@@ -311,11 +311,11 @@
     "donations": 3211,
     "donationsReceived": 5002,
     "trophies": 0,
-    "builderBaseTrophies": 3524,
+    "builderBaseTrophies": 3496,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T05:07:48.939071+00:00"
+   "last_change": "2026-11-27T05:18:03.931298+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-26T08:03:15.704217+00:00"
   }
  },
- "updated": "2026-11-27T05:16:00.724704+00:00"
+ "updated": "2026-11-27T05:18:04.084234+00:00"
 }
