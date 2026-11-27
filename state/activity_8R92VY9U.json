@@ -198,14 +198,14 @@
   "#GLYP9PJJ9": {
    "name": "GAS",
    "values": {
-    "donations": 3266,
+    "donations": 3316,
     "donationsReceived": 7965,
     "trophies": 292,
-    "builderBaseTrophies": 3670,
+    "builderBaseTrophies": 3693,
     "expLevel": 182
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T10:35:43.371664+00:00"
+   "last_change": "2026-11-27T11:21:33.066935+00:00"
   },
   "#G9U9LJC9G": {
    "name": "Navi | Fantasy",
@@ -234,14 +234,14 @@
   "#GPLGJCLJV": {
    "name": "Lazari95",
    "values": {
-    "donations": 605,
+    "donations": 687,
     "donationsReceived": 2445,
-    "trophies": 126,
+    "trophies": 164,
     "builderBaseTrophies": 2783,
     "expLevel": 167
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T03:55:36.166337+00:00"
+   "last_change": "2026-11-27T11:21:33.066935+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -309,13 +309,13 @@
    "name": "H A N I B A L",
    "values": {
     "donations": 3211,
-    "donationsReceived": 5002,
+    "donationsReceived": 5134,
     "trophies": 0,
-    "builderBaseTrophies": 3512,
+    "builderBaseTrophies": 3514,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T06:34:37.383057+00:00"
+   "last_change": "2026-11-27T11:21:33.066935+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -918,10 +918,10 @@
     "donationsReceived": 166,
     "trophies": 392,
     "builderBaseTrophies": 2960,
-    "expLevel": 141
+    "expLevel": 142
    },
    "first_seen": "2026-11-21T15:13:04.153410+00:00",
-   "last_change": "2026-11-27T10:09:03.095085+00:00"
+   "last_change": "2026-11-27T11:21:33.066935+00:00"
   },
   "#92P802CUP": {
    "name": "GANGSTE",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T09:00:00.045278+00:00"
   }
  },
- "updated": "2026-11-27T10:35:43.497624+00:00"
+ "updated": "2026-11-27T11:21:33.229260+00:00"
 }
