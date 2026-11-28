@@ -419,14 +419,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 6488,
+    "donations": 6489,
     "donationsReceived": 13806,
     "trophies": 94,
     "builderBaseTrophies": 3310,
     "expLevel": 201
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T07:20:53.580571+00:00"
+   "last_change": "2026-11-28T07:22:56.918135+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -1055,13 +1055,13 @@
    "name": "Derb",
    "values": {
     "donations": 264,
-    "donationsReceived": 780,
+    "donationsReceived": 781,
     "trophies": 487,
     "builderBaseTrophies": 3398,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-28T05:11:50.293549+00:00"
+   "last_change": "2026-11-28T07:22:56.918135+00:00"
   },
   "#G0V8LC8RC": {
    "name": "QazaqKhan",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-28T07:20:53.742014+00:00"
+ "updated": "2026-11-28T07:22:57.079324+00:00"
 }
