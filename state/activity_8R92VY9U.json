@@ -311,11 +311,11 @@
     "donations": 3213,
     "donationsReceived": 5234,
     "trophies": 0,
-    "builderBaseTrophies": 3560,
+    "builderBaseTrophies": 3522,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T04:07:55.097191+00:00"
+   "last_change": "2026-11-28T04:14:04.840885+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
@@ -609,12 +609,12 @@
    "values": {
     "donations": 486,
     "donationsReceived": 474,
-    "trophies": 298,
+    "trophies": 336,
     "builderBaseTrophies": 3831,
     "expLevel": 193
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-28T04:12:01.648913+00:00"
+   "last_change": "2026-11-28T04:14:04.840885+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-28T04:12:01.819648+00:00"
+ "updated": "2026-11-28T04:14:05.048941+00:00"
 }
