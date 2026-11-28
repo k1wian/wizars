@@ -150,14 +150,14 @@
   "#CVU8VG99": {
    "name": "пидос-барабос",
    "values": {
-    "donations": 2115,
+    "donations": 2165,
     "donationsReceived": 2015,
     "trophies": 308,
     "builderBaseTrophies": 4409,
     "expLevel": 222
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T19:41:54.065083+00:00"
+   "last_change": "2026-11-28T05:09:47.839438+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -175,13 +175,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2604,
-    "donationsReceived": 3310,
+    "donationsReceived": 3360,
     "trophies": 292,
     "builderBaseTrophies": 3792,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T17:14:00.052663+00:00"
+   "last_change": "2026-11-28T05:09:47.839438+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-28T05:07:45.523081+00:00"
+ "updated": "2026-11-28T05:09:47.949809+00:00"
 }
