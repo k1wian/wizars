@@ -151,13 +151,13 @@
    "name": "пидос-барабос",
    "values": {
     "donations": 2165,
-    "donationsReceived": 2098,
+    "donationsReceived": 2177,
     "trophies": 373,
     "builderBaseTrophies": 4409,
     "expLevel": 222
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T07:02:24.411923+00:00"
+   "last_change": "2026-11-28T07:10:37.621480+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -308,26 +308,26 @@
   "#LP2Q080P0": {
    "name": "H A N I B A L",
    "values": {
-    "donations": 3213,
+    "donations": 3402,
     "donationsReceived": 5234,
     "trophies": 0,
     "builderBaseTrophies": 3475,
     "expLevel": 220
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T04:55:25.474924+00:00"
+   "last_change": "2026-11-28T07:10:37.621480+00:00"
   },
   "#G2CUYPRQV": {
    "name": "ZERO",
    "values": {
     "donations": 119,
-    "donationsReceived": 459,
+    "donationsReceived": 569,
     "trophies": 264,
     "builderBaseTrophies": 2906,
     "expLevel": 173
    },
    "first_seen": "2026-11-17T10:59:19.048517+00:00",
-   "last_change": "2026-11-28T07:02:24.411923+00:00"
+   "last_change": "2026-11-28T07:10:37.621480+00:00"
   },
   "#2CY9LV9CQ": {
    "name": "Antony",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-28T07:08:34.696281+00:00"
+ "updated": "2026-11-28T07:10:37.781802+00:00"
 }
