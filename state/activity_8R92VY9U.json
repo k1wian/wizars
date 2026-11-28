@@ -151,13 +151,13 @@
    "name": "пидос-барабос",
    "values": {
     "donations": 2165,
-    "donationsReceived": 2015,
+    "donationsReceived": 2096,
     "trophies": 336,
     "builderBaseTrophies": 4409,
     "expLevel": 222
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T05:15:55.292135+00:00"
+   "last_change": "2026-11-28T05:17:57.555107+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -283,14 +283,14 @@
   "#QUPVR0CU2": {
    "name": "чвв",
    "values": {
-    "donations": 1494,
+    "donations": 1574,
     "donationsReceived": 1775,
     "trophies": 356,
     "builderBaseTrophies": 2972,
     "expLevel": 142
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-26T20:50:55.672533+00:00"
+   "last_change": "2026-11-28T05:17:57.555107+00:00"
   },
   "#20VL0JRV8": {
    "name": "GoldBerg",
@@ -825,14 +825,14 @@
   "#L8CUYRQVY": {
    "name": "キツネanime",
    "values": {
-    "donations": 508,
+    "donations": 509,
     "donationsReceived": 53,
     "trophies": 221,
     "builderBaseTrophies": 2384,
     "expLevel": 152
    },
    "first_seen": "2026-11-17T19:58:40.786963+00:00",
-   "last_change": "2026-11-28T05:11:50.293549+00:00"
+   "last_change": "2026-11-28T05:17:57.555107+00:00"
   },
   "#QGUJJGJGG": {
    "name": "Doshi",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-28T05:15:55.409746+00:00"
+ "updated": "2026-11-28T05:17:57.670944+00:00"
 }
