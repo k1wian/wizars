@@ -102,14 +102,14 @@
   "#9PR09PCV": {
    "name": "шах",
    "values": {
-    "donations": 1374,
+    "donations": 1404,
     "donationsReceived": 57,
     "trophies": 0,
     "builderBaseTrophies": 3442,
     "expLevel": 222
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T10:26:41.854697+00:00"
+   "last_change": "2026-11-28T10:38:56.193473+00:00"
   },
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
@@ -138,14 +138,14 @@
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 3243,
+    "donations": 3296,
     "donationsReceived": 874,
     "trophies": 608,
     "builderBaseTrophies": 3217,
     "expLevel": 190
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T10:34:51.307229+00:00"
+   "last_change": "2026-11-28T10:38:56.193473+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -175,13 +175,13 @@
    "name": "Лорд",
    "values": {
     "donations": 2862,
-    "donationsReceived": 3519,
+    "donationsReceived": 3602,
     "trophies": 429,
     "builderBaseTrophies": 3792,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T10:36:53.888564+00:00"
+   "last_change": "2026-11-28T10:38:56.193473+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -234,14 +234,14 @@
   "#GPLGJCLJV": {
    "name": "Lazari95",
    "values": {
-    "donations": 687,
+    "donations": 690,
     "donationsReceived": 2551,
     "trophies": 204,
     "builderBaseTrophies": 2783,
     "expLevel": 167
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T00:21:55.411190+00:00"
+   "last_change": "2026-11-28T10:38:56.193473+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -608,13 +608,13 @@
    "name": "KNYAZ",
    "values": {
     "donations": 486,
-    "donationsReceived": 584,
+    "donationsReceived": 587,
     "trophies": 367,
     "builderBaseTrophies": 3897,
     "expLevel": 193
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-28T10:26:41.854697+00:00"
+   "last_change": "2026-11-28T10:38:56.193473+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-28T10:36:53.995794+00:00"
+ "updated": "2026-11-28T10:38:56.297234+00:00"
 }
