@@ -421,12 +421,12 @@
    "values": {
     "donations": 6456,
     "donationsReceived": 13806,
-    "trophies": 80,
+    "trophies": 94,
     "builderBaseTrophies": 3310,
     "expLevel": 201
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T20:28:29.923267+00:00"
+   "last_change": "2026-11-28T03:55:34.152804+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -609,12 +609,12 @@
    "values": {
     "donations": 436,
     "donationsReceived": 474,
-    "trophies": 143,
+    "trophies": 155,
     "builderBaseTrophies": 3831,
     "expLevel": 193
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-28T03:53:30.950987+00:00"
+   "last_change": "2026-11-28T03:55:34.152804+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-28T03:53:31.165507+00:00"
+ "updated": "2026-11-28T03:55:34.338034+00:00"
 }
