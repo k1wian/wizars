@@ -609,12 +609,12 @@
    "values": {
     "donations": 436,
     "donationsReceived": 474,
-    "trophies": 155,
+    "trophies": 195,
     "builderBaseTrophies": 3831,
     "expLevel": 193
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-28T03:55:34.152804+00:00"
+   "last_change": "2026-11-28T03:59:41.479460+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-28T03:57:37.892516+00:00"
+ "updated": "2026-11-28T03:59:41.666458+00:00"
 }
