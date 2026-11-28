@@ -151,13 +151,13 @@
    "name": "пидос-барабос",
    "values": {
     "donations": 2165,
-    "donationsReceived": 2177,
+    "donationsReceived": 2179,
     "trophies": 373,
     "builderBaseTrophies": 4409,
     "expLevel": 222
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T07:10:37.621480+00:00"
+   "last_change": "2026-11-28T07:20:53.580571+00:00"
   },
   "#Y829CLVP9": {
    "name": "♡《ALTOXA 》♡",
@@ -272,13 +272,13 @@
    "name": "Sənan",
    "values": {
     "donations": 1459,
-    "donationsReceived": 4564,
+    "donationsReceived": 4594,
     "trophies": 177,
     "builderBaseTrophies": 3340,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T05:54:15.888716+00:00"
+   "last_change": "2026-11-28T07:20:53.580571+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -419,14 +419,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 6456,
+    "donations": 6488,
     "donationsReceived": 13806,
     "trophies": 94,
     "builderBaseTrophies": 3310,
     "expLevel": 201
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T03:55:34.152804+00:00"
+   "last_change": "2026-11-28T07:20:53.580571+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-28T07:18:50.589761+00:00"
+ "updated": "2026-11-28T07:20:53.742014+00:00"
 }
