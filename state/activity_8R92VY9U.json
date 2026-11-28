@@ -18,12 +18,12 @@
    "values": {
     "donations": 1455,
     "donationsReceived": 549,
-    "trophies": 160,
+    "trophies": 172,
     "builderBaseTrophies": 4315,
     "expLevel": 250
    },
    "first_seen": "2026-11-21T11:00:32.502944+00:00",
-   "last_change": "2026-11-27T18:28:58.122260+00:00"
+   "last_change": "2026-11-28T12:17:50.602969+00:00"
   },
   "#828Y2YJYJ": {
    "name": "B.O.T",
@@ -114,14 +114,14 @@
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
-    "donations": 2784,
-    "donationsReceived": 5763,
-    "trophies": 193,
+    "donations": 2873,
+    "donationsReceived": 5812,
+    "trophies": 382,
     "builderBaseTrophies": 3479,
     "expLevel": 216
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T10:34:51.307229+00:00"
+   "last_change": "2026-11-28T12:17:50.602969+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -174,14 +174,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 2862,
-    "donationsReceived": 3602,
-    "trophies": 429,
+    "donations": 2911,
+    "donationsReceived": 3685,
+    "trophies": 523,
     "builderBaseTrophies": 3792,
-    "expLevel": 189
+    "expLevel": 190
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T10:38:56.193473+00:00"
+   "last_change": "2026-11-28T12:17:50.602969+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -419,14 +419,14 @@
   "#9JVVVJGQL": {
    "name": "KingsZ",
    "values": {
-    "donations": 6489,
-    "donationsReceived": 13861,
-    "trophies": 94,
+    "donations": 6572,
+    "donationsReceived": 13950,
+    "trophies": 134,
     "builderBaseTrophies": 3310,
     "expLevel": 201
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T08:28:52.053184+00:00"
+   "last_change": "2026-11-28T12:17:50.602969+00:00"
   },
   "#QG0PCCPJ": {
    "name": "данил",
@@ -1069,13 +1069,13 @@
    "values": {
     "donations": 80,
     "donationsReceived": 187,
-    "trophies": 446,
+    "trophies": 462,
     "builderBaseTrophies": 4078,
     "expLevel": 185
    },
    "first_seen": "2026-11-25T02:44:32.769091+00:00",
-   "last_change": "2026-11-27T19:46:00.066383+00:00"
+   "last_change": "2026-11-28T12:17:50.602969+00:00"
   }
  },
- "updated": "2026-11-28T11:45:45.558415+00:00"
+ "updated": "2026-11-28T12:17:50.697997+00:00"
 }
