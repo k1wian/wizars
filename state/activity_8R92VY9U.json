@@ -176,12 +176,12 @@
    "values": {
     "donations": 2862,
     "donationsReceived": 3519,
-    "trophies": 398,
+    "trophies": 429,
     "builderBaseTrophies": 3792,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T10:34:51.307229+00:00"
+   "last_change": "2026-11-28T10:36:53.888564+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -634,12 +634,12 @@
    "values": {
     "donations": 84,
     "donationsReceived": 83,
-    "trophies": 347,
+    "trophies": 357,
     "builderBaseTrophies": 2795,
     "expLevel": 137
    },
    "first_seen": "2026-11-15T16:51:17.847706+00:00",
-   "last_change": "2026-11-27T17:11:57.130576+00:00"
+   "last_change": "2026-11-28T10:36:53.888564+00:00"
   },
   "#YGLJCCYR9": {
    "name": "Di_MaS_malou_",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-28T10:34:51.418664+00:00"
+ "updated": "2026-11-28T10:36:53.995794+00:00"
 }
