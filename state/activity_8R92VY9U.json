@@ -273,12 +273,12 @@
    "values": {
     "donations": 1459,
     "donationsReceived": 4481,
-    "trophies": 159,
+    "trophies": 177,
     "builderBaseTrophies": 3340,
     "expLevel": 172
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T19:41:54.065083+00:00"
+   "last_change": "2026-11-28T01:51:25.164673+00:00"
   },
   "#QUPVR0CU2": {
    "name": "чвв",
@@ -1056,12 +1056,12 @@
    "values": {
     "donations": 224,
     "donationsReceived": 696,
-    "trophies": 401,
-    "builderBaseTrophies": 3351,
+    "trophies": 429,
+    "builderBaseTrophies": 3398,
     "expLevel": 206
    },
    "first_seen": "2026-11-24T05:58:43.284713+00:00",
-   "last_change": "2026-11-27T21:34:57.432416+00:00"
+   "last_change": "2026-11-28T01:51:25.164673+00:00"
   },
   "#G0V8LC8RC": {
    "name": "QazaqKhan",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-28T00:48:43.600432+00:00"
+ "updated": "2026-11-28T01:51:25.349198+00:00"
 }
