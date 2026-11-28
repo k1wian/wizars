@@ -138,14 +138,14 @@
   "#9VC8PYRLJ": {
    "name": "GANNIK",
    "values": {
-    "donations": 3296,
+    "donations": 3306,
     "donationsReceived": 874,
     "trophies": 608,
     "builderBaseTrophies": 3217,
     "expLevel": 190
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T10:38:56.193473+00:00"
+   "last_change": "2026-11-28T10:40:58.658990+00:00"
   },
   "#CVU8VG99": {
    "name": "пидос-барабос",
@@ -235,13 +235,13 @@
    "name": "Lazari95",
    "values": {
     "donations": 690,
-    "donationsReceived": 2551,
+    "donationsReceived": 2561,
     "trophies": 204,
     "builderBaseTrophies": 2783,
     "expLevel": 167
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T10:38:56.193473+00:00"
+   "last_change": "2026-11-28T10:40:58.658990+00:00"
   },
   "#GPLYRL920": {
    "name": "10.KARMA.44",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-28T10:38:56.297234+00:00"
+ "updated": "2026-11-28T10:40:58.778615+00:00"
 }
