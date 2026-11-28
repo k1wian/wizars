@@ -102,26 +102,26 @@
   "#9PR09PCV": {
    "name": "шах",
    "values": {
-    "donations": 1263,
+    "donations": 1293,
     "donationsReceived": 57,
     "trophies": 0,
     "builderBaseTrophies": 3442,
     "expLevel": 222
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-27T13:59:48.079422+00:00"
+   "last_change": "2026-11-28T10:24:39.609245+00:00"
   },
   "#8VVPJLCJG": {
    "name": "КОЗАЧОК UA",
    "values": {
     "donations": 2784,
-    "donationsReceived": 5730,
+    "donationsReceived": 5760,
     "trophies": 193,
     "builderBaseTrophies": 3479,
     "expLevel": 216
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T10:22:37.149790+00:00"
+   "last_change": "2026-11-28T10:24:39.609245+00:00"
   },
   "#Y929RQ0L2": {
    "name": "Димаш",
@@ -174,14 +174,14 @@
   "#QP8LPLL80": {
    "name": "Лорд",
    "values": {
-    "donations": 2752,
+    "donations": 2802,
     "donationsReceived": 3438,
     "trophies": 332,
     "builderBaseTrophies": 3792,
     "expLevel": 189
    },
    "first_seen": "2026-11-06T17:02:07.539463+00:00",
-   "last_change": "2026-11-28T10:22:37.149790+00:00"
+   "last_change": "2026-11-28T10:24:39.609245+00:00"
   },
   "#9R88GUV9Q": {
    "name": "KILLER F",
@@ -608,13 +608,13 @@
    "name": "KNYAZ",
    "values": {
     "donations": 486,
-    "donationsReceived": 474,
+    "donationsReceived": 524,
     "trophies": 367,
     "builderBaseTrophies": 3897,
     "expLevel": 193
    },
    "first_seen": "2026-11-07T11:34:38.421097+00:00",
-   "last_change": "2026-11-28T04:55:25.474924+00:00"
+   "last_change": "2026-11-28T10:24:39.609245+00:00"
   },
   "#GCU8UV288": {
    "name": "Merknu",
@@ -1076,5 +1076,5 @@
    "last_change": "2026-11-27T19:46:00.066383+00:00"
   }
  },
- "updated": "2026-11-28T10:22:37.258065+00:00"
+ "updated": "2026-11-28T10:24:39.721209+00:00"
 }
